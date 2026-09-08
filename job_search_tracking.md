@@ -1,705 +1,175 @@
 # Security Engineering Job Search Tracking
 
-## Bay Area ten-role application run — 2026-09-07
-
-The user authorized ten additional final submissions. Each role was checked against the existing tracker, reviewed from the live employer description, rated `APPLY` at fit 80+, and submitted through the employer's active application portal. Employer-side success or receipt confirmation was verified for all ten. Hiring outcomes were not reviewed.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / material gaps | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Sentry | Security Engineer, Application Security | dc1e73a4-3cb8-4269-82b5-fdc6495b7e83 / https://jobs.ashbyhq.com/sentry/dc1e73a4-3cb8-4269-82b5-fdc6495b7e83 | 94 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted!`.** Application security, penetration testing, secure coding remediation, threat modeling, incident response and security automation align. Large-scale SaaS AppSec ownership and deeper cloud-native supply-chain tooling are the principal gaps. Work authorization Yes, future sponsorship Yes and three-day hybrid availability Yes were supplied. Do not reapply. | Senior/Staff Security Engineer; Bay Area / hybrid; base $155K–$400K plus equity and up to 20% bonus, est. TC $210K–$520K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/high; U.S. stay **strong YES** at $250K+ TC. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Sierra | Security Engineer | bbef339c-3365-40df-804b-ece245386b43 / https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43 | 95 | **Submitted 2026-09-07; Ashby displayed `Awesome! Your application was successfully submitted.`** Product/platform security, cloud and identity security, detection and response, offensive security, code and architecture review, automation and agentic-AI security align. Direct scaled security-platform ownership and startup zero-to-one depth are the main gaps. Authorization Yes, sponsorship Yes and SF relocation Yes were supplied. Do not reapply. | Senior/Staff Security Engineer; San Francisco; base $230K–$390K plus equity, est. TC $280K–$500K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Nooks | Security Engineer | b2c97a00-5176-4faf-a3b5-9e55f495267a / https://jobs.ashbyhq.com/nooks/b2c97a00-5176-4faf-a3b5-9e55f495267a | 92 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted!`.** Product/AppSec, threat modeling, secure SDLC, detection and response, AI-agent guardrails and prompt-injection awareness align. Direct AWS/GCP security ownership and startup zero-to-one scope are gaps. Work authorization Yes, future H-1B sponsorship Yes and SF relocation Yes were supplied. Do not reapply; Nooks limits candidates to three submissions in 90 days. | Senior Security Engineer; SF/Seattle hybrid or listed U.S. time zones; base $200K–$315K plus equity, est. TC $240K–$400K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium; U.S. stay **YES** if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apollo Research | Security Engineer | 855f584d-08dd-4845-93b8-dbeb6737707d / https://jobs.lever.co/apolloresearch/855f584d-08dd-4845-93b8-dbeb6737707d | 92 | **Submitted 2026-09-07; Lever redirected to the employer's application-submitted page.** Incident response, penetration testing, adversarial analysis, Python, security controls, technical reporting and AI-security study align. Sandbox hardening and direct frontier-agent infrastructure ownership are gaps. The application disclosed F-1 practical-training status, future sponsorship need and willingness to relocate to SF. Do not reapply. | Senior Security Engineer; San Francisco on-site; base $214K–$280K plus equity, est. TC $250K–$380K; employer explicitly states U.S. visa sponsorship; OPT/STEM and H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Security Level 5 | Member of Technical Staff (Security, Engineering, Research) | e9857b2d-5e2e-4426-8886-99af4154f5a0 / https://jobs.ashbyhq.com/security-level-5/e9857b2d-5e2e-4426-8886-99af4154f5a0 | 94 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted.`** Critical-infrastructure defense, APT/malware analysis, red teaming, penetration testing, incident response and government-facing reporting strongly align with defense against nation-state threats. Frontier-model datacenter and large-scale training-infrastructure experience are gaps. AI use in the application was disclosed. Do not reapply. | Senior/Staff MTS; San Francisco on-site; base $200K–$350K, est. TC $200K–$350K plus benefits; OPT/STEM potentially compatible after authorization approval; H-1B likelihood uncertain; U.S. stay **YES** if sponsorship and $250K+ compensation are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Anyscale | Senior Cloud Security Engineer | 63247d0f-5346-4f8e-a2d2-25baf5fd3c3a / https://jobs.ashbyhq.com/anyscale/63247d0f-5346-4f8e-a2d2-25baf5fd3c3a | 82 | **Expansion candidate submitted 2026-09-07; Ashby displayed `Your application was successfully submitted.`** Ten-plus years in security engineering, network security, vulnerability remediation, incident response, Docker and AI/ML context align. Direct AWS/Azure and Kubernetes security ownership, CSPM/runtime tooling, infrastructure-as-code and multi-tenant cloud isolation are material gaps. Hybrid schedule, relocation and sponsorship were answered Yes. Do not reapply. | Senior Cloud Security Engineer; San Francisco hybrid; base $200K–$240K plus equity, est. TC $240K–$330K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **conditional YES** at $250K+ TC with sponsorship. | Kevin_Lee_Resume_Cloud.pdf |
-| Applied Compute | Platform Security Engineer | 8c508d42-1cc2-43ba-95d6-b109b811febb / https://jobs.ashbyhq.com/Applied%20Compute/8c508d42-1cc2-43ba-95d6-b109b811febb | 96 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted.`** Offensive security, threat modeling, secure design, incident response, Python automation, AI/agent security, technical reporting and high-consequence environments align directly. Customer-VPC/multi-tenant cloud ownership, compliance-program completion and startup security-team building are gaps. Do not reapply. | Senior/Lead Platform Security Engineer; San Francisco on-site; base $190K–$310K plus meaningful equity, est. TC $240K–$450K; employer explicitly sponsors visas; OPT/STEM and H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Serval | Security Engineer, Application | c98b5c56-48fc-4da7-9f3f-577bd1aa7aec / https://jobs.ashbyhq.com/Serval/c98b5c56-48fc-4da7-9f3f-577bd1aa7aec | 92 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted.`** Application security, secure software development, vulnerability management, penetration testing, secure remediation, code-level engineering and AI-agent security align. Formal AppSec-team leadership plus deep SAST/DAST/SCA/fuzzing and cloud-native supply-chain ownership are the main gaps. Five-day SF attendance/relocation was answered Yes under the verified recurring availability. Do not reapply. | Senior/Staff Application Security Engineer; San Francisco on-site; base $200K–$325K plus equity, est. TC $250K–$450K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **strong YES** if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apollo Research | Product Security Engineer | c2ee47f7-4fe9-41a7-86fd-ce0a23fe4850 / https://jobs.lever.co/apolloresearch/c2ee47f7-4fe9-41a7-86fd-ce0a23fe4850 | 90 | **Submitted 2026-09-07; Lever displayed `Application submitted!`.** AppSec, incident response, secure remediation, sensitive-system security, technical writing and AI/ML security align. Direct security-vendor product ownership, enterprise buyer conversations, customer questionnaires/whitepapers and cloud-IAM operations are gaps. Practical-training status, sponsorship need and SF relocation were disclosed. Do not reapply. | Senior Product Security Engineer; San Francisco on-site; base $227K–$296K plus equity, est. TC $270K–$400K; employer explicitly states U.S. visa sponsorship; OPT/STEM and H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apollo Research | AI Red Team Engineer | 459b83bf-4e7d-41c5-b93e-c589c6b71bfe / https://jobs.lever.co/apolloresearch/459b83bf-4e7d-41c5-b93e-c589c6b71bfe | 83 | **Expansion candidate submitted 2026-09-07; Lever displayed `Application submitted!`.** Red teaming, penetration testing, adversarial analysis, Python, AI/ML study, independent investigations and technical reporting align. Two-plus years specifically red-teaming AI coding agents, automated monitor-evasion pipelines, LLM-as-judge systems and published AI-safety research are material gaps. Research Engineer was stated as the preferred track. Do not reapply. | AI Red Team / Research Engineer; San Francisco on-site; base $182K–$238K plus equity, est. TC $220K–$330K; employer explicitly states U.S. visa sponsorship; OPT/STEM and H-1B likelihood high; U.S. stay **conditional YES** at $250K+ TC. | Kevin_Lee_Resume_AI.pdf |
-
-The identified portfolio now contains **103 submitted-application records**: the prior 93 plus these ten submissions. Hiring outcomes were not reviewed.
-
-Live-screen exclusions included Mercor Security Engineer, uRun Founding Security Engineer, and Delve Security Engineer because the official Ashby pages returned `Job not found`; Rowspace Corporate IT and Security Engineer was rated below 80 because its core requirements center on macOS fleet, MDM, SSO, SaaS administration and SOC 2 operations rather than the applicant's engineering-security track. No applications were submitted to those roles.
-
-Last checked: 2026-09-07 (America/Los_Angeles)
-
-## Bay Area three-role add-on — 2026-09-07
-
-The user authorized three additional final submissions. Three distinct, previously unsubmitted engineering-track roles were reviewed in full and submitted through their live employer application portals. Ashby displayed a success confirmation for all three.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / material gaps | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Serval | Security Engineer, Detection and Response | 5250c679-d490-407e-bd2e-b8b160c62aac / https://jobs.ashbyhq.com/Serval/5250c679-d490-407e-bd2e-b8b160c62aac | 83 | **Expansion candidate submitted 2026-09-07; Ashby displayed `Your application was successfully submitted`.** Ten-plus years in cybersecurity, IR, malware/APT analysis, threat intelligence, technical reporting and cross-functional response align. The live description is effectively a Detection and Response Lead role; directly hiring, building and mentoring detection/observability/threat-intelligence teams plus deep SIEM/data-lake/EDR program ownership are material gaps. Five-day SF attendance/relocation was answered Yes from the verified recurring office-attendance authorization. Do not reapply. | Lead-level individual contributor / team-building role; San Francisco on-site; base $200K–$325K plus equity, est. TC $250K–$450K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **YES** if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Higgsfield AI | IT Security Engineer | f76f61cf-b346-4bc3-8c87-ef40f81185c6 / https://jobs.ashbyhq.com/higgsfieldai/f76f61cf-b346-4bc3-8c87-ef40f81185c6 | 82 | **Expansion candidate submitted 2026-09-07; Ashby displayed `Your application was successfully submitted`.** Python automation, incident response, networking, Zero Trust concepts and security judgment align. Microsoft Entra ID, Intune/MDM, SCIM/JML, Conditional Access and corporate-SaaS security operations are material gaps. `Yes, H1B Sponsorship` and willingness to relocate for the SF three-day hybrid schedule were selected. Do not reapply. | Mid/Senior IT Security Engineer; SF Bay Area hybrid; base $165K–$250K plus equity, est. TC $210K–$350K; OPT/STEM potentially compatible after authorization approval; the form explicitly offered H-1B sponsorship as an option, so H-1B likelihood medium; U.S. stay **conditional YES** at $240K+ TC. | Kevin_Lee_Resume_Cloud.pdf |
-| Edison Scientific | Security Operations Engineer | 6d89ca9a-ced1-4276-a9c5-b64459635b52 / https://jobs.ashbyhq.com/Edison%20Scientific/6d89ca9a-ced1-4276-a9c5-b64459635b52 | 86 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted`.** IR, APT/malware analysis, AppSec, vulnerability management, IDS/IPS, AI/ML security, Python and technical reporting align. Direct AWS/GCP, Okta/cloud-IAM, Kubernetes/Docker/IaC and SIEM/EDR ownership are the main gaps. Work authorization Yes, future sponsorship Yes and SF relocation/regular office work Yes were supplied. A factual motivation response connected Edison's AI-scientist mission with the applicant's security and graduate AI/ML background. Do not reapply. | Senior/founding Security Operations Engineer; San Francisco hybrid permitted; compensation display is malformed, with indexed base approximately $180K–$250K plus equity, est. TC $230K–$360K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **YES** if sponsorship and $250K+ TC are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-The identified portfolio now contains **93 submitted-application records**: the prior 90 plus these three submissions. Hiring outcomes were not reviewed.
-
-Last checked: 2026-09-07 (America/Los_Angeles)
-
-## Bay Area search and application run — 2026-09-07
-
-Official employer postings and live application portals were checked against all previously tracked requisitions. Seven new qualifying engineering-track applications were submitted, with a success or received state verified for every submission. Hiring outcomes were not reviewed.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / material gaps | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Zoox | Senior Information Security Engineer (Detection, Automation & AI) | 57b8519b-e599-44eb-84dc-403cea7bca49 / https://jobs.lever.co/zoox/57b8519b-e599-44eb-84dc-403cea7bca49 | 93 | **Submitted 2026-09-07; Zoox displayed `Application Received!` (Lever application ID `0ee0ac95-ed75-4e75-be51-9eba24760a37`).** Detection/IR, Python, malware/APT analysis, automation, LLM security and critical-infrastructure work align. Deep Splunk/Elastic, modern SOAR ownership, AWS-native telemetry and incident-command depth remain gaps. Do not reapply. | Senior; Foster City hybrid; base $174K–$237K plus Amazon RSUs, Zoox SARs and possible sign-on, est. TC $230K–$350K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high through Amazon/Zoox history; U.S. stay **strong YES** at $250K+ TC. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Whatnot | Threat Detection and Response Engineer | 2b5b4bc2-6d47-4afd-afcb-72b4879bea1f / https://jobs.ashbyhq.com/whatnot/2b5b4bc2-6d47-4afd-afcb-72b4879bea1f | 89 | **Submitted 2026-09-07; Ashby displayed `Success` and confirmed receipt.** Incident response, forensics, malware analysis, threat intelligence, network evidence and reporting align. Chronicle/Tines, EDR/NDR, multi-cloud AWS/GCP and formal escalation ownership remain gaps. Current Davis location and willingness to relocate to a listed hub were disclosed; work authorization Yes and future sponsorship Yes were answered. Do not reapply. | Senior; San Francisco hub / remote; base $175K–$260K plus equity, est. TC $220K–$350K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium; U.S. stay **YES** if sponsorship and $250K+ TC are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Reflection AI | Member of Technical Staff - Security Engineer | a38f03ad-770c-4c53-be91-0d04171d8ead / https://jobs.ashbyhq.com/reflectionai/a38f03ad-770c-4c53-be91-0d04171d8ead | 87 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted`.** AppSec, pentesting, secure coding, Python, AI security, incident response and threat modeling align. Kubernetes/cloud depth, agent sandbox and identity controls, software-supply-chain tooling, CI/CD SAST deployment and demonstrated 0-to-1 ownership remain gaps. San Francisco office, work authorization Yes, future sponsorship Yes and immediate start were supplied. Do not reapply. | MTS / Senior; San Francisco on-site; compensation unpublished, est. TC $230K–$400K and equity-heavy; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **YES** if sponsorship and $250K+ TC are confirmed. | Kevin_Lee_Resume_AI.pdf |
-| Zoox | Network Security Engineer | 8321d00e-9e2b-4947-a37e-fdbad7dcd637 / https://jobs.lever.co/zoox/8321d00e-9e2b-4947-a37e-fdbad7dcd637 | 89 | **Submitted 2026-09-07; Zoox displayed `Application Received!` (Lever application ID `aa775ed5-b139-4714-9261-1cda2b56637c`).** OT/critical-infrastructure networks, monitoring, IDS/IPS, vulnerability assessment, Python and AI-assisted security align. Palo Alto/Fortinet ownership, Terraform, 802.1X/NAC and direct AWS/GCP network-security operations remain gaps. Do not reapply. | Mid/Senior; Foster City hybrid; base $174K–$237K plus Amazon RSUs, Zoox SARs and possible sign-on, est. TC $230K–$350K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES** at $250K+ TC. | Kevin_Lee_Resume_Network.pdf |
-| Zoox | Senior/Staff Network Security Engineer | 9945ef61-1c15-4cf1-9734-b65944c73757 / https://jobs.lever.co/zoox/9945ef61-1c15-4cf1-9734-b65944c73757 | 86 | **Submitted 2026-09-07; Zoox displayed `Application Received!` (Lever application ID `6f8dcd23-e1bb-487d-b46d-bcf061e3de90`).** Ten-plus years, OT/network security, IDS/IPS, vulnerability analysis and Python align. Deep firewall/NAC/SD-WAN/Terraform ownership and formal mentoring/roadmap leadership are material gaps. Do not reapply. | Senior/Staff; Foster City hybrid; base $198K–$273K plus Amazon RSUs, Zoox SARs and possible sign-on, est. TC $270K–$420K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Network.pdf |
-| Zoox | Senior Software Systems Engineer - Security | f8150234-1695-4ed9-a820-c81e66ca693a / https://jobs.lever.co/zoox/f8150234-1695-4ed9-a820-c81e66ca693a | 82 | **Expansion candidate submitted 2026-09-07; Zoox displayed `Application Received!` (Lever application ID `42e531d7-1536-4260-bb9b-82fc0326476e`).** Critical-infrastructure systems, security risk analysis, vulnerability verification, technical reporting and AI/LLM security align. EPSS/attack-tree quantification, Monte Carlo/Bayesian risk modeling and vehicle-simulator fuzzing are material gaps. Do not reapply. | Senior; Foster City hybrid; base $201K–$276K plus Amazon RSUs, Zoox SARs and possible sign-on, est. TC $280K–$430K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Grow Therapy | Senior/Staff Security Engineer, Incident Response | fa101721-1fba-42ae-a949-5389e82e11c0 / https://jobs.ashbyhq.com/grow-therapy/fa101721-1fba-42ae-a949-5389e82e11c0 | 84 | **Expansion candidate submitted 2026-09-07; Ashby displayed `Success` and thanked the applicant.** IR, threat analysis, automation, reporting and secure architecture align. Deep AWS IAM/Organizations/SCP/CloudTrail/Config, SIEM/EDR/CSPM ownership and infrastructure-as-code remain material gaps. Future sponsorship Yes, Male, Asian and not a protected veteran were supplied. Do not reapply. | Senior/Staff; SF three-day hybrid or U.S. remote; hybrid base $217K–$288K plus equity, est. TC $270K–$400K; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay **YES** if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-Closed, held, or non-qualifying findings from this run:
-
-- WRITER — Security Engineer, Detection and Response (`1025b4ab-3365-40af-a8e1-bd4383b6158d`): the previously indexed description remained in search results, but both canonical Ashby application URLs now resolve to a generic `Jobs` page with no role or form; treated as closed and not submitted.
-- Airbnb — Security Engineer, Threat Detection & Response (`7867679`): the official employer page returns HTTP 404; not submitted.
-- Applied Intuition — Product Security Engineer (`ebefd035-a582-4dac-b11a-613737a6ea89`): fit 83, but the live posting requires primary in-office work five days per week and publishes only $133K–$190K base plus equity. Held due to office-schedule and compensation opportunity cost; not submitted.
-- Roblox — Principal Security Software Engineer, Application Security (`7789332`) and Senior Security Software Engineer, Application Security (`7896293`): strong technical fit, but Roblox warns that it may not support future H-1B sponsorship for these roles. The existing sponsorship HOLD remains; no application was submitted.
-- Uber — Senior Security Engineer, AI & Agentic Systems (`154042`): the official page now returns HTTP 404; not submitted.
-
-The identified portfolio now contains **90 submitted-application records**: the prior 83 plus seven submissions in this run. Hiring outcomes remain unchanged and were intentionally excluded.
-
-Last checked: 2026-09-07 (America/Los_Angeles)
-
-## Big-tech expansion continuation — 2026-09-07
-
-Hiring outcomes were not reviewed. Official job descriptions and live application portals were checked against all tracked requisitions. Seven additional qualifying engineering-track applications were submitted, and an employer-side success or received state was verified for each one.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / material gaps | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Amazon | Senior Security Engineer, AI Red Team, Threat Operations | 10412446 / https://www.amazon.jobs/en/jobs/10412446/senior-security-engineer-ai-red-team-threat-operations | 97 | **Submitted 2026-09-07; Amazon displayed `Thank you for your application` with `result=success`.** Offensive security, red teaming, penetration testing, vulnerability discovery, attacker lateral movement, Python automation, AI/ML security, APT analysis and technical reporting align directly. Deep AWS/cloud/container and distributed training/inference infrastructure ownership and public security research are gaps. Do not reapply. | Senior Security Engineer; USA Virtual; base $178.4K–$226.7K plus sign-on/RSUs, est. TC $250K–$370K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Senior Security Engineer, Corporate Services Security | 10524826 / https://www.amazon.jobs/en/jobs/10524826/senior-security-engineer-corporate-services-security | 90 | **Submitted 2026-09-07; Amazon success page verified.** AppSec, architecture/design review, threat modeling, manual code review, penetration-test scoping, findings and remediation, and GenAI security automation align. Formal mentor/technical-lead experience and service-oriented/microservices security were answered No because they are not established in the source resumes. Do not reapply. | Senior Security Engineer; Boston; base $178.4K–$226.7K plus sign-on/RSUs, est. TC $250K–$360K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **YES**, with location opportunity cost. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Security Engineer II, Global Media and Entertainment Security | 10512097 / https://www.amazon.jobs/en/jobs/10512097/security-engineer-ii-global-media-and-entertainment-security | 96 | **Submitted 2026-09-07; Amazon success page verified.** Security design reviews, secure architecture/coding, automated guardrails, incident response, threat detection, security tooling, AI/ML and Python/Java/C++ align. Cloud-at-scale and media-environment ownership are the main gaps. Do not reapply. | Mid/Senior Security Engineer; Denver; base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **conditional YES** at TC $240K+ because of location. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Sr Automation & Intelligence Tools Engineer, SEAR | 200676748-0836 / https://jobs.apple.com/en-us/details/200676748-0836/sr-automation-intelligence-tools-engineer-sear | 85 | **Submitted 2026-09-07; Apple confirmed `Your information has been submitted`.** Python, security engineering, verification strategy, AI-assisted development and automation align. Swift/Objective-C, Xcode/XCTest, large-scale CI/test-harness ownership and production agentic/MCP developer tooling are material gaps. Do not reapply. | Senior Engineer; Cupertino; base $216.2K–$324.8K plus bonus/RSUs, est. TC $300K–$500K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_AI.pdf |
-| NVIDIA | Senior Security Engineer, RTOS and Virtualization | JR2023153 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Engineer--RTOS-and-Virtualization_JR2023153 | 82 | **Submitted 2026-09-07; NVIDIA Candidate Home shows `Application Received`.** C/C++, critical-infrastructure security, threat modeling, vulnerability analysis, code review and remediation align. RTOS/hypervisor/kernel/firmware, MMU/IOMMU/DMA/boot isolation, automotive TARA, ISO/SAE 21434 and ISO 26262 are substantial expansion gaps. Do not reapply. | L4/L5; Santa Clara or U.S. Remote among listed locations; base $184K–$356.5K plus equity, est. TC $280K–$550K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| NVIDIA | Senior AI Security Researcher | JR2017578 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-AI-Security-Researcher_JR2017578 | 83 | **Submitted 2026-09-07; NVIDIA displayed `Application Submitted` and `successfully submitted`.** AI/ML security, malware/APT analysis, offensive security, threat hunting, incident response, Python and applied research align. The role asks for 12+ years, a demonstrated public/original-research record, production-scale security ML systems and major-model/platform research leadership, which are material expansion risks. Do not reapply. | L5/L6; multiple U.S. remote locations; base $224K–$431.25K plus equity, est. TC $330K–$650K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_AI.pdf |
-| NVIDIA | Senior Offensive Security Engineer, Automotive | JR2022838 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Offensive-Security-Engineer--Automotive_JR2022838-1 | 84 | **Submitted 2026-09-07; NVIDIA displayed `Application Submitted` and `successfully submitted`.** Penetration testing, red teaming, vulnerability analysis, malware/APT tradecraft, C/C++, Python, security automation and remediation align. OS internals, kernels/hypervisors/firmware, embedded development, x86/ARM, fuzzing infrastructure and production agentic-AI orchestration are material gaps. Do not reapply. | L4/L5; Santa Clara; base $184K–$356.5K plus equity, est. TC $280K–$550K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-Closed, duplicate, ineligible, or below-threshold findings:
-
-- Amazon — Software Engineer, Abuse Prevention, Devices and Services Security (`10513831`): initial fit estimate was reduced to 78 after the live application exposed explicit required-experience questions. The source resumes do not establish five years of server-side development or two years building large-scale multi-tiered, multithreaded, embedded, or distributed systems. The draft was not submitted.
-- Amazon — Senior SDE, Leo Security (`10502742`): the posting requires U.S.-person export-control status (U.S. citizen/national, permanent resident, refugee, or asylee); not eligible and not submitted.
-- Amazon — Security Systems Engineer, AWS Infrastructure Security Products & Solutions (`10529464`): fit below 80 because the core work is physical-security hardware, embedded firmware/bootloaders and large-scale camera/access-control systems; not submitted.
-- Palo Alto Networks — Principal Offensive Security Engineer (`JR-017596`) and Senior Staff InfoSec Engineer, AI & ASM (`JR-020056`): both official postings explicitly state that immigration sponsorship is unavailable; not submitted.
-- NVIDIA — Information Security Engineer (`JR2017109`), Senior Security Engineer, Detection Engineering (`JR2022836`), and Senior Cyber Security Engineer, Vulnerability Operation (`JR2021418`): search-index results were stale; each official Workday page displayed `The page you are looking for doesn't exist`; not submitted.
-- Tesla — Product Security Engineer (`225531`), Security Engineer, Red Team (`225532`), and Sr. Security Engineer, Fleetnet (`256901`) were unchanged and already submitted; no duplicate application was created. Embedded Security Engineer (`226451`) remains below threshold because kernel/bootloader, HSM, TrustZone, Secure Boot and PKI implementation depth is not established.
-
-The identified portfolio now contains **83 submitted-application records**: the prior 76 plus seven submissions in this continuation. Hiring outcomes remain unchanged and were intentionally excluded from this search-and-apply run.
-
-Last checked: 2026-09-07 (America/Los_Angeles)
-
-This file prevents unchanged roles from being reported or prepared again. No prior application or report tracker was present when this file was created. Application status remains `not submitted` unless the user confirms otherwise.
-
-## `굿모닝~` workflow trigger
-
-- When the user sends `굿모닝~`, treat that message as authorization to run the job-search workflow for that run: search current employer career sites and reputable listings, screen against the established fit/location/compensation/immigration criteria, avoid duplicates and previously submitted roles, select the closest existing base resume, complete accessible applications with verified answers, submit qualifying applications, verify submission receipts, and update this tracker.
-- The `굿모닝~` message itself is fresh final-submission approval for every qualifying application discovered and prepared during that specific run; do not request an additional final-submit confirmation for those applications.
-- Proceed only with engineering-track roles rated `APPLY` with fit 80+, prioritizing fit 85+ before 80–84 expansion candidates.
-- Never invent factual, legal, immigration, export-control, clearance, criminal-history, compensation, certification, or employer-specific answers. If an exact required answer is not established, or login, CAPTCHA, MFA, identity verification, or a new material agreement blocks progress, preserve the prepared application without submitting it and report the exact blocker.
-- Use only the `yhylee@ucdavis.edu` UC Davis mailbox when verifying submission receipts.
-- Exclude hiring-outcome review from the `굿모닝~` workflow: do not search for, interpret, or update interview invitations, advancement decisions, offers, rejections, or other pass/fail outcomes unless the user separately asks for a status or mailbox audit.
-
-## Resume source of truth
-
-## `굿나잇~` workflow trigger
-
-- When the user sends `굿나잇~`, open and search only the `yhylee@ucdavis.edu` UC Davis mailbox for recruiting and application-status messages, then reconcile those messages against every application recorded in this tracker.
-- Do not rely on a single outcome-keyword query. First review all newly received inbox messages since the prior audit, including direct messages from individual recruiters and known employer/recruiting domains, then use multiple subject-and-body searches as a cross-check.
-- Treat recruiter phrasing such as `interest`, `connect`, `chat`, `call`, `availability`, `schedule`, `next step`, and similar wording as possible interview progression even when the email never uses `interview`, `application`, or a requisition title. Inspect every such new thread before closing the audit.
-- Use the following broad recruiting-email keyword bank for subject-and-body searches. Search overlapping groups rather than placing every term into one query, and also inspect new messages without keyword matches. Keywords are discovery signals only; open the full thread and require explicit evidence before assigning a stage or outcome.
-  - Initial recruiter outreach / screen: `recruiter`, `recruiting team`, `talent acquisition`, `sourcer`, `hiring team`, `hiring manager`, `interest in`, `interested in speaking`, `connect`, `connect with you`, `introductory call`, `introduction call`, `intro call`, `quick chat`, `brief chat`, `phone chat`, `phone call`, `15 minute call`, `30 minute call`, `screen`, `screening`, `recruiter screen`, `phone screen`, `exploratory call`, `career conversation`, `learn more about you`, `discuss your background`, `discuss the role`, `availability`, `available times`, `schedule`, `scheduling`, `calendar`, `calendar invite`, `Calendly`, `GoodTime`, `ModernLoop`, `schedule a time`, `find time`, `book a time`, `meet with`, `conversation`, `touch base`, `follow up`, `reach out`, `next step`, `next steps`.
-  - Application review / advancement: `application update`, `status update`, `application status`, `application review`, `under review`, `in review`, `being considered`, `under consideration`, `moving forward`, `move forward`, `progressing`, `progress with`, `advance`, `advancing`, `selected`, `shortlisted`, `qualified`, `proceed`, `continue the process`, `continue with your candidacy`, `next stage`, `next round`, `invite`, `invitation`, `candidate`, `candidacy`, `great news`, `good news`, `pleased to`, `excited to`, `would like to speak`, `would like to meet`, `would love to connect`.
-  - Assessments / homework: `assessment`, `online assessment`, `hiring assessment`, `technical assessment`, `coding assessment`, `coding challenge`, `take-home`, `take home`, `homework`, `exercise`, `technical exercise`, `security exercise`, `case study`, `case exercise`, `work sample`, `questionnaire`, `quiz`, `test`, `exam`, `HackerRank`, `CodeSignal`, `CoderPad`, `Codility`, `Karat`, `Karat interview`, `SHL`, `Criteria`, `Plum`, `Wonderlic`, `complete by`, `deadline`, `assessment reminder`, `assessment result`, `passed the assessment`.
-  - Interview scheduling / logistics: `interview`, `interview request`, `interview invitation`, `interview availability`, `interview schedule`, `schedule your interview`, `confirm your interview`, `interview confirmation`, `interview details`, `interview agenda`, `interview plan`, `interview loop`, `virtual interview`, `onsite interview`, `on-site interview`, `in-person interview`, `video interview`, `Zoom interview`, `Google Meet`, `Microsoft Teams`, `Webex`, `Chime`, `meeting link`, `conference link`, `dial-in`, `time zone`, `reschedule`, `rescheduling`, `cancelled interview`, `canceled interview`, `interview reminder`, `preparation`, `interview prep`, `what to expect`, `day of interview`, `travel arrangements`, `candidate travel`, `expense reimbursement`.
-  - Interview rounds / participants: `first interview`, `first-round`, `round 1`, `interview 1`, `recruiter interview`, `hiring manager interview`, `technical interview`, `coding interview`, `security interview`, `system design`, `architecture interview`, `behavioral interview`, `values interview`, `culture interview`, `panel interview`, `team interview`, `peer interview`, `cross-functional interview`, `case interview`, `presentation interview`, `final interview`, `final round`, `final-round`, `onsite loop`, `virtual onsite`, `interview panel`, `interviewers`, `meet the team`, `meet the hiring manager`, `executive interview`, `bar raiser`, `debrief`, `feedback call`.
-  - Post-interview follow-up: `thank you for interviewing`, `thanks for speaking`, `thank you for your time`, `interview feedback`, `feedback`, `post-interview`, `following your interview`, `after your interview`, `decision timeline`, `still interviewing`, `still considering`, `additional interview`, `another interview`, `follow-up interview`, `reference check`, `references`, `professional references`, `employment verification`, `education verification`, `background check`, `background screening`, `pre-employment screening`, `drug screening`, `right to work`, `I-9`, `E-Verify`, `work authorization`, `immigration`, `visa`, `sponsorship`, `export control`, `conflict of interest`, `compliance review`, `candidate information form`.
-  - Offer / pre-offer: `offer`, `job offer`, `offer letter`, `written offer`, `verbal offer`, `offer discussion`, `offer call`, `compensation discussion`, `compensation package`, `salary`, `base salary`, `bonus`, `equity`, `RSU`, `stock options`, `total compensation`, `sign-on bonus`, `signing bonus`, `start date`, `proposed start date`, `relocation`, `relocation package`, `benefits`, `employment agreement`, `contingent offer`, `conditional offer`, `pre-offer`, `intent to offer`, `offer approval`, `approved offer`, `congratulations`, `welcome to`, `welcome aboard`, `joining`, `onboarding`, `new hire`, `background check initiated`, `accept offer`, `decline offer`, `offer deadline`, `offer expiration`.
-  - Rejection / closure: `unfortunately`, `regret to inform`, `not moving forward`, `not move forward`, `will not move forward`, `decided not to proceed`, `other candidates`, `progress with other candidates`, `pursue other candidates`, `selected another candidate`, `not selected`, `not chosen`, `unable to proceed`, `cannot proceed`, `decline your application`, `application declined`, `rejected`, `rejection`, `no longer under consideration`, `position has been filled`, `role has been filled`, `position closed`, `role closed`, `job closed`, `requisition closed`, `position cancelled`, `position canceled`, `role cancelled`, `role canceled`, `hiring paused`, `hiring freeze`, `withdrawn`, `application withdrawn`, `not a match`, `not the right fit`, `keep your resume`, `future opportunities`, `talent community`.
-  - Hold / delay / ambiguity: `on hold`, `hold`, `paused`, `delay`, `delayed`, `timeline changed`, `headcount`, `budget approval`, `reorganization`, `reorg`, `pending approval`, `awaiting approval`, `still under review`, `no update`, `stay tuned`, `keep you posted`, `circle back`, `reconnect`, `future role`, `future opening`, `talent pool`, `evergreen`, `pipeline`, `consider you for another role`, `transfer your application`, `different role`, `alternate role`, `another opportunity`.
-  - Korean equivalents: `채용`, `채용담당자`, `리크루터`, `지원`, `지원서`, `지원 현황`, `서류 검토`, `검토 중`, `서류 합격`, `서류 전형`, `전형 결과`, `다음 단계`, `다음 절차`, `통화`, `전화`, `전화 인터뷰`, `전화 면접`, `커피챗`, `미팅`, `면담`, `인터뷰`, `면접`, `면접 일정`, `일정 조율`, `가능 시간`, `캘린더 초대`, `화상 면접`, `온라인 면접`, `대면 면접`, `1차 면접`, `2차 면접`, `기술 면접`, `코딩 테스트`, `과제`, `사전 과제`, `직무 테스트`, `인성 검사`, `채용 평가`, `면접관`, `면접 안내`, `면접 준비`, `최종 면접`, `레퍼런스 체크`, `평판 조회`, `신원 조회`, `백그라운드 체크`, `처우 협의`, `연봉 협상`, `보상`, `오퍼`, `오퍼레터`, `채용 제안`, `최종 합격`, `입사`, `입사일`, `온보딩`, `불합격`, `탈락`, `다른 지원자`, `채용 종료`, `공고 마감`, `채용 보류`, `검토 지연`.
-- Also search common recruiting and scheduling sender/domain patterns even if the message text is generic: individual employer addresses plus `recruit`, `recruiting`, `recruiter`, `talent`, `careers`, `jobs`, `hiring`, `hr`, `people`, `staffing`, `greenhouse`, `ashby`, `workday`, `lever`, `smartrecruiters`, `icims`, `jobvite`, `successfactors`, `eightfold`, `goodtime`, `modernloop`, `calendly`, `hackerrank`, `codesignal`, `coderpad`, `codility`, and `checkr`.
-- Determine outcomes only from explicit employer messages or portal evidence. Do not infer acceptance, rejection, or interview progression from silence, generic recruiting content, or an ambiguous email.
-- Update each tracked application with the latest verified status and relevant date. Preserve the original application date separately from later decision or interview dates.
-- Report the complete application portfolio as a readable list or table, including at minimum: employer and role, application date, acceptance/rejection outcome, and current stage.
-- Use the following normalized current-stage labels where applicable: `지원 완료 / 검토 중`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, and `상태 불명`.
-- If the application date, exact role mapping, interview round, or decision basis cannot be verified, show `미확인` rather than guessing and identify the ambiguous message separately.
-- `굿나잇~` authorizes read-only mailbox and portal checks plus updates to this local tracker. It does not authorize replying to recruiters, scheduling interviews, accepting an offer, withdrawing an application, or making any other external commitment.
-
-Use resumes in the current project folder `C:\Users\user\Desktop\CV`, rather than conversation attachments. The primary factual sources are `Origin_Kevin_Lee_Resume.pdf` and `Kevin_Lee_Resume_AI.pdf`. Existing role-specific resumes in this folder may be used for structure and emphasis, but they must not override or add facts beyond those primary source PDFs. Re-scan the folder on each run so that later user updates become the current source of truth.
-
-For cover letters, personal statements, motivation responses, and values-based prompts, also use `application_writing_source.md` as user-supplied factual source material. Tailor the emphasis to the prompt without inventing or expanding facts.
-
-## Verified recurring application answers
-
-- Legal name: Yonghyeon Lee.
-- Preferred name: Kevin.
-- Email: yhylee@ucdavis.edu.
-- Use only the `yhylee@ucdavis.edu` UC Davis mailbox for all future recruiting-email searches, application-status audits, and employer correspondence checks. Do not use or infer status from any other connected mailbox.
-- Phone: +1 530-376-9732.
-- Country: United States.
-- Current address: 500 Primero Grove, Apt. 106, Davis, CA 95616, United States.
-- Use this exact address as the default for all future applications unless the user provides a newer address.
-- Current location: Davis, California, United States.
-- Earliest start: After the required CPT or OPT employment authorization is approved.
-- General application answer for U.S. work authorization: `Yes`, as explicitly directed by the user on 2026-08-31 based on anticipated F-1 practical-training eligibility.
-- Current CPT/OPT approval status remains: not yet approved and never previously used. If an application specifically asks whether CPT, OPT, an EAD, or other employment authorization is currently approved, active, or issued, answer from that status rather than treating the general `Yes` answer as proof of an existing authorization document.
-- Future employment visa sponsorship required: Yes.
-- Open to relocation: Yes.
-- Able to work in person at least 25% of the time and from a U.S. office three days per week: Yes.
-- Able to meet an advertised in-office requirement of four or more days per week, with or without an accommodation: Yes.
-- For materially equivalent office-attendance, hybrid-work, or relocation-availability questions on future applications, answer `Yes`.
-- Standard willingness/ability questions about complying with employer policies, export-control procedures, background-check processes, confidentiality/NDA terms, arbitration terms, applicant certifications, and ordinary legal acknowledgments may be answered in the application-compatible direction (`Yes`, `I agree`, or the materially equivalent option).
-- This authorization does not permit inventing a factual status. Do not claim U.S. citizenship, U.S.-person status, current CPT/OPT authorization, an existing security clearance, a criminal-history fact, or another credential/status that is not established by the source records. Answer factual status questions consistently with the verified F-1 status, currently unapproved CPT/OPT, and future sponsorship requirement.
-- Continue to stop before final submission and obtain fresh per-application approval.
-- LinkedIn: https://www.linkedin.com/in/kevin-lee-b78448388/
-- GitHub: https://github.com/section9-us
-- Gender: Male.
-- Hispanic/Latino: No.
-- Race: Asian / Asian (Not Hispanic or Latino).
-- Protected veteran: No / not a protected veteran.
-- Disability: No; does not have and has not had a disability.
-- These recurring factual answers may be selected automatically on future applications. Standard policy acknowledgments, arbitration/NDA terms, applicant certifications, background-check consent, and willingness to comply with export-control procedures may also be accepted as authorized above. Questions asking for a specific factual status, credential, compensation term, criminal-history fact, citizenship/U.S.-person classification, or existing clearance must still be answered from verified records rather than inferred.
-- For future applications, automatically answer legal, immigration, employment-status, and eligibility questions when they are materially equivalent to answers already verified in this tracker or in a previously completed application. This includes selecting the application-compatible equivalent wording without asking again.
-- Current verified status mapping for those questions: legally authorized to work in the United States `Yes` under the user's directed general application answer; future sponsorship `Yes`; current CPT/OPT/EAD already approved or issued `No`; prior CPT/OPT use `No` / zero months; unrestricted or permanent U.S. work authorization `No`; U.S. citizenship or U.S.-person status `No`; citizenship `Republic of Korea`; permanent residence in another country `No`; restrictive employment/noncompete agreement `No`; prior Amazon, Alphabet, Snap, or other specifically recorded employer employment `No`; protected veteran `No`; disability `No`. Government-employment questions must reflect the source resumes: current direct employee of the Republic of Korea Ministry of Science and ICT (`Yes, current government employee`). The older Ring answer recorded as `Never` conflicts with the source resumes and must not be reused.
-- Automatically accept ordinary arbitration, confidentiality/NDA, background-check, applicant-certification, privacy, truthfulness, interview-policy, and export-control-compliance acknowledgments in the affirmative when they do not require claiming an unverified factual status.
-- Amazon/government-employment certification: the user confirmed on 2026-09-02 that the current Republic of Korea government employment permits employment discussions with Amazon and/or its subsidiaries. For materially identical future Amazon questions, answer `Yes` and certify that employment discussions are permitted.
-- If a new question requires a fact not established by the source records or prior answers, or materially changes the meaning of a prior answer, do not guess; preserve that application and report the exact unresolved question.
-
-### Verified Anthropic-specific answers
-
-- Have you ever interviewed at Anthropic before?: `No`.
-- Please read the arbitration agreement below: `I will read the arbitration agreement below.`
-- Agreement to Arbitrate: `I understand and agree to the terms of the Agreement to Arbitrate.`
-- When was the last time you wrote code professionally?: `Within the last 6 months`.
-- Reuse these answers for future Anthropic applications unless the user provides an update or the wording materially changes.
-
-### Verified employer-specific answers
-
-- Scale AI — current/former-employer agreements that may restrict work for Scale AI: `No`.
-- Scale AI — legally authorized to work in the job country: historically answered `Yes` on the submitted application; do not reuse this as a future default while CPT/OPT remains unapproved.
-- Scale AI — current or future sponsorship required to retain or extend work authorization: `Yes`.
-- Snap — ever worked for Snap Inc. or any subsidiary: `No`.
-- Reuse these answers only when the employer and wording remain materially equivalent.
-
-## Resume selection rule
-
-- Do not create a new company-specific resume for each application.
-- Select the closest existing base resume from `Kevin_Lee_Resume_AI.pdf`, `Kevin_Lee_Resume_Cybersecurity.pdf`, `Kevin_Lee_Resume_Network.pdf`, `Kevin_Lee_Resume_Cloud.pdf`, `Kevin_Lee_Resume_PM.pdf`, or `Origin_Kevin_Lee_Resume.pdf`.
-- Use the base variant that best matches the job track. For blended roles, prioritize the role's core engineering function rather than the employer name.
-
-## Cover letter format rule
-
-- Store all generated cover-letter source files, PDFs, and related build artifacts under `cover_letters/` rather than in the project root.
-- Start directly with `Dear [Company] Hiring Team,`.
-- Do not include a personal contact header, location, email, phone number, date, company mailing address, or `Re:` subject line.
-- Use Times New Roman, 12-point type, 1.5 line spacing, and fill one page unless the application explicitly requests another format or word limit.
-- Keep the writing role-focused and avoid unsupported claims.
-
-## Reusable written response
-
-For general values or meaningful-work prompts, reuse this verified example unless the employer asks for a different topic:
-
-> One meaningful example was initiating a 2023 research project on cyber incident response for critical infrastructure in collaboration with the Korea Internet & Security Agency. We analyzed hacking infrastructure used by international threat groups and explored how AI and data analytics could help predict, detect, and mitigate attacks. I pursued this work because I believe security engineering should ultimately protect people and the essential systems they depend on, especially power, transportation, and other critical services where a cyberattack can cause consequences far beyond a single organization. The project required connecting attack evidence, vulnerability analysis, and data-driven investigation to practical response strategies while collaborating across organizational boundaries. It reinforced the importance of careful technical judgment, persistence under uncertainty, and communicating results in a form that decision-makers can act on. What made the work meaningful to me was not only its technical complexity, but its potential to reduce real harm and strengthen public resilience. It reflects the value that has guided my career: using engineering expertise responsibly and focusing on outcomes that benefit society.
-
-| Employer | Role | Requisition / URL | Fit | Status | Tailored resume |
-|---|---|---|---:|---|---|
-| Anthropic | Staff+ Application Security Engineer | 4502508008 / https://job-boards.greenhouse.io/anthropic/jobs/4502508008 | 88 | Submitted on 2026-08-28; role-specific Anthropic confirmation email verified during the 2026-08-29 manual audit; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Security Engineer - Apple Pay | 200667427 / https://jobs.apple.com/en-us/details/200667427-0157/security-engineer-apple-pay | 90 | Portal reports Submitted; status re-verified after fresh Apple Account sign-in on 2026-08-28; no final-submit click was performed by Codex; do not reapply | Kevin_Lee_Resume_Apple_Security_Engineer_Apple_Pay.pdf (historical submitted file; archived during cleanup) |
-| OpenAI | Security Engineer, Detection and Response | f956b77c-3cc5-4fdd-9463-2a6e5047e57c / https://openai.com/careers/security-engineer-detection-and-response-san-francisco/ | 86 | Submitted by 2026-08-28; OpenAI confirmation email and matching application-session timing verified during the 2026-08-29 manual audit; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Anthropic | Security Software Engineer, Detection & Response Platform | 4595463008 / https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | 82 | First confirmation received 2026-08-29 and a duplicate confirmation received 2026-08-30. Rejected on 2026-08-31. Anthropic follow-up email states the application will not move forward; do not reapply to this requisition. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Waymo | Senior Security Engineer | 3658 / https://careers.withwaymo.com/jobs/senior-security-engineer-mountain-view-california-united-states | 85 | Submitted on 2026-08-28; role-specific Waymo confirmation email verified during the 2026-08-29 manual audit; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf; cover_letters/Waymo_Senior_Security_Engineer_Cover_Letter.pdf |
-
-## Newly shortlisted, not yet prepared
-
-Screened on 2026-08-28. These are new relative to the roles above; no application was started and no tailored resume was created during the screening-only run.
-
-| Employer | Role | Requisition / URL | Fit | Status |
-|---|---|---|---:|---|
-| Tesla | Security Engineer, Red Team, Vehicle Software | 225532 / https://www.tesla.com/careers/search/job/security-engineer-red-team-vehicle-software--225532 | 94 | Submitted manually by user on 2026-08-28; do not reapply |
-| NVIDIA | Security Research Engineer, AI Safety and Security Engineering | JR2021887 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Research-Engineer--AI-Safety-and-Security-Engineering_JR2021887 | 95 | Posting removed again: direct Workday application page displayed `The page you are looking for doesn't exist` during the 2026-08-30 application attempt; not submitted. |
-| NVIDIA | Senior Software Engineer, Security | JR2018245 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Architect_JR2018245 | 82 | Submitted / NVIDIA Candidate Home shows `Application Received` on 2026-08-30; exact submission date not displayed |
-| OpenAI | Security Engineer, Application Security | 0322d6d8-6588-4209-a304-83e768063a25 / https://openai.com/careers/security-engineer-application-security-san-francisco/ | 94 | Submitted on 2026-08-29; one of three consecutive OpenAI confirmations at 10:43-10:45 AM, matching the three application sessions prepared immediately beforehand; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| OpenAI | Security Engineer, Insider Threat Detection & Response | f84dbb5c-6008-40f1-b388-1434d159d4a4 / https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/ | 90 | Submitted on 2026-08-29; one of three consecutive OpenAI confirmations at 10:43-10:45 AM, matching the three application sessions prepared immediately beforehand; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| OpenAI | Offensive Security Engineer, Agent Products | bb97fffc-cdda-43a3-a6bc-234f9c031720 / https://jobs.ashbyhq.com/openai/bb97fffc-cdda-43a3-a6bc-234f9c031720/ | 88 | Submitted on 2026-08-29; one of three consecutive OpenAI confirmations at 10:43-10:45 AM, matching the three application sessions prepared immediately beforehand; Principal-level and cloud-native/agent-security depth remain material fit risks; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Offensive Security Researcher, SEAR | 200659973-0836 / https://jobs.apple.com/en-us/details/200659973-0836/offensive-security-researcher-sear | 87 | Submitted manually by user on 2026-08-29; do not reapply | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Anthropic | Staff+ Application Security Engineer - M&A | 5311463008 / https://job-boards.greenhouse.io/anthropic/jobs/5311463008 | 84 | First confirmation received 2026-08-29 and a duplicate confirmation received 2026-08-30; still pending. Do not reapply. M&A diligence and post-acquisition integration remain material fit gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Platform Engineer - Security (Platform Architecture) | 200667725-0836 / https://jobs.apple.com/en-us/details/200667725-0836/platform-engineer-security-platform-architecture | 82 | Submitted manually by user on 2026-08-30; do not reapply. Cybersecurity base resume used. Secure boot, platform primitives, and hardware-rooted architecture remain material fit gaps. |
-| OpenAI | Security Engineer, Agent Security | e9bea775-7eb6-438a-ab96-27d5f941e69d / https://openai.com/careers/security-engineer-agent-security-san-francisco/ | 81 | Expansion APPLY candidate; deep isolation, kernel hardening, cloud IAM, and production agent infrastructure are material gaps; application not started; not submitted |
-| Apple | Platform Security Certification Engineer | 200668286-0836 / https://jobs.apple.com/en-us/details/200668286-0836/platform-security-certification-engineer | 80 | Submitted manually by user on 2026-08-30; do not reapply. Cybersecurity base resume used. Common Criteria, FIPS 140-2/3, and certification-lab experience remain material fit gaps. |
-| ByteDance | Product Security Engineer Graduate (Security BP) - 2027 Start | A18027 / https://joinbytedance.com/search/7668636404159858997 | 92 | User chose not to pursue on 2026-08-29 after account/agreement blocker; do not apply unless user explicitly reopens; not submitted |
-| TikTok | Backend Software Engineer Graduate, Privacy and Security Product - 2027 Start | A172332 / https://lifeattiktok.com/search/7670387719826786565 | 83 | User chose not to pursue on 2026-08-29 after account/agreement blocker; do not apply unless user explicitly reopens; not submitted |
-| Amazon / eero | Sr. Security Engineer, eero Security | 3114845 / https://www.amazon.jobs/pt/jobs/3114845/sr-security-engineer-eero-eero-security | 95 | Posting confirmed removed/inactive on 2026-08-29: direct page returns 404 and current eero search no longer lists job 3114845; no application created; not submitted |
-| Amazon | Security Engineer II, Stores Application Security | 10468150 / https://amazon.jobs/en/jobs/10468150/security-engineer-ii-stores-application-security | 94 | Rejected on 2026-08-31. Amazon status email says it progressed with other candidates; do not reapply to this requisition. |
-| Apple | Senior Security Engineer | 200657994-0836 / https://jobs.apple.com/en-us/details/200657994-0836/senior-security-engineer | 90 | Submitted on 2026-08-29; Apple Your Roles portal verified active Submitted status during the 2026-08-29 manual audit; Cybersecurity base resume used; do not reapply |
-| Scale AI | Security Engineer, Product Security | 4643029005 / https://job-boards.greenhouse.io/scaleai/jobs/4643029005 | 88 | Submitted successfully on 2026-08-29 after fresh user approval; Greenhouse confirmation states application received; Cybersecurity base resume and cover_letters/Scale_AI_Security_Engineer_Product_Security_Cover_Letter.pdf included; do not reapply |
-
-## Manual submission audit — 2026-08-29
-
-The current application batch was checked against live employer portals and the UC Davis inbox. Recent confirmations establish 13 submissions from 2026-08-27 through 2026-08-29: 3 Apple, 1 Tesla, 1 Waymo, 1 Anthropic, 5 OpenAI, 1 Amazon, and 1 Scale AI. Twelve roles are identified in this tracker; one OpenAI confirmation from 2026-08-27 is for an older application whose role title is not included in OpenAI's generic confirmation email and remains unidentified.
-
-Additional historical portal records discovered during the audit:
-
-| Employer | Role | Requisition | Portal status | Date |
-|---|---|---|---|---|
-| Amazon | Software Development Engineer Internship - Fall 2026 (US) | 3116030 | Submitted; archived / no longer under consideration | 2025-10-30 |
-| OpenAI | Role title unavailable in generic confirmation email | Unknown | Submission confirmed by email; not mapped to a current tracked requisition | 2026-08-27 |
-
-## New qualifying roles — 2026-08-30 refresh
-
-These roles were discovered in the 2026-08-30 refresh. Statuses below reflect the latest portal check and the user's confirmed manual submissions.
-
-| Employer | Role | Requisition / URL | Fit | Status | Resume |
-|---|---|---|---:|---|---|
-| Amazon | Security Engineer II, Devices and Services Security | 10475581 / https://www.amazon.jobs/en/jobs/10475581/security-engineer-ii-devices-and-services-security | 97 | Rejected on 2026-08-31. Amazon status email says it progressed with other candidates; do not reapply to this requisition. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Google | Senior Security Engineer, Product Security Engineering, Cloud CISO | 113794536865440454 / https://www.google.com/about/careers/applications/jobs/results/113794536865440454-senior-security-engineer-product-security-engineering-cloud-ciso | 95 | Posting removed; Google Careers displayed `Job not found` on 2026-08-30; not submitted. | — |
-| TRM Labs | Senior Product Security Engineer | 54e6782c-c8f8-4c34-bd01-8d130468f23c / https://jobs.ashbyhq.com/trm-labs/54e6782c-c8f8-4c34-bd01-8d130468f23c/ | 94 | Posting removed; Ashby displayed `Job not found` on 2026-08-30; not submitted. | — |
-| LinkedIn | Staff Security Engineer - AI | 4425661803 / https://www.linkedin.com/jobs/view/4425661803 | 91 | Submitted manually by user on 2026-08-30; do not reapply. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Security Software Engineer, Enterprise Technology Services | 200677750-3956 / https://jobs.apple.com/en-us/details/200677750-3956/security-software-engineer-enterprise-technology-services | 89 | Submitted manually by user on 2026-08-30; do not reapply. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| NVIDIA | Intellectual Property Security Engineer | JR2021915 / https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Intellectual-Property-Security-Engineer_JR2021915 | 87 | Submitted manually by user on 2026-08-30; do not reapply. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Google | Senior Security Engineer, Digital Forensics | 130559179348681414 / https://www.google.com/about/careers/applications/jobs/results/130559179348681414-senior-security-engineer-digital-forensics | 86 | Posting removed; Google Careers displayed `Job not found` on 2026-08-30; not submitted. | — |
-| Google | Security Engineer, Data Center Network Device Security | 104925989892432582 / https://www.google.com/about/careers/applications/jobs/results/104925989892432582-security-engineer-data-center-network-device-security | 85 | Posting removed; Google Careers displayed `Job not found` on 2026-08-30; not submitted. | — |
-| Crusoe | Staff Product Security Engineer | b1b99030-d393-4329-80fe-5bc2e4c93b03 / https://jobs.ashbyhq.com/Crusoe/b1b99030-d393-4329-80fe-5bc2e4c93b03 | 84 | Expansion APPLY; San Francisco on-site. Penetration testing, red teaming, vulnerability research, secure remediation, AI/ML security, and critical-infrastructure context align. Advanced Kubernetes/microservices testing, production AI attack-surface research, and policy-as-code at scale are material gaps. | — |
-| Applied Intuition | Product Security Engineer | ebefd035-a582-4dac-b11a-613737a6ea89 / https://jobs.ashbyhq.com/applied/ebefd035-a582-4dac-b11a-613737a6ea89 | 83 | Expansion APPLY; Sunnyvale on-site. Product security, assessments, AI-assisted testing, IR, SAST/DAST collaboration, Python, and critical-infrastructure work align. Hands-on Kubernetes/public-cloud security, CI/CD tool deployment, CSPM operations, and platform-migration security are material gaps; compensation may fall below the preferred threshold. | — |
-| Uber | Senior Security Engineer, AI & Agentic Systems | 154042 / https://www.uber.com/global/en/careers/list/154042/ | 81 | Expansion APPLY; Sunnyvale/San Francisco. Traditional red teaming, threat modeling, Python/Java, reporting, RAG/agentic study, and AI-security interest align. The posting explicitly asks for hands-on AI-agent red teaming, prompt injection/jailbreak testing, model/tool poisoning, and AI red-team harness experience not established by the source resumes. | — |
-
-## New qualifying roles — 2026-08-30 later refresh
-
-These are newly discovered or materially changed relative to the tracker above. All remain `not submitted`; no application was started in this screening run.
-
-| Employer | Role | Requisition / URL | Fit | Status / material gaps | Resume |
-|---|---|---|---:|---|---|
-| Apple | Secure Design Engineer, SEAR | 200670923-0836 / https://jobs.apple.com/en-us/details/200670923/secure-design-engineer-sear | 96 | Submitted manually by user on 2026-08-30; do not reapply. Profile address and verified recurring work-authorization answers confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Scale AI | Security Engineer, Detection & Response | 4684073005 / https://job-boards.greenhouse.io/scaleai/jobs/4684073005 | 95 | Submitted manually by user on 2026-08-30; do not reapply. Verified answers: restrictive employer agreements No; work authorization Yes; future sponsorship Yes. Distinct from the previously submitted Product Security requisition. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Snap | Security Engineer, Level 5, Detection & Response | R0045495 / https://careers.snap.com/job?id=R0045495 | 94 | Submitted manually by user on 2026-08-30; do not reapply. Before submission, current work authorization was corrected to No because CPT/OPT is not approved. Other recorded answers: F-1 status Yes, current authorized OPT/CPT months 0, spouse-dependent authorization No, future sponsorship Yes, relocation Yes, minimum experience Yes, Big Four employment No, prior Snap employment No, office attendance 4+ days/week Yes, non-veteran, no disability, and terms consent. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Zoox | Senior Information Security Engineer (Detection, Automation & AI) | 57b8519b-e599-44eb-84dc-403cea7bca49 / https://jobs.lever.co/zoox/57b8519b-e599-44eb-84dc-403cea7bca49 | 93 | Submitted 2026-09-07; Zoox `Application Received!` verified. Do not reapply. Detection/IR, Python, malware/APT analysis, automation, AI/LLM security, and critical-infrastructure context align. Deep Splunk/Elastic, modern SOAR playbook ownership, AWS-native telemetry, and incident-command experience are the main gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Snowflake | Senior Security Engineer, Incident Response | LinkedIn 4451976385 / https://www.linkedin.com/jobs/view/4451976385 | 90 | APPLY; Menlo Park. Product-security IR, AppSec, Python, threat modeling, AI/ML security, and technical reporting align. Direct product-incident commander experience, production RAG/vector/agent orchestration, multi-cloud depth, and hands-on AI attack testing are material gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Whatnot | Threat Detection and Response Engineer | 2b5b4bc2-6d47-4afd-afcb-72b4879bea1f / https://jobs.ashbyhq.com/whatnot/2b5b4bc2-6d47-4afd-afcb-72b4879bea1f | 89 | Submitted 2026-09-07; Ashby success receipt verified. Do not reapply. IR, forensics, malware analysis, threat intelligence, network evidence, reporting, and incident playbooks align closely. Chronicle/Tines, EDR/NDR operations, multi-cloud AWS/GCP, and formal incident-escalation ownership are the main gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| WRITER | Security Engineer, Detection and Response | 1025b4ab-3365-40af-a8e1-bd4383b6158d / https://jobs.ashbyhq.com/WRITER/1025b4ab-3365-40af-a8e1-bd4383b6158d | 88 | Closed on live check 2026-09-07; the canonical Ashby URL displays only the generic Jobs page and no application form. Not submitted. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Reflection AI | Member of Technical Staff - Security Engineer | a38f03ad-770c-4c53-be91-0d04171d8ead / https://jobs.ashbyhq.com/reflectionai/a38f03ad-770c-4c53-be91-0d04171d8ead | 87 | Submitted 2026-09-07; Ashby success receipt verified. Do not reapply. AppSec, pentesting, secure coding, Python, AI security, incident response, threat modeling, and security-program work align. Kubernetes/cloud depth, agent sandbox/identity controls, supply-chain tooling, CI/CD SAST deployment, and demonstrated 0-to-1 ownership are the main gaps. | Kevin_Lee_Resume_AI.pdf |
-| Apple | Sr Automation & Intelligence Tools Engineer, SEAR | 200676748-0836 / https://jobs.apple.com/en-us/details/200676748-0836/sr-automation-intelligence-tools-engineer-sear | 85 | Submitted 2026-09-07; Apple success notification verified. AI base resume used; do not reapply. Swift/Objective-C, Xcode/XCTest, large-scale test harnesses/CI infrastructure, and production agentic/MCP developer tooling remain material gaps. | Kevin_Lee_Resume_AI.pdf |
-| Grow Therapy | Senior/Staff Security Engineer, Incident Response | fa101721-1fba-42ae-a949-5389e82e11c0 / https://jobs.ashbyhq.com/grow-therapy/fa101721-1fba-42ae-a949-5389e82e11c0 | 84 | Expansion candidate submitted 2026-09-07; Ashby success receipt verified. Do not reapply. IR, threat analysis, automation, reporting, and secure architecture align. Deep AWS IAM/Organizations/SCP/CloudTrail/Config, SIEM/EDR/CSPM ownership, and infrastructure-as-code are material gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| NVIDIA | Senior Security Engineer, RTOS and Virtualization | JR2023153 / https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Security-Engineer--RTOS-and-Virtualization_JR2023153 | 82 | Submitted 2026-09-07; NVIDIA Candidate Home shows `Application Received`; do not reapply. C/C++, critical-infrastructure security, threat modeling, vulnerability analysis, code review, and remediation align. RTOS/hypervisor/kernel/firmware, MMU/IOMMU/DMA/boot isolation, automotive TARA, ISO/SAE 21434, and ISO 26262 remain substantial gaps. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-## New qualifying roles — 2026-08-31 refresh
-
-New relative to the tracker and confirmed open on 2026-08-31. No application was started in this screening run. Compensation figures are estimates combining published cash ranges with likely equity/sign-on value where applicable.
-
-| Employer | Role | Requisition / URL | Fit | Status / material gaps | Estimated TC / visa / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Amazon / Ring | Sr. Security Engineer, Ring Application Security | 10491903 / https://amazon.jobs/en/jobs/10491903/sr-security-engineer-ring-application-security | 95 | Submitted on 2026-08-31. **Rejected 2026-09-02:** Amazon stated that it decided to progress with other candidates. Do not reapply. Historical note: the submitted application used the answer `No, I was NEVER a government employee`; this conflicts with the source resume and must never be reused. | Senior/L6; est. TC $240K–$350K; OPT/STEM compatible once authorized; H-1B likelihood very high; U.S. stay: strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Lambda | Security Engineer | e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1 / https://jobs.ashbyhq.com/lambda/e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1 | 93 | Submitted on 2026-08-31; Ashby success confirmation verified. Interview-recording consent Yes; work authorization Yes; sponsorship Yes; San Francisco/San Jose selected. Do not reapply. | Senior/Staff-flexible; listed compensation $296K–$395K; OPT/STEM likely compatible; H-1B medium-high but role-specific confirmation needed; U.S. stay: strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Gamma | Security Engineer | 79b3efcd-0380-41bc-9556-bc7c681adc43 / https://jobs.ashbyhq.com/gamma/79b3efcd-0380-41bc-9556-bc7c681adc43 | 92 | Submitted on 2026-08-31; Ashby success confirmation verified. Cybersecurity resume uploaded, relocation/4–5 onsite days confirmed, visa details supplied, and a role-specific motivation response entered. Do not reapply. | Senior/Staff-flexible; est. TC $220K–$400K from $180K–$310K base plus equity; OPT/STEM likely compatible; H-1B medium/uncertain; U.S. stay: YES if package is $250K+ and sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| LangChain | Security Engineer - Detection & Response | 7b1e5ff7-4531-4d4a-8379-52a21b6d386d / https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d | 90 | Submitted on 2026-08-31; Ashby success confirmation verified. Cybersecurity resume uploaded and GitHub supplied as the requested portfolio. Do not reapply. | Senior; est. TC $220K–$320K from $180K–$240K base plus equity; OPT/STEM likely compatible; H-1B medium/uncertain; U.S. stay: YES if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Magic | Member of Technical Staff, Security Engineer | f9b3e872-cffa-400a-b9e0-621149c5f566 / https://magic.dev/careers/f9b3e872-cffa-400a-b9e0-621149c5f566 | 88 | Submitted on 2026-08-31. **Rejected 2026-09-02:** Magic stated that it would not move forward. Magic limits candidates to one application per 90 days; do not reapply before that window expires. | Senior/Staff MTS; est. TC $275K–$650K from $225K–$550K salary plus significant equity; employer explicitly offers visa sponsorship if possible; OPT/STEM high and H-1B high; U.S. stay: strong YES. | Kevin_Lee_Resume_AI.pdf |
-| Cognition | Security Engineer | 71165bb4-9bc8-49df-9eca-49c4232f72ff / https://jobs.ashbyhq.com/cognition/71165bb4-9bc8-49df-9eca-49c4232f72ff | 87 | Submitted on 2026-08-31; Ashby success confirmation verified. AI resume uploaded, preferred name and LinkedIn supplied, and an application-support statement entered. Do not reapply. | Senior/Staff; est. TC $330K–$500K from $260K–$300K base plus significant equity; OPT/STEM likely compatible; H-1B high because Cognition publicly operates H-1B/O-1/PERM immigration support; U.S. stay: strong YES. | Kevin_Lee_Resume_AI.pdf |
-| Decagon | Security Engineer | 3998068a-4ce9-4a70-b9c0-7e89ef531331 / https://jobs.ashbyhq.com/decagon/3998068a-4ce9-4a70-b9c0-7e89ef531331 | 86 | Submitted on 2026-08-31; Ashby success confirmation verified. Cybersecurity resume uploaded, work authorization Yes, sponsorship Yes, and five-day in-office schedule Yes. Do not reapply. | Senior/founding-track; est. TC $250K–$450K from $200K–$330K base plus equity; OPT/STEM likely compatible; H-1B medium/uncertain; U.S. stay: YES if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Baseten | Security Engineer | b85e4b1d-6531-46b5-bc8a-238f3761a50e / https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e | 85 | Submitted on 2026-08-31; Ashby success confirmation verified. Cybersecurity resume uploaded, unrestricted work authorization answered No, future sponsorship Yes, and verified demographic selections completed. Do not reapply. | Senior/early security hire; est. TC $200K–$330K from $150K–$250K base plus equity; OPT/STEM likely compatible; H-1B medium/uncertain; U.S. stay: conditional—prefer upper-band cash/equity and written sponsorship confirmation. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-## `굿모닝~` run — 2026-08-31 evening refresh
-
-Official employer pages were checked against all previously tracked requisitions. The following roles were new or materially changed during this run.
-
-| Employer | Role | Requisition / URL | Fit | Status / key details | Estimated TC / visa / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Figma | Security Engineer | 5829751004 / https://job-boards.greenhouse.io/figma/jobs/5829751004 | 95 | Submitted on 2026-08-31 under the `굿모닝~` authorization. Greenhouse confirmation page and UC Davis mailbox receipt verified. Work authorization Yes, 10+ years, Python/C++/Java, prior Figma employment No, Davis work location, and verified demographic answers recorded. Do not reapply. | Senior/Staff-flexible; published base $153K–$376K plus equity/bonus, est. TC $220K–$500K+; OPT/STEM likely compatible; H-1B likelihood high; U.S. stay: strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Vercel | Product Security Engineer | 6102343004 / https://job-boards.greenhouse.io/vercel/jobs/6102343004 | 91 | Submitted on 2026-08-31 under the `굿모닝~` authorization; Greenhouse confirmation page and UC Davis mailbox receipt verified. San Francisco/open to relocation selected, work-authorization category `Other` used because current CPT/OPT is not yet issued, future sponsorship Yes, and privacy/accuracy acknowledgments accepted. Do not reapply. | Senior; published SF base $208K–$312K plus equity/possible bonus, est. TC $260K–$450K; OPT/STEM likely compatible; H-1B likelihood medium-high; U.S. stay: strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Heartflow | Application Security Engineer | 6115903004 / https://job-boards.greenhouse.io/heartflowinc/jobs/6115903004 | 94 | HOLD / not submitted. Cybersecurity resume uploaded, but final submission is blocked by required questions not established in prior records: base-salary expectation; immediate family employed by Heartflow; immediate family who may use/purchase Heartflow products; FDA debarment/OIG exclusion status; and a required fictional-character selection that explicitly certifies the application is not AI-generated. | Senior; published base $145K–$180K plus bonus/equity, est. TC $170K–$230K; OPT/STEM potentially compatible but sponsorship uncertain; U.S. stay: conditional and below preferred compensation. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Airtable | Product Security Engineer | 8533547002 | 84 | Posting removed during the run: the official Greenhouse link redirects to the Airtable openings page with `error=true`; not submitted. TypeScript/Node.js production depth was also a material expansion-candidate gap. | Published base had been $187K–$260K plus equity; no current application possible. | — |
-
-Additional screened-out results from this refresh:
-
-- Astranis Product Security Engineer (4667335006): technical fit 90, but the official posting requires U.S. citizenship, lawful permanent residence, or refugee/asylee protected status; not eligible under the verified F-1 status.
-- Cloudflare Product Security Engineer (8102768): technical fit 92, but the current official posting lists Austin or London rather than California and warns that export-controlled access may need to be available without export-license sponsorship; not pursued.
-- Postman Principal Offensive Security Engineer (7721349003): fit 78. The role requires 8+ years specifically in offensive security, 4+ years of people-management leadership, hands-on AI/LLM red-team tooling, and deep API/cloud-native exploitation not established by the source resumes.
-- Veeam Product & Application Security Engineer (4744664101): fit 78. The role requires competent Go development and extensive Kubernetes security ownership; both are material gaps despite otherwise strong AppSec alignment.
-- Liberate Lead Security Engineer (5100065008): original link removed or materially changed; the current board lists a different Lead Security and Infra Engineer role.
-
-## Mailbox status audit — 2026-08-31
-
-The UC Davis mailbox was searched for recruiting and application-status messages received since 2026-08-01. Three rejection decisions were found and mapped to exact requisitions:
-
-| Employer | Role | Requisition | Latest status | Decision email |
-|---|---|---|---|---|
-| Anthropic | Security Software Engineer, Detection & Response Platform | 4595463008 | Rejected | Received 2026-08-31 at 1:37 PM; application will not move forward. |
-| Amazon | Security Engineer II, Stores Application Security | 10468150 | Rejected | Received 2026-08-31 at 8:26 AM; Amazon progressed with other candidates. |
-| Amazon | Security Engineer II, Devices and Services Security | 10475581 | Rejected | Received 2026-08-31 at 8:32 AM; Amazon progressed with other candidates. |
-
-No other rejection decision matched the mailbox search. Submission confirmations were present for the eight applications submitted on 2026-08-31: Amazon/Ring, Lambda, Gamma, LangChain, Magic, Cognition, Decagon, and Baseten. Those applications remain submitted/pending unless a later decision is received.
-
-## Screened out
-
-| Employer | Role | Requisition | Fit | Reason |
-|---|---|---|---:|---|
-| Apple | AI & Data Security Engineer | 200668245-0836 | 77 | Resume does not establish hands-on Snowflake/Databricks row- or column-level security, OAuth/OIDC/SAML/JWT implementation, cloud data-platform security, or privacy-regulation implementation. |
-| Apple | Security Software Engineer, OS Security | 200661581-0836 | 74 | Resume does not establish macOS/iOS internals, mandatory access control/policy engines, or recent systems-level OS security implementation; posting is also an expression of interest rather than a specific opening. |
-| ByteDance | AI Agent Security Software Engineer Graduate - 2027 Start | A61751C | 76 | Minimum qualification is limited to candidates completing or recently completing a Bachelor's degree; the user's Bachelor's was completed in 2015 and the current degree is a Master's. New-grad overqualification plus distributed/cloud-native production gaps make this a poor use of the shared two-application limit. |
-| ByteDance | Software Engineer, AI Agent Infra Graduate - 2027 Start | A150302 | 70 | Minimum qualification is limited to candidates completing or recently completing a Bachelor's degree; the current Master's does not match the stated education gate. Resume also lacks production agent-platform, RAG orchestration, observability, high-concurrency, and service-governance accomplishments. |
-| Roblox | Senior Security Software Engineer, Application Security | 7896293 | 92 | Technical fit is strong, but the posting explicitly says Roblox may be unable to support future H-1B sponsorship for this role; HOLD because future sponsorship is required. |
-| NVIDIA | AI Automation Engineer, Security | JR2016797 | 76 | Security and Python/C++ align, but the role requires 8+ years specifically in automation/data engineering plus production AI-agent/MCP workflows, AWS, Terraform, Airflow, and Databricks. |
-| Apple | AI Systems Security Engineer (Agent Systems), SEAR | 200676078-0836 | 84 | Official direct page currently reports that the role no longer exists or is unavailable; do not apply unless reposted. |
-| Apple | Senior Security Engineer, Data Center Network | 200674799-3401 | 77 | Requires deep hyperscale data-center networking, routing isolation/security, VXLAN/GRE/IPsec overlays, cloud network architecture, and container/Kubernetes networking not established by the source resumes. |
-| Amazon | Security Engineer II, Stores Application Security | 10512781 | 97 | HOLD as a likely duplicate/reposting of the already submitted Security Engineer II, Stores Application Security requisition 10468150. Same employer, team, and title create duplicate-application risk; do not apply without confirming it is a materially distinct vacancy. |
-| Mercor | Security Engineer, Application Security | cf6fcf5a-6348-4d60-beb3-43333a2c2bb9 | 95 | Technical fit is excellent, but Mercor's official legal-support documentation states that it does not provide H-1B sponsorship and cannot sign Form I-983 for STEM OPT. NOT APPLY under the user's immigration requirements. |
-
-## Duplicate-control rule
-
-## `굿모닝~` run — 2026-08-31 late refresh
-
-Official application pages were checked against the existing tracker. Two new qualifying roles were submitted under this run's `굿모닝~` authorization. One additional qualifying role was prepared but not submitted because its five-day on-site requirement exceeds the verified recurring three-day commitment and requires a new factual confirmation.
-
-| Employer | Role | Requisition / URL | Fit | Status / key details | Estimated TC / visa / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Brain Co. | AI Application Security Engineer | 46cacd55-81d9-414c-9fcb-c8be15d94e4a / https://jobs.ashbyhq.com/brainco/46cacd55-81d9-414c-9fcb-c8be15d94e4a/application | 93 | Submitted on 2026-08-31; Ashby success confirmation verified. Legal work authorization was answered Yes, LinkedIn supplied, and the AI base resume uploaded. No receipt email had arrived in the UC Davis mailbox at the end of this run. Do not reapply. | Senior/Staff-flexible; compensation not published, likely equity-heavy; OPT/STEM likely compatible; H-1B likelihood medium/uncertain; U.S. stay: YES if sponsorship and a $250K+ package are confirmed. | Kevin_Lee_Resume_AI.pdf |
-| Ironclad | Staff Application Security Engineer | b5d4466f-ffe3-4b31-9463-22a926206ece / https://jobs.ashbyhq.com/ironcladhq/b5d4466f-ffe3-4b31-9463-22a926206ece/application | 91 | Submitted on 2026-08-31; Ashby success page and UC Davis receipt email verified. Work authorization Yes, future sponsorship Yes, two-day hybrid commute Yes, Davis residence, no SMS consent, and Asian demographic response recorded. Ironclad limits candidates to two applications per 90 days and bars reapplication to the same role for 180 days. Do not reapply. | Staff; published base $170K–$190K plus bonus/equity, est. TC $220K–$300K; OPT/STEM likely compatible; H-1B likelihood medium; U.S. stay: YES if sponsorship and upper-band equity are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Serval | Security Engineer, Application | c98b5c56-48fc-4da7-9f3f-577bd1aa7aec / https://jobs.ashbyhq.com/Serval/c98b5c56-48fc-4da7-9f3f-577bd1aa7aec/application | 92 | **Submitted 2026-09-07; Ashby displayed `Your application was successfully submitted.`** The prior HOLD was resolved after the recurring answer was updated to confirm availability for an advertised four-or-more-day office schedule. Five-day SF attendance/relocation was answered Yes. Do not reapply. | Senior/Staff; published base $200K–$325K plus equity; OPT/STEM potentially compatible after authorization approval; H-1B likelihood medium/uncertain; U.S. stay: strong YES if sponsorship is confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Beacon Software | Staff/Lead Application Security Engineer | 2cd0e31a-fc69-455e-b089-98f80078e36f / https://jobs.ashbyhq.com/beaconsoftware/2cd0e31a-fc69-455e-b089-98f80078e36f/application | 90 | Submitted on 2026-08-31; Ashby success page and UC Davis receipt email verified. Cybersecurity resume, Davis location, LinkedIn, four-day on-site availability Yes, online/Ashby source, and verified gender/race responses supplied. Do not reapply. | Staff/Lead; compensation not published; OPT/STEM potentially compatible; H-1B likelihood medium/uncertain; U.S. stay: YES if sponsorship and a $250K+ package are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Sazabi | Security Engineer | 32cbe0b4-e623-4227-a793-d89a24354e7f / https://jobs.ashbyhq.com/sazabi/32cbe0b4-e623-4227-a793-d89a24354e7f/application | 82 | Expansion candidate submitted on 2026-08-31; Ashby success page verified. Cybersecurity resume, LinkedIn, Davis location, phone, and UC Davis email supplied. No receipt email had arrived by the final mailbox check. TypeScript-first production work, distributed-system/API security, tenant isolation, and observability-platform experience remain material gaps. Do not reapply. | Senior/early security hire; compensation not published and likely equity-heavy; OPT/STEM potentially compatible; H-1B likelihood low-medium/uncertain; U.S. stay: conditional on sponsorship and $220K+ TC. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Opal Security | Application Security Engineer | d2beff94-0445-4a4b-af58-30ef33eea2c8 / https://jobs.ashbyhq.com/opal/d2beff94-0445-4a4b-af58-30ef33eea2c8/application | 84 | Expansion HOLD / not submitted. Cybersecurity resume, name, UC Davis email, LinkedIn, three-day office preference, and future sponsorship Yes are prepared. The unresolved question asks what class of vulnerabilities the applicant most enjoys finding and fixing; no personal preference was invented. Opal also allows only one application in a 30-day span. Production Go/TypeScript, OAuth/OIDC/SAML ownership, AWS/EKS, and CI/CD SAST/DAST/SCA ownership are material gaps. | Senior/sole AppSec engineer; compensation not published; OPT/STEM potentially compatible; H-1B likelihood medium/uncertain; U.S. stay: conditional on sponsorship and $220K+ TC. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-Removed or non-actionable postings verified during this run:
-
-- Notion — Application Security Engineer, AI (`e3944777-d4a8-41d2-88ab-32daef949d4e`): official Ashby page displayed `Job not found`; not submitted.
-- Variance / Intrinsic Safety — Security Engineer (`01bb1187-bce6-45c0-84d5-dd8df5eb3547`): official Ashby page displayed `Job not found`; not submitted.
-- LiteLLM — Security Engineer (`731931b0-1073-4ff9-901e-a9cf8a02cb56`): official Ashby page displayed `Job not found`; not submitted.
-- Corridor — Security Engineer (`23b26e25-1d34-4b85-8c51-a28ee6ee4e1f`): official Ashby page displayed `Job not found`; not submitted.
-- Material Security — Sr. Application Security Engineer (`19092bb3-90f0-4d16-90ba-bd84596bbcaa`): official Ashby application page displayed `Job not found`; not submitted.
-
-Mailbox recheck at the end of this run found the Ironclad and Beacon receipts and the previously pending Vercel receipt. Brain Co. and Sazabi had portal success confirmations but no matching receipt email yet. It found no new rejection decision beyond the Anthropic and two Amazon rejections already recorded above.
-
-On later runs, treat the same requisition as unchanged unless the title, responsibilities, qualifications, location, compensation, or application status materially changes. Do not reapply after status becomes submitted.
-
-## `굿나잇~` portfolio audit — 2026-08-31
-
-The `yhylee@ucdavis.edu` mailbox was searched for explicit hiring decisions, interview invitations, scheduling requests, offers, and confirmations. No interview invitation, advancement decision, or offer was found. Silence and generic confirmation language are classified as pending, not as a pass or rejection.
-
-| Employer | Role / requisition | Application date | Outcome | Current stage / evidence |
-|---|---|---|---|---|
-| Google | Role unavailable — confirmation 1 | 2026-08-27 | 미확인 | 상태 불명 — generic receipt has no role title |
-| Google | Role unavailable — confirmation 2 | 2026-08-27 | 미확인 | 상태 불명 — generic receipt has no role title |
-| OpenAI | Role unavailable — generic confirmation | 2026-08-27 | 미정 | 상태 불명 — receipt verified but role unmapped |
-| Anthropic | Staff+ Application Security Engineer / 4502508008 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Security Engineer - Apple Pay / 200667427 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 |
-| OpenAI | Security Engineer, Detection and Response / f956b77c-3cc5-4fdd-9463-2a6e5047e57c | 2026-08-28 | 미정 | 지원 완료 / 검토 중 |
-| Waymo | Senior Security Engineer / 3658 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 |
-| Tesla | Security Engineer, Red Team, Vehicle Software / 225532 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 |
-| Anthropic | Staff+ Application Security Engineer - M&A / 5311463008 | 2026-08-29; duplicate receipt 2026-08-30 | 미정 | 지원 완료 / 검토 중 — duplicate receipts |
-| Anthropic | Security Software Engineer, Detection & Response Platform / 4595463008 | 2026-08-29; duplicate receipt 2026-08-30 | 불합격 | 서류 탈락 — decision 2026-08-31 |
-| OpenAI | Security Engineer, Application Security / 0322d6d8-6588-4209-a304-83e768063a25 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| OpenAI | Security Engineer, Insider Threat Detection & Response / f84dbb5c-6008-40f1-b388-1434d159d4a4 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| OpenAI | Offensive Security Engineer, Agent Products / bb97fffc-cdda-43a3-a6bc-234f9c031720 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Offensive Security Researcher, SEAR / 200659973-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| Amazon | Security Engineer II, Stores Application Security / 10468150 | 2026-08-29 | 불합격 | 서류 탈락 — decision 2026-08-31 |
-| Apple | Senior Security Engineer / 200657994-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| Scale AI | Security Engineer, Product Security / 4643029005 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 |
-| NVIDIA | Senior Software Engineer, Security / JR2018245 | 미확인; portal verified 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Amazon | Security Engineer II, Devices and Services Security / 10475581 | 2026-08-30 | 불합격 | 서류 탈락 — decision 2026-08-31 |
-| LinkedIn | Staff Security Engineer - AI / 4425661803 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Security Software Engineer, Enterprise Technology Services / 200677750-3956 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| NVIDIA | Intellectual Property Security Engineer / JR2021915 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Platform Engineer - Security / 200667725-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Platform Security Certification Engineer / 200668286-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Apple | Secure Design Engineer, SEAR / 200670923-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Scale AI | Security Engineer, Detection & Response / 4684073005 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Snap | Security Engineer, Level 5, Detection & Response / R0045495 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 |
-| Amazon / Ring | Sr. Security Engineer, Ring Application Security / 10491903 | 2026-08-31 | 불합격 | 서류 탈락 — decision 2026-09-02 |
-| Lambda | Security Engineer / e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Gamma | Security Engineer / 79b3efcd-0380-41bc-9556-bc7c681adc43 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| LangChain | Security Engineer - Detection & Response / 7b1e5ff7-4531-4d4a-8379-52a21b6d386d | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Magic | Member of Technical Staff, Security Engineer / f9b3e872-cffa-400a-b9e0-621149c5f566 | 2026-08-31 | 불합격 | 서류 탈락 — decision 2026-09-02 |
-| Cognition | Security Engineer / 71165bb4-9bc8-49df-9eca-49c4232f72ff | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Decagon | Security Engineer / 3998068a-4ce9-4a70-b9c0-7e89ef531331 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Baseten | Security Engineer / b85e4b1d-6531-46b5-bc8a-238f3761a50e | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Figma | Security Engineer / 5829751004 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Vercel | Product Security Engineer / 6102343004 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Brain Co. | AI Application Security Engineer / 46cacd55-81d9-414c-9fcb-c8be15d94e4a | 2026-08-31 | 미정 | 지원 완료 / 검토 중 — portal success; receipt email absent |
-| Ironclad | Staff Application Security Engineer / b5d4466f-ffe3-4b31-9463-22a926206ece | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Beacon Software | Staff/Lead Application Security Engineer / 2cd0e31a-fc69-455e-b089-98f80078e36f | 2026-08-31 | 미정 | 지원 완료 / 검토 중 |
-| Sazabi | Security Engineer / 32cbe0b4-e623-4227-a793-d89a24354e7f | 2026-08-31 | 미정 | 지원 완료 / 검토 중 — portal success; receipt email absent |
-| Amazon | Software Development Engineer Internship - Fall 2026 / 3116030 | 2025-10-30 | 불합격 | 서류 탈락 — no longer under consideration |
-
-Audit totals: 42 records: 3 explicit current-cycle rejections, 35 identified current-cycle pending applications, 3 current-cycle records with unavailable role/date mapping, and 1 historical rejection. Anthropic M&A and D&R duplicate receipts are counted once per role.
-
-## `굿모닝~` run — 2026-09-01
-
-This run excluded hiring-outcome review. Official employer pages were checked for new engineering-track security roles, deduplicated against this tracker, and applications were submitted only where the fit score met the established threshold.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / key answers | Estimated TC / visa / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Sentry | Security Engineer, Detection & Response | ac1cb3c4-5408-4912-8591-eea2a84480b7 / https://jobs.ashbyhq.com/sentry/ac1cb3c4-5408-4912-8591-eea2a84480b7 | 96 | Submitted on 2026-09-01; Ashby success page and UC Davis receipt email verified. Three-day hybrid schedule Yes, U.S. work authorization Yes, future sponsorship Yes, privacy acknowledgment accepted, Sentry jobs site selected as source, and verified demographic answers supplied. A factual role-motivation response emphasized malware/APT analysis, incident response, Python, automation, and critical-infrastructure security. Do not reapply. | Senior/Staff-flexible; published base $155K–$400K plus up to 20% bonus and equity, est. TC $220K–$550K+; OPT/STEM likely compatible; H-1B likelihood medium-high but role-specific confirmation needed; U.S. stay: strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Juicebox | Security Engineer | ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71 / https://jobs.ashbyhq.com/Juicebox/ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71 | 88 | Submitted on 2026-09-01; Ashby success page and UC Davis receipt email verified. Five-day San Francisco on-site availability Yes, relocation Yes, Davis location, LinkedIn, GitHub, phone, and Cybersecurity resume supplied. The form did not ask a sponsorship question. AWS/Terraform, production platform-security ownership, SSO/IAM implementation, Kubernetes, and sandboxing remain the principal fit gaps. Do not reapply. | Senior/early security hire; published base $160K–$250K plus equity, est. TC $220K–$400K; OPT/STEM potentially compatible; H-1B likelihood low-medium/uncertain; U.S. stay: conditional on sponsorship and upper-band package. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-Removed or non-actionable postings verified during this run:
-
-- Ivo — Lead Application Security Engineer (`58bde29f-9a06-4425-9183-ae839091f420`): official Ashby page displayed `Job not found`; not submitted.
-- Forge — Security Engineer (`682a66df-f306-40cb-9222-d7837df0ee12`): official Ashby page displayed `Job not found`; not submitted.
-- Echo Neurotechnologies — Security Engineer (`365fd91b-b980-4a5d-b7fb-346f4f114b66`): official Ashby page displayed `Job not found`; not submitted.
-- OpenAI — Enterprise Security Engineer (`4fb47557-86d2-47c3-9c6a-909aeb561329`): official Ashby page displayed `Job not found`; not submitted.
-
-The identified application portfolio now contains 45 role/application records, with Sentry and Juicebox added on 2026-09-01. Hiring outcomes were intentionally not reviewed in this `굿모닝~` run.
-
-## Goodnight portfolio audit — 2026-09-01
-
-The `yhylee@ucdavis.edu` mailbox was searched for explicit hiring decisions, interview invitations, assessments, scheduling requests, and offers. Google Careers was checked read-only to map the otherwise generic Google receipts to exact roles. No assessment was opened or answered.
-
-Late-night update: Google confirmed that the **Senior Information Security Engineer, Product Security Engineering** candidate passed the Google Hiring Assessment on 2026-09-01. The pass result is valid for 24 months; the application now awaits Recruiting review and is not yet an interview invitation. Tesla rejected the **Security Engineer, Red Team, Vehicle Software** application on 2026-09-01. The earlier Anthropic D&R Platform and two Amazon rejections remain unchanged. No interview or offer was found.
-
-| Employer | Role / requisition | Application date | Outcome | Current stage / evidence |
-|---|---|---|---|---|
-| Google | Senior Information Security Engineer, Product Security Engineering | 2026-08-27 | Assessment passed | Google Hiring Assessment passed 2026-09-01; result valid for 24 months; Recruiting review pending |
-| Google | Senior Offensive Security Consultant, Mandiant, Google Cloud | 2026-08-27 | Pending | Application complete / under review — Google Careers shows Submitted |
-| OpenAI | Role unavailable — generic confirmation | 2026-08-27 | Pending | Status unknown — receipt verified but role remains unmapped |
-| Anthropic | Staff+ Application Security Engineer / 4502508008 | 2026-08-28 | Pending | Application complete / under review |
-| Apple | Security Engineer - Apple Pay / 200667427 | 2026-08-28 | Pending | Application complete / under review |
-| OpenAI | Security Engineer, Detection and Response / f956b77c-3cc5-4fdd-9463-2a6e5047e57c | 2026-08-28 | Pending | Application complete / under review |
-| Waymo | Senior Security Engineer / 3658 | 2026-08-28 | Pending | Application complete / under review |
-| Tesla | Security Engineer, Red Team, Vehicle Software / 225532 | 2026-08-28 | Rejected | Document screening rejection — decision received 2026-09-01 |
-| Anthropic | Staff+ Application Security Engineer - M&A / 5311463008 | 2026-08-29; duplicate receipt 2026-08-30 | Pending | Application complete / under review — duplicate receipts counted once |
-| Anthropic | Security Software Engineer, Detection & Response Platform / 4595463008 | 2026-08-29; duplicate receipt 2026-08-30 | Rejected | Document screening rejection — decision 2026-08-31 |
-| OpenAI | Security Engineer, Application Security / 0322d6d8-6588-4209-a304-83e768063a25 | 2026-08-29 | Pending | Application complete / under review |
-| OpenAI | Security Engineer, Insider Threat Detection & Response / f84dbb5c-6008-40f1-b388-1434d159d4a4 | 2026-08-29 | Pending | Application complete / under review |
-| OpenAI | Offensive Security Engineer, Agent Products / bb97fffc-cdda-43a3-a6bc-234f9c031720 | 2026-08-29 | Pending | Application complete / under review |
-| Apple | Offensive Security Researcher, SEAR / 200659973-0836 | 2026-08-29 | Pending | Application complete / under review |
-| Amazon | Security Engineer II, Stores Application Security / 10468150 | 2026-08-29 | Rejected | Document screening rejection — decision 2026-08-31 |
-| Apple | Senior Security Engineer / 200657994-0836 | 2026-08-29 | Pending | Application complete / under review |
-| Scale AI | Security Engineer, Product Security / 4643029005 | 2026-08-29 | Pending | Application complete / under review |
-| NVIDIA | Senior Software Engineer, Security / JR2018245 | Unknown; portal verified 2026-08-30 | Pending | Application complete / under review |
-| Amazon | Security Engineer II, Devices and Services Security / 10475581 | 2026-08-30 | Rejected | Document screening rejection — decision 2026-08-31 |
-| LinkedIn | Staff Security Engineer - AI / 4425661803 | 2026-08-30 | Pending | Application complete / under review |
-| Apple | Security Software Engineer, Enterprise Technology Services / 200677750-3956 | 2026-08-30 | Pending | Application complete / under review |
-| NVIDIA | Intellectual Property Security Engineer / JR2021915 | 2026-08-30 | Pending | Application complete / under review |
-| Apple | Platform Engineer - Security / 200667725-0836 | 2026-08-30 | Pending | Application complete / under review |
-| Apple | Platform Security Certification Engineer / 200668286-0836 | 2026-08-30 | Pending | Application complete / under review |
-| Apple | Secure Design Engineer, SEAR / 200670923-0836 | 2026-08-30 | Pending | Application complete / under review |
-| Scale AI | Security Engineer, Detection & Response / 4684073005 | 2026-08-30 | Pending | Application complete / under review |
-| Snap | Security Engineer, Level 5, Detection & Response / R0045495 | 2026-08-30 | Pending | Application complete / under review |
-| Amazon / Ring | Sr. Security Engineer, Ring Application Security / 10491903 | 2026-08-31 | Rejected | Document screening rejection — decision 2026-09-02; Amazon progressed with other candidates |
-| Lambda | Security Engineer / e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1 | 2026-08-31 | Pending | Application complete / under review |
-| Gamma | Security Engineer / 79b3efcd-0380-41bc-9556-bc7c681adc43 | 2026-08-31 | Pending | Application complete / under review |
-| LangChain | Security Engineer - Detection & Response / 7b1e5ff7-4531-4d4a-8379-52a21b6d386d | 2026-08-31 | Pending | Application complete / under review |
-| Magic | Member of Technical Staff, Security Engineer / f9b3e872-cffa-400a-b9e0-621149c5f566 | 2026-08-31 | Rejected | Document screening rejection — decision 2026-09-02; Magic will not move forward |
-| Cognition | Security Engineer / 71165bb4-9bc8-49df-9eca-49c4232f72ff | 2026-08-31 | Pending | Application complete / under review |
-| Decagon | Security Engineer / 3998068a-4ce9-4a70-b9c0-7e89ef531331 | 2026-08-31 | Pending | Application complete / under review |
-| Baseten | Security Engineer / b85e4b1d-6531-46b5-bc8a-238f3761a50e | 2026-08-31 | Pending | Application complete / under review |
-| Figma | Security Engineer / 5829751004 | 2026-08-31 | Pending | Application complete / under review |
-| Vercel | Product Security Engineer / 6102343004 | 2026-08-31 | Pending | Application complete / under review |
-| Brain Co. | AI Application Security Engineer / 46cacd55-81d9-414c-9fcb-c8be15d94e4a | 2026-08-31 | Pending | Application complete / under review — portal success; receipt email absent |
-| Ironclad | Staff Application Security Engineer / b5d4466f-ffe3-4b31-9463-22a926206ece | 2026-08-31 | Pending | Application complete / under review |
-| Beacon Software | Staff/Lead Application Security Engineer / 2cd0e31a-fc69-455e-b089-98f80078e36f | 2026-08-31 | Pending | Application complete / under review |
-| Sazabi | Security Engineer / 32cbe0b4-e623-4227-a793-d89a24354e7f | 2026-08-31 | Pending | Application complete / under review — portal success; receipt email absent |
-| Sentry | Security Engineer, Detection & Response / ac1cb3c4-5408-4912-8591-eea2a84480b7 | 2026-09-01 | Pending | Application complete / under review — receipt verified |
-| Juicebox | Security Engineer / ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71 | 2026-09-01 | Pending | Application complete / under review — receipt verified |
-| Anthropic | Security Engineer, Detection & Response / 4982193008 | 2026-09-01 | Pending | Application complete / under review — Greenhouse receipt verified |
-| Amazon | Network Security Penetration Tester, AppSTAR Network Security / 10498016 | 2026-09-01 | Pending | Application complete / under review — Amazon receipt verified |
-| Snowflake | Staff Security Engineer - Threat Detection / 5ed76bcd-cb61-4222-900b-ad9fa89a472e | 2026-09-01 | Pending | Application complete / under review — Ashby receipt verified |
-| Anthropic | Senior Software Security Engineer / 4887959008 | 2026-09-01 | Pending | Application complete / under review — Greenhouse receipt verified |
-| Databricks | Staff Security Software Engineer, AI Security Engineering / 7882009002 | 2026-09-01 | Pending | Application complete / under review — Greenhouse receipt verified |
-| Tesla | Product Security Engineer, Vehicle Software / 225531 | 2026-09-01 | Pending | Application complete / under review — Tesla receipt verified |
-| NVIDIA | Cyber Security Analyst / JR2013392 | 2026-09-01 | Pending | Application complete / under review — Workday and receipt email verified |
-| Tesla | Sr. Security Engineer, Fleetnet, Vehicle Software / 256901 | 2026-09-01 | Pending | Application complete / under review — Tesla receipt verified |
-| Uber | Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) / 159199 | 2026-09-01 | Pending | Under Consideration — email verification completed and portal status verified |
-| Amazon | Senior Software Development Engineer, New Security Service / 10488832 | 2026-09-01 | Pending | Application complete / under review — Amazon success page verified |
-| Amazon | Application Security Engineer, AppSec ASSET / 10504744 | 2026-09-01 | Pending | Application complete / under review — Amazon success page verified |
-| Amazon | Application Security Engineer, AWS Proactive Security / 10507092 | 2026-09-01 | Pending | Application complete / under review — Amazon success page and receipt email verified |
-| Apple | Senior Software Engineer, Enterprise Technology Services / 200677752 | 2026-09-01 | Pending | Application submitted — Apple listing status verified |
-| Amazon | Software Development Engineer Internship - Fall 2026 / 3116030 | 2025-10-30 | Rejected | Document screening rejection — no longer under consideration |
-
-Audit totals: **57 submitted-application records** — 1 Google assessment passed and awaiting Recruiting review, 51 pending/unknown, and 5 explicit rejections (4 current-cycle and 1 historical). There is no interview or offer at this time. ByteDance A180075 was not submitted, and NVIDIA JR2017109 closed before submission, so neither is included in the 57-record total.
-
-## Google Careers recommendations — 2026-09-01
-
-Google Careers showed that 2 applications had been submitted in the prior 30 days and only 1 additional application could be submitted. Seven security-focused recommendations were read in full and ranked before using the final slot.
-
-| Rank | Role / requisition | Location | Fit | Level / compensation | Decision and material gaps |
-|---:|---|---|---:|---|---|
-| 1 | Senior Information Security Engineer, Cloud CISO, Vulnerability Rewards Program / 142106050210734790 | Sunnyvale | 97 | Mid/Senior; base $174K–$252K + 15% bonus + equity; est. TC $250K–$400K | APPLY. Vulnerability assessment, code review, penetration testing, incident response, remediation, technical writing, and cross-functional security work align directly. Public VRP ownership and Google-scale cloud depth are the main gaps. OPT/STEM likely compatible; H-1B likelihood very high; U.S. stay strong YES. |
-| 2 | Senior Security Engineer, Digital Forensics / 88359377076921030 | San Jose / San Francisco / New York | 96 | Mid/Senior; base $174K–$252K + 15% bonus + equity; est. TC $250K–$400K | APPLY if another Google slot becomes available. DFIR, malware/APT analysis, incident response, reverse engineering, firmware analysis, Python/C/C++ and reporting align. GRR, Plaso, TSK/libyal and global on-call incident-command depth are gaps. |
-| 3 | Senior Security Engineer, Insider and Technology Risk / 140657682011824838 | Sunnyvale / other U.S. locations | 92 | Mid/Senior; base $174K–$252K + 15% bonus + equity; est. TC $250K–$400K | APPLY if another slot becomes available. Insider-threat D&R, access-control risk, vulnerability management and executive reporting align. Formal control-framework testing and cloud-governance ownership are weaker. |
-| 4 | Security Engineer III, Cloud Security Controls / 136535844847526598 | San Jose / New York | 87 | Mid; base $147K–$210K + 15% bonus + equity; est. TC $220K–$340K | Expansion candidate. Security engineering, assessments, Python and remediation align; GCP/multi-cloud control implementation and production cloud posture ownership are gaps. |
-| 5 | Security Engineer II, Hybrid Cloud Guidelines / 101300536594047686 | San Jose / Seattle / Kirkland / New York | 83 | Early; base $123K–$174K + 15% bonus + equity; est. TC $180K–$280K | Expansion/low-priority. Strong general security and coding fit, but materially under-leveled; Terraform, GCP governance primitives and autonomous-agent infrastructure are gaps. |
-| 6 | Senior Security Engineer, Security Research / 117841477853160134 | San Jose | 82 | Advanced; base $207K–$300K + 20% bonus + equity; est. TC $320K–$520K | Expansion candidate. Vulnerability research, red teaming, reverse engineering and coding align, but the role specifically emphasizes iOS/macOS/XNU exploit development and an excellent public research record, which are not established in the source resumes. |
-| 7 | Research Engineer, Cyber Gemini, DeepMind / 130596375376077510 | Mountain View / San Francisco / New York | 78 | Research Engineer; base $174K–$252K + 15% bonus + equity; est. TC $250K–$400K | DO NOT APPLY under the 80+ rule. Cybersecurity, application security, vulnerability research and AI/ML study align, but the minimum 5 years of LLM pre-training or fine-tuning is not supported by the source resumes. |
-
-The rank-1 Cloud VRP application was prepared through the final Google review screen. Google Careers profile corrections were made using verified facts: address updated to `500 Primero Grove, Apt. 106, Davis, CA 95616`; duplicate email removed; phone normalized to `+15303769732`; UC Davis status set to Now attending; Kwangwoon status set to Graduated; job titles synchronized to the source resume; base `Kevin_Lee_Resume_Cybersecurity.pdf` uploaded. Preferred location is Sunnyvale; work authorization Yes; future sponsorship Yes; Alphabet employment No; gender Male; race Asian; not a protected veteran; no disability. A concise factual Cloud VRP cover letter was entered. Google applicant privacy/processing consent was accepted. The application is saved at the last reviewable step and **has not been submitted**, pending fresh per-application approval.
-
-## Prepared security applications — 2026-09-01
-
-The following applications were checked against the source resumes and prepared without final submission. Existing base resumes were selected under the resume-selection rule; no company-specific resume was created.
-
-| Employer | Role / requisition | Fit | Prepared status | Resume | Material gaps / notes |
-|---|---|---:|---|---|---|
-| Anthropic | Security Engineer, Detection & Response / 4982193008 | 97 | **Submitted 2026-09-01; Greenhouse confirmation page verified** | Kevin_Lee_Resume_Cybersecurity.pdf | Kubernetes experience is not established and was answered accordingly. Incident response was represented conservatively as support from another team; suspicious-DNS experience was limited to basic analysis because commercial/custom DNS tooling is not established. |
-| Amazon | Network Security Penetration Tester, AppSTAR Network Security / 10498016 | 88 | **Submitted 2026-09-01; Amazon success page verified** | Kevin_Lee_Resume_Network.pdf | Address corrected to 500 Primero Grove, Apt. 106. AWS product experience answered No. F-1, sponsorship Yes, CPT not currently required/used, STEM degree Yes. Current Republic of Korea government employment disclosed; Amazon-related work, U.S. federal contract/intelligence/senior-government role, future concurrent government employment, post-government restriction, and debarment answered No. |
-| Snowflake | Staff Security Engineer - Threat Detection / 5ed76bcd-cb61-4222-900b-ad9fa89a472e | 87 | **Submitted 2026-09-01; Ashby success page verified** | Kevin_Lee_Resume_Cybersecurity.pdf | Production detections-as-code, agentic detection workflows, and cloud-scale telemetry ownership remain gaps. Sponsorship Yes, U.S. work authorization Yes, non-U.S.-person/citizen of another country, and direct government employment Yes were disclosed. |
-| Anthropic | Senior Software Security Engineer / 4887959008 | 86 | **Submitted 2026-09-01; Greenhouse confirmation page verified** | Kevin_Lee_Resume_Cloud.pdf | Production IAM, Kubernetes security, cloud control ownership, and infrastructure-as-code depth are not established. |
-| Databricks | Staff Security Software Engineer, AI Security Engineering / 7882009002 | 85 | **Submitted 2026-09-01; embedded Greenhouse confirmation verified** | Kevin_Lee_Resume_AI.pdf | Expert production Python and AI-security platform ownership at Databricks scale remain gaps. Product Security/SDLC response uses only verified Ministry and KEPCO experience. |
-| Amazon | Senior Security Engineer, Ads Security / 10431835 | 76 | Not prepared or submitted under the fit-80+ rule | — | Role emphasizes production AI-security automation, agentic workflows, AWS architecture, and distributed systems not established at the required depth. |
-
-All five qualifying applications were submitted after the user's fresh approval on 2026-09-01. The previously prepared Google Cloud CISO Vulnerability Rewards Program application was explicitly excluded from that approval and remains unsubmitted.
-
-### Submission verification — 2026-09-01
-
-- Amazon displayed: `Thank you for applying! Your application for Network Security Penetration Tester, AppSTAR Network Security (Job ID: 10498016) has been submitted.`
-- Anthropic displayed Greenhouse receipt confirmations for both requisitions `4982193008` and `4887959008`.
-- Snowflake displayed: `Success — Your application was successfully submitted.`
-- Databricks displayed: `Thank you for applying to Databricks! Your application has been received.`
-- No Google application was submitted during this approval run.
-
-## Big-tech security screening (Google excluded) — 2026-09-01
-
-Official career sites were rechecked after the five-role submission batch. Scores reflect the base resumes and verified experience only. Submission status was reconciled on 2026-09-01 after the authorized application run.
-
-| Rank | Employer / role / requisition | Location | Fit | Status | Level / compensation | Decision and material gaps |
-|---:|---|---|---:|---|---|---|
-| 1 | Tesla — Product Security Engineer, Vehicle Software / 225531 | Palo Alto | 97 | **Submitted 2026-09-01; Tesla receipt page verified** | Senior-capable IC; base $160K–$330K + cash/stock; est. TC $210K–$460K | APPLY. Embedded-code auditing, penetration testing, security architecture, vulnerability remediation, C/C++, and critical infrastructure align. Automotive/CAN/ARM, applied cryptography, and exploit-development depth are the principal gaps. Separate requisition from the already-submitted Red Team role 225532. |
-| 2 | NVIDIA — Information Security Engineer / JR2017109 | CA Remote | 89 | **Closed before submission; official Workday search returned 0 jobs on 2026-09-01** | L3/L4; base $152K–$287.5K + equity; est. TC $220K–$450K | APPLY. Product/AppSec, SDLC, code review, remediation, automation, Python/Java/C++ and technical communication align. Production use of AI coding assistants, cloud/container/CI/CD, Kubernetes, and Terraform are material risks. |
-| 3 | ByteDance — Software Engineer (AI Agent Security) / A180075 | San Jose | 88 | **Not submitted; ByteDance account sign-in required** | Senior-capable SWE; base $218.4K–$480K + bonus/RSU; est. TC $280K–$600K | APPLY. TDR, AI/LLM security, Java/Python, incident response and security engineering align. Go/Rust, cloud-native infrastructure, Kubernetes, observability and global distributed-system ownership are gaps. |
-| 4 | NVIDIA — Cyber Security Analyst / JR2013392 | CA Remote | 88 | **Submitted 2026-09-01; Workday “Application Submitted” confirmation verified** | Senior hands-on IR; base $160K–$258.75K + equity; est. TC $220K–$400K | APPLY as an engineering-track IR role despite the Analyst title. Malware/APT analysis, IR, forensics, threat intelligence, networks and vulnerability analysis align. The explicit 8+ years of hands-on IR/threat hunting plus AWS/Azure/GCP and Kubernetes incident-response depth are risks. |
-| 5 | Tesla — Sr. Security Engineer, Fleetnet, Vehicle Software / 256901 | Palo Alto | 87 | **Submitted 2026-09-01; Tesla receipt page verified** | Senior IC; base $172K–$312K + cash/stock; est. TC $230K–$460K | APPLY. Secure coding, web security, threat modeling, application assessments, Java/Spring and infrastructure/network background align. Go, large-scale production distributed systems, IAM platform ownership and deeper applied cryptography are gaps. |
-| 6 | Uber — Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) / 159199 | Sunnyvale / San Francisco | 86 | **Submitted 2026-09-01; email verification completed; portal status Under Consideration** | Staff; base $232K–$258K + bonus/equity; est. TC $300K–$460K | APPLY expansion. Red teaming, IR, threat detection, Java/Python, AI/ML study and 10+ years align. Production agentic-security services, high-availability distributed systems, Go, EDR/SIEM engineering and staff-level platform architecture are gaps. |
-| 7 | NVIDIA — Senior Cyber Security Engineer, Vulnerability Operation / JR2021418 | CA Remote | 84 | **Not attempted in this six-role run** | Senior; base $196K–$310.5K + equity; est. TC $270K–$500K | APPLY expansion. Vulnerability analysis/remediation, AppSec, CTI, reporting, automation and AI-assisted prioritization align. The role asks for 12+ years in the domain; Tenable/Qualys/Tanium/CrowdStrike, AWS/Azure and enterprise vulnerability-workflow integrations are not established. |
-| 8 | TikTok — Security Operations Analyst, Detection Engineering & Threat Hunting / A174654 | San Jose | 84 | **Not attempted in this six-role run** | Senior analyst / detection engineer; base $111.6K–$223.2K + bonus/RSU; est. TC $170K–$330K | APPLY expansion if 24/7 shifts are acceptable. CTI, malware/APT analysis, IR, networks and Python align. Direct Splunk/Chronicle/Elastic, EDR, Sigma/EQL/KQL/YARA, SOAR and detection-as-code experience are not established. TC $220K+ is less certain. |
-
-Below threshold / not actionable: Tesla Embedded Security Engineer 226451 (fit 78; kernel/bootloader, HSM, TrustZone, Secure Boot and PKI implementation gaps); NVIDIA Machine Learning Engineer, AI Safety JR2021784 (fit 74; requires production model deployment and content-safety/multimodal research); Microsoft Security Researcher – AI Red Team 1970393556952558 (fit 79 and Redmond; agent-testing/research depth not established); Apple Security Server Application Engineer 200652003 is closed; no new verified Meta engineering-track role was found in this pass.
-
-OPT/STEM compatibility for the eight qualifying roles is assessed as generally favorable only after required employment authorization is approved. H-1B likelihood is inferred as high for NVIDIA, ByteDance/TikTok, and Uber, and medium-high for Tesla; sponsorship is not guaranteed by these individual postings.
-
-## Newly screened big-tech roles (application-limit employers excluded) — 2026-09-01
-
-Google and ByteDance/TikTok were excluded because their current application limits are already reached or reserved. The closed/unchanged Apple Software Engineering Internships record `200606145` was removed from all status tables. The roles below were checked against the source resumes and existing application IDs; submission progress is recorded after the table.
-
-| Rank | Employer / role / requisition | Location | Fit | Level / estimated TC | Work authorization / sponsorship / U.S.-stay judgment | Decision and material gaps |
-|---:|---|---|---:|---|---|---|
-| 1 | Amazon — Application Security Engineer, AppSec ASSET / 10504744 | Seattle | 96 | Mid/Senior Security Engineer; base $159.3K–$202.4K + sign-on/RSU; est. TC $220K–$310K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** if TC is $240K+ | **APPLY.** AppSec reviews, secure design/testing, incident response, networking, Python/Java/C++ and SDLC security align directly. AWS production ownership is the main gap. |
-| 2 | Amazon — Application Security Engineer, AWS Proactive Security / 10507092 | Seattle / Herndon | 95 | Mid/Senior Security Engineer; base $159.3K–$202.4K + sign-on/RSU; est. TC $220K–$310K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** if TC is $240K+ | **APPLY.** Application reviews, penetration testing, threat modeling, code review, security automation and technical reporting align. AWS-at-scale experience is not established. |
-| 3 | Amazon — Security Engineer, CS Security / 10378597 | Seattle / Austin | 94 | Mid/Senior Security Engineer; base $159.3K–$202.4K + sign-on/RSU; est. TC $220K–$310K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** if TC is $240K+ | **APPLY.** Secure coding remediation, threat modeling, AppSec, IR, Python/Java/C++, AI security and automated guardrails align. AWS and production LLM-security automation at business-unit scale are gaps. |
-| 4 | Zoom — Product Security Engineer / R19489 | U.S. Remote | 92 | Senior-capable Product Security Engineer; base/OTE $98.9K–$228.7K + bonus/equity; est. TC $170K–$300K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood medium-high; **CONDITIONAL YES** at TC $230K+ | **APPLY.** Threat modeling, architecture/code review, security testing, Burp Suite, Java/Python, OWASP and secure-coding guidance align closely. Hands-on AWS/IAM/S3 and distributed-cloud assessment depth are the main risks. |
-| 5 | Amazon — Senior Software Development Engineer, New Security Service / 10488832 | Santa Clara | 89 | Senior SDE; base $193.3K–$261.5K + sign-on/RSU; est. TC $285K–$430K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **STRONG YES** | **APPLY.** 10+ years of software engineering, Java, network/security background, AI/ML study and secure-development work align. Rust, hyperscale distributed-service ownership and explicit tech-lead/mentoring evidence are gaps. |
-| 6 | Apple — Software Engineer, Apple Services Engineering–Commerce / 200673082 | Cupertino | 86 | Mid/Senior SWE; base $150.4K–$277.6K + bonus/RSU; est. TC $220K–$400K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** | **APPLY**, security-adjacent. Java, secure account systems, authentication/authorization, incident response and databases align. High-volume distributed backend, autoscaling/traffic shaping and production observability ownership are weaker. |
-| 7 | Apple — Senior Software Engineer, Enterprise Technology Services / 200677752 | Sunnyvale | 83 | Senior SWE; base $184.7K–$277.6K + bonus/RSU; est. TC $260K–$420K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** | **APPLY expansion.** Java, Oracle/SQL, secure coding, enterprise systems and critical-infrastructure software align. The resume does not establish 5+ years of Java/J2EE, Oracle failover/replication, distributed SOA ownership or Kubernetes. Security is team context rather than the primary day-to-day track. |
-| 8 | Apple — Senior Software Engineer–Security / 200679881-3337 | Seattle | 82 | Senior SWE; base $175K–$308.5K + bonus/RSU; est. TC $250K–$460K | OPT/STEM structurally compatible after EAD approval; H-1B likelihood high; **YES** | **APPLY expansion.** Python/Java, AppSec assurance, secure coding, AI/ML study and vulnerability remediation align. Production agentic systems, software-supply-chain controls, artifact signing/attestation, CI/CD security and distributed backend ownership are not established. |
-
-Excluded after full review: Apple Senior Security Software Engineer, Software Supply Chain Security `200679771-3337` (fit 78: requires deep Go, SBOM/SCA, OSS dependency risk and production agentic-development ownership); Apple Quality Engineer, Tools and Automation `200679164-0836` (expression-of-interest posting rather than a specific vacancy); NVIDIA Senior Hardware Security Architect `JR2022806` (fit 76: required hardware development, GPU architecture and low-level firmware security are not established); NVIDIA Offensive Hardware Security Researcher `JR2016209` (minimum acceptance date passed and hardware exploitation/side-channel depth is not established); Salesforce/Slack Vulnerability Management `JR341745` (explicitly requires U.S. citizenship or permanent residence and offers no sponsorship).
-
-### Submission progress — 2026-09-01
-
-- Rank 5, Amazon `10488832`: **Submitted**; Amazon success page verified.
-- Rank 1, Amazon `10504744`: **Submitted**; Amazon success page verified.
-- Rank 2, Amazon `10507092`: **Submitted**; Amazon success page and receipt email verified.
-- Rank 7, Apple `200677752`: **Submitted**; Apple listing status verified. Cloud base resume used; work authorization Yes and future sponsorship Yes.
-
-## `굿모닝~` run — 2026-09-02
-
-This run excluded hiring-outcome review. Official employer career pages were checked against the existing requisition tracker. Seven qualifying applications were submitted using only verified facts and existing base resumes; portal confirmation or an employer-side `Submitted` state was verified for every completed application.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / material gaps | Level / compensation / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Snap | Security Engineer, Level 4 | H226SWES2 / https://careers.snap.com/job?id=H226SWES2 | 96 | **Submitted 2026-09-02; Workday displayed `Application Submitted` and confirmed receipt.** Answers verified on review: U.S. work authorization Yes; spouse-dependent authorization No; future sponsorship Yes; F-1 Yes; remaining currently authorized OPT/CPT months 0; relocation Yes; four-plus office days Yes; minimum experience Yes; Big Four employment No; not a veteran; no disability; terms accepted. Do not reapply. | Security Engineer L4; base $157K–$235K in CA/WA/NYC plus RSUs, est. TC $220K–$360K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay YES at TC $230K+. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Senior Security Engineer - Red Team | 200673234-3337 / https://jobs.apple.com/en-us/details/200673234-3337/senior-security-engineer-red-team | 94 | **Submitted 2026-09-02; Apple listing displays `Submitted`.** Deep security reviews, threat modeling, exploit chains, code review, automation and risk communication align. Internet-scale service depth and public CVE/community contributions are the main gaps. Do not reapply. | Senior Security Engineer; base $175K–$308.5K plus bonus/RSU, est. TC $250K–$460K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Anthropic | Staff+ Security Engineer, Risk Engineering | 5250052008 / https://job-boards.greenhouse.io/anthropic/jobs/5250052008 | 88 | **Submitted 2026-09-02; Greenhouse confirmation page verified.** Broad security engineering, Python/C++, threat modeling, remediation and cross-functional risk work align. Formal FAIR/Monte Carlo methods and prior accountability as the single owner of a major cross-team security risk are not established and were answered No. Do not reapply. | Staff+; published salary $320K–$405K plus equity; sponsorship stated; OPT/STEM compatible after authorization approval; H-1B likelihood very high; U.S. stay strong YES. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Apple | Software Engineer, Apple Services Engineering - Commerce | 200673082 / https://jobs.apple.com/en-us/details/200673082/software-engineer-apple-services-engineering-commerce | 86 | **Submitted 2026-09-02; Apple listing displays `Submitted`.** Java, secure account systems, authentication/authorization, incident response and databases align. High-volume distributed backend, autoscaling/traffic shaping and production observability ownership are weaker. Do not reapply. | Mid/Senior SWE; base $150.4K–$277.6K plus bonus/RSU, est. TC $220K–$400K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay YES. | Kevin_Lee_Resume_Cloud.pdf |
-| Apple | Senior Security Engineer | 200673187-3337 / https://jobs.apple.com/en-us/details/200673187-3337/senior-security-engineer | 84 | **Submitted 2026-09-02; Apple listing displays `Submitted`.** Security reviews, threat modeling, Python/Java, secure design and AI/ML security align. The posting's ten years specifically conducting reviews plus deep cloud-native, managed-platform, multi-tenant SaaS/PaaS and Kubernetes security are material expansion risks. Do not reapply. | Senior Security Engineer; base $175K–$308.5K plus bonus/RSU, est. TC $250K–$460K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay YES. | Kevin_Lee_Resume_Cloud.pdf |
-| Anthropic | Staff+ Software Security Engineer | 5120512008 / https://job-boards.greenhouse.io/anthropic/jobs/5120512008 | 84 | **Submitted 2026-09-02; Greenhouse confirmation page verified.** Ten-plus years of software/security work, Python/C/C++, secure coding, AppSec and threat modeling align. Deep identity/cryptography/secrets engineering, Kubernetes, multi-cloud, CI/CD and SBOM ownership are material expansion risks. Do not reapply. | Staff+; published salary $405K–$485K plus equity; sponsorship stated; OPT/STEM compatible after authorization approval; H-1B likelihood very high; U.S. stay strong YES. | Kevin_Lee_Resume_Cloud.pdf |
-| Apple | Senior Software Engineer - Security | 200679881-3337 / https://jobs.apple.com/en-us/details/200679881/senior-software-engineer-security | 82 | **Submitted 2026-09-02; Apple listing displays `Submitted`.** Python/Java, AppSec assurance, secure coding, AI/ML study and vulnerability remediation align. Production agentic systems, software-supply-chain controls, artifact signing/attestation, CI/CD security and distributed backend ownership remain material gaps. Do not reapply. | Senior SWE; base $175K–$308.5K plus bonus/RSU, est. TC $250K–$460K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay YES. | Kevin_Lee_Resume_Cloud.pdf |
-
-Additional resolved submission:
-
-- Amazon — Security Engineer, CS Security (`10378597`): fit 94; **submitted 2026-09-02** after the user confirmed that the current Republic of Korea government employment permits employment discussions with Amazon and/or its subsidiaries. Amazon displayed the success page `Thank you for your application`. Technical answers and employment-eligibility disclosures remained as previously reviewed: AWS product experience No; current Republic of Korea government employment Yes; future sponsorship Yes; Amazon/U.S.-federal/intelligence/senior-government relationships, future concurrent government employment, post-government restrictions and debarment No. Cybersecurity base resume used. Do not reapply.
-
-Closed, limited, or below threshold after full review:
-
-- Zoom — Product Security Engineer (`R19489`): posting returned 404/closed before submission; not counted as an application.
-- OpenAI — Security Engineer, Host Assurance (`3de4718b-8f4c-4b63-8637-02077a0113aa`): fit 82 expansion candidate, but excluded because OpenAI limits candidates to five applications in 180 days and the tracker already contains five OpenAI applications.
-- Apple — Senior Software Engineer, Security Frameworks (`200674183-3337`): fit 78; required strong Go plus production multi-language client SDK, IAM/OAuth/OIDC/OPA/Rego and versioned-library ownership are not established.
-- Apple — Security Adoption Engineer (`200673268-3337`): fit 76; the role is primarily high-volume adoption/enablement and stakeholder coordination rather than the requested engineering track.
-- Apple — Build Security Engineer (`200666261-0157`): official direct page displayed `No job details found`; closed before submission.
-- NVIDIA — Senior Network Security Engineer, DGX Cloud (`JR2021512`): search result was stale; official Workday page displayed `The page you are looking for doesn't exist`; not submitted.
-- Snap — Security Engineer (`R0043738`): Sydney-only and outside the requested U.S. location scope; not submitted.
-
-The identified application portfolio now contains **65 submitted-application records**: the prior 57 plus eight submissions on 2026-09-02. Hiring outcomes were intentionally not reviewed during this `굿모닝~` run.
-
-## `굿나잇~` portfolio audit — 2026-09-02
-
-Only the `yhylee@ucdavis.edu` mailbox was searched for explicit recruiting decisions, assessment results, interview invitations, scheduling requests, offers, and application confirmations. Three new negative decisions were found across the full 2026-09-02 audit, including a late-arriving decision for Amazon CS Security. A Snap Lead Technical Recruiter also invited the candidate to a 15-minute call; the candidate replied with availability, so this is now **recruiter screening / scheduling pending**. The email did not identify the exact Snap requisition, so it must not be assigned conclusively to either active Snap application until Cassidy confirms the role. No offer was found. The Google Hiring Assessment pass remains valid and awaiting Recruiting review.
-
-### Interview-stage progression
-
-| Employer | Role / requisition | Outreach date | Current stage / evidence |
-|---|---|---|---|
-| Snap | Security opportunity — exact requisition not stated; possible linkage to `R0045495` or `H226SWES2` | 2026-09-02 | **서류 합격 / 리크루터 스크리닝 일정 조율 중** — Lead Technical Recruiter Cassidy Turek invited Yonghyeon to a 15-minute call at 2:37 PM; Yonghyeon replied at 2:47 PM that he is available beginning 2026-09-03 and can accommodate the recruiter's schedule. Awaiting the confirmed time and exact role. |
-
-### New decisions
-
-| Employer | Role / requisition | Application date | Decision date | Current stage / evidence |
-|---|---|---|---|---|
-| Amazon / Ring | Sr. Security Engineer, Ring Application Security / 10491903 | 2026-08-31 | 2026-09-02 | **서류 탈락** — Amazon explicitly stated that it decided to progress with other candidates. |
-| Magic | Member of Technical Staff, Security Engineer / f9b3e872-cffa-400a-b9e0-621149c5f566 | 2026-08-31 | 2026-09-02 | **서류 탈락** — Magic explicitly stated that it would not move forward. |
-| Amazon | Security Engineer, CS Security / 10378597 | 2026-09-02 | 2026-09-02 | **서류 탈락** — Amazon explicitly stated that it decided to progress with other candidates. |
-
-### Applications added since the prior full portfolio table
-
-| Employer | Role / requisition | Application date | Outcome | Current stage / evidence |
-|---|---|---|---|---|
-| Anthropic | Staff+ Security Engineer, Risk Engineering / 5250052008 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Greenhouse confirmation and receipt email verified |
-| Anthropic | Staff+ Software Security Engineer / 5120512008 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Greenhouse confirmation and receipt email verified |
-| Apple | Software Engineer, Apple Services Engineering - Commerce / 200673082 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Apple listing displays `Submitted` |
-| Apple | Senior Software Engineer - Security / 200679881-3337 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Apple listing displays `Submitted` |
-| Apple | Senior Security Engineer - Red Team / 200673234-3337 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Apple listing displays `Submitted` |
-| Apple | Senior Security Engineer / 200673187-3337 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Apple listing displays `Submitted`; receipt email verified |
-| Snap | Security Engineer, Level 4 / H226SWES2 | 2026-09-02 | Pending | 지원 완료 / 검토 중 — Workday success and receipt email verified |
-| Amazon | Security Engineer, CS Security / 10378597 | 2026-09-02 | Rejected | **서류 탈락** — Amazon decision received 2026-09-02; it decided to progress with other candidates |
-
-All other rows in the 2026-09-01 full portfolio table remain unchanged. Current application-level totals: **65 submitted applications** — **1 assessment passed / Recruiting review pending**, **56 pending or status-unknown** (including two active Snap applications whose recruiter-outreach linkage is unresolved), and **8 explicit rejections** (7 current-cycle and 1 historical). Candidate-level progression: **1 Snap recruiter screen awaiting scheduling and exact-role confirmation**. No offer has been verified.
-
-## `굿모닝~` run — 2026-09-03
-
-This run excluded all hiring-outcome review. Official employer pages were checked against the existing requisition tracker, full job descriptions were reviewed, and five new engineering-track applications meeting the fit threshold were submitted. Existing base resumes were selected without creating company-specific resume variants. Every completed application reached an employer-side success page.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / verified answers | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Harvey | Staff Product Security Engineer | d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206 / https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206 | 92 | **Submitted 2026-09-03; Ashby displayed `Your application was successfully submitted`.** Legal name, Kevin as preferred first name, Davis location, current Ministry employer, UC Davis, U.S. work authorization Yes, future sponsorship Yes, and willingness to relocate for the SF three-day hybrid model were supplied. Product/AppSec, offensive security, secure remediation, software engineering and AI/ML security align. Staff-level product-security roadmap ownership, mentorship of senior engineers, hypergrowth startup experience and public CVE/bug-bounty evidence are the principal gaps. Do not reapply. | Staff; published base $220K–$330K plus bonus/equity, est. TC $280K–$500K; OPT/STEM structurally compatible after authorization approval; the form expressly accepts sponsorship-required applicants, so H-1B likelihood medium-high but not guaranteed; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Candid Health | Product Security Engineer | f111d46b-4efb-4b41-9cc2-a6bd49b71cfa / https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa | 91 | **Submitted 2026-09-03; Ashby displayed `Your application was successfully submitted`.** San Francisco selected, work authorization Yes, future sponsorship Yes, and factual F-1 practical-training/future-sponsorship context supplied. The required pronoun response was `I prefer not to answer` because no pronoun preference is verified. Threat modeling, code review, secure coding remediation, vulnerability management, Python/Java and incident-response support align. Production Kubernetes/cloud architecture, SAST/DAST/SCA CI/CD ownership, IaC and healthcare compliance are gaps. Do not reapply. | Senior-capable Product Security Engineer; published base $180K–$258K plus equity, est. TC $220K–$360K; OPT/STEM potentially compatible; H-1B likelihood medium/uncertain; U.S. stay **YES** if sponsorship and TC $240K+ are confirmed. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Security Engineer, Identity and Access Management | 10516566 / https://www.amazon.jobs/en/jobs/10516566/security-engineer-identity-and-access-management | 88 | **Submitted 2026-09-03; Amazon redirected to `Thank you for your application` with `result=success`.** Required qualifications were answered Yes except AWS product experience No. Existing verified work-eligibility data was preserved: prior Amazon application Yes, Amazon employment No, noncompete No, relocation Yes, future immigration support Yes, South Korea residence history and citizenship, current Republic of Korea government employment, permission certification accepted, all Amazon/U.S.-government relationship and restriction follow-ups No, sanctioned-location No, and other-country permanent residence No. Cybersecurity resume replaced the previously stored Network resume. Identity-protocol production depth in FIDO2/WebAuthn, Kerberos, OAuth/OIDC/SAML and Amazon-scale IAM ownership are expansion risks. Do not reapply. | Mid/Senior Security Engineer; Dallas base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **conditional YES** at TC $240K+ despite the lower-priority Dallas location. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Assort Health | Security Engineer, Cloud & Product Security | f7e575ec-2b75-47b7-ab90-eb1d0a82c2c8 / https://jobs.ashbyhq.com/assorthealth/f7e575ec-2b75-47b7-ab90-eb1d0a82c2c8 | 87 | **Submitted 2026-09-03; Ashby displayed `Thanks for applying, we'll reach out soon!`.** Four-day SF office schedule Yes, sponsorship Yes, and `New H1B (without valid current authorization)` selected to reflect the unapproved current CPT/OPT/EAD status. Product security, code review, remediation, cloud/network background, detection/IR and scripting align. Hands-on GCP/AWS program ownership, startup cloud-security maturity work and SOC 2 delivery are gaps. Do not reapply. | Mid/Senior security engineer; published base $190K–$225K plus equity, est. TC $225K–$340K; OPT/STEM potentially compatible after authorization approval; the form explicitly supports a new-H-1B path, so H-1B likelihood medium; U.S. stay **YES** if TC is $240K+ and sponsorship is confirmed. | Kevin_Lee_Resume_Cloud.pdf |
-| Crusoe | Senior Product Security Engineer | 80a3da02-12ab-4451-9f9a-915e34038bee / https://jobs.ashbyhq.com/Crusoe/80a3da02-12ab-4451-9f9a-915e34038bee | 86 | **Submitted 2026-09-03; Ashby displayed `Your application was successfully submitted`.** California, future sponsorship Yes, prior Crusoe employment No, SMS consent No, LinkedIn/GitHub, Male, Asian, and not a protected veteran were supplied. Application/offensive security, penetration testing, code review, remediation, AI/ML study and software engineering align. Deep Go and Node.js, distributed microservices, OAuth/OIDC/SAML/RBAC implementation, Kubernetes, production security-tool CI/CD integration and runtime observability are material expansion gaps. Do not reapply. | Senior Product Security Engineer; published base $175K–$215K plus bonus/RSUs, est. TC $230K–$350K; Crusoe's form explicitly states that sponsorship is offered; H-1B likelihood medium-high; U.S. stay **YES** if package is $250K+. | Kevin_Lee_Resume_AI.pdf |
-
-Closed, blocked, duplicate, or non-actionable findings:
-
-- Airwallex — Staff Product Security Engineer (`298d3a2a-44e4-4f7b-ab9f-094664b474bd`): fit 94 and strong compensation, but the required application acknowledgment explicitly prohibits any AI-tool use in the application and future interviews. No fields were filled and no application was submitted; manual-only if the user chooses to pursue it independently.
-- Collective — Product Security Engineer (`78299fd8-7ebd-4be8-8a9c-94e049d43343`): search result was stale; the live Ashby page displayed `Job not found`. Not submitted.
-- Amazon — Security Engineer, AmSec (`10489351`): search result was stale; the live official page returned HTTP 404. Not submitted.
-- Amazon — Security Engineer II, Stores Application Security (`10512781`): not submitted because it materially duplicates the previously submitted and rejected Stores Application Security role `10468150`; avoid a duplicate/reapplication.
-- Amazon — Security Engineer, CS Security (`10423968`): not submitted because it materially duplicates the same-team CS Security role `10378597`, which was submitted and rejected on 2026-09-02; avoid a duplicate/reapplication.
-- Roblox — Senior Security Software Engineer, Application Security (`7896293`): unchanged from the prior HOLD assessment; strong technical fit but the posting warns that future H-1B support may be unavailable for this role. Not submitted.
-- Crusoe — Staff Product Security Engineer (`b1b99030-d393-4329-80fe-5bc2e4c93b03`): not submitted because the newly identified Senior role `80a3da02-12ab-4451-9f9a-915e34038bee` is the stronger level/experience match within the same team; avoid parallel duplicate applications.
-- Coinbase — Product Security Engineer (`8165389`): Canada-only. Other current security-platform engineering openings were outside the United States, so no application was submitted.
-
-The identified portfolio now contains **70 submitted-application records**: the prior 65 plus five submissions on 2026-09-03. Hiring outcomes were intentionally not reviewed during this `굿모닝~` run; the last verified outcome totals remain separate for the next `굿나잇~` audit.
-
-## `굿모닝~` run — 2026-09-07
-
-This run excluded all hiring-outcome review. Official employer pages were checked against the existing requisition tracker, full job descriptions and application qualification questions were reviewed, and five new engineering-track applications meeting the fit threshold were submitted. The existing base Cybersecurity resume was used without creating company-specific variants. Each completed Amazon application reached the employer-side `Thank you for your application` page with `result=success`.
-
-| Employer | Role | Requisition / URL | Fit | Submission status / verified answers | Level / estimated TC / immigration / U.S.-stay judgment | Resume |
-|---|---|---|---:|---|---|---|
-| Amazon | Security Engineer, AWS Security | 10406134 / https://www.amazon.jobs/en/jobs/10406134/security-engineer-aws-security | 94 | **Submitted 2026-09-07; Amazon success page verified.** Secure-by-default guardrails, architecture review, threat modeling, secure coding, vulnerability remediation, incident response, networking, Python/Java/C++ and AI/ML security align. Existing verified answers were preserved: prior Amazon application Yes; Amazon employment No; noncompete No; relocation and immediate legal eligibility Yes; future sponsorship Yes; F-1; prior H-1B/J-1 No; CPT required No; STEM degree Yes; current Republic of Korea government employment Yes with permission certification; Amazon/government relationship and restriction follow-ups No; sanctioned-location No; South Korean citizenship; no other permanent residence. Do not reapply. | Mid/Senior Security Engineer; Seattle base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **YES** at TC $240K+. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Security Engineer, Security for Employee and Legal Systems (SEALS) | 10524818 / https://amazon.jobs/en/jobs/10524818/security-engineer-security-for-employee-and-legal-systems-seals | 96 | **Submitted 2026-09-07; Amazon success page verified.** Application security, threat modeling, architecture/code review, secure remediation, Python/Java/C++, AI/LLM security and authentication/authorization align. AWS product experience was answered No because direct hands-on AWS product use is not established; all other technical minimum/preferred questions were answered Yes where supported. Work-eligibility and government-employment answers matched requisition 10406134. Do not reapply. | Mid/Senior Security Engineer; Seattle base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **YES** at TC $240K+. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Security Engineer II, Stores Security – HealthCare | 10464856 / https://www.amazon.jobs/en/jobs/10464856/security-engineer-ii-stores-security-healthcare | 91 | **Submitted 2026-09-07; Amazon success page verified.** Detection/monitoring, incident response, threat intelligence, attacker tradecraft, automation, Docker, AI/ML security and technical reporting align. Direct AWS/Azure cloud-hosting experience was answered No; Docker/container ecosystem was answered Yes. Work-eligibility and government-employment answers matched requisition 10406134. Cloud-scale detection-as-code, SOAR, Kubernetes and HIPAA ownership are the main gaps. Do not reapply. | Mid/Senior Security Engineer; Seattle base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **YES** at TC $240K+. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Sr Security Engineer, AWS Infrastructure Security | 10530005 / https://www.amazon.jobs/en/jobs/10530005/sr-security-engineer-aws-infrastructure-security | 88 | **Submitted 2026-09-07; Amazon success page verified.** Network security, identity-related risk, vulnerability analysis, remediation, scripting/code review and critical-infrastructure security align. Formal mentor/tech-lead/engineering-team leadership and service-oriented/microservices security experience were answered No because they are not explicitly established in the source resumes. Work-eligibility and government-employment answers matched requisition 10406134. Do not reapply. | Senior Security Engineer; Seattle base $178.4K–$226.7K plus sign-on/RSUs, est. TC $250K–$360K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. | Kevin_Lee_Resume_Cybersecurity.pdf |
-| Amazon | Security Engineer II, Enterprise Protection Program | 10505020 / https://www.amazon.jobs/en/jobs/10505020/security-engineer-ii-enterprise-protection-program | 90 | **Submitted 2026-09-07; Amazon success page verified.** Insider-risk investigation, malware/APT analysis, CTI, incident response, log analysis, cross-organizational security work, automation and technical/executive reporting align. Information-security professional certification and direct AWS product experience were answered No; the source resume lists general IT/data certifications but not a security-professional certification. Work-eligibility and government-employment answers matched requisition 10406134. Do not reapply. | Mid/Senior Security Engineer; Herndon/Arlington/Seattle base $159.3K–$202.4K plus sign-on/RSUs, est. TC $220K–$310K; OPT/STEM structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **conditional YES** at TC $240K+ due lower-priority location. | Kevin_Lee_Resume_Cybersecurity.pdf |
-
-Additional completed submission:
-
-- Apple — Secure Systems Engineer, Platform Architecture Security Team (`200681859-0836`), Cupertino/Austin/Beaverton/San Diego: fit 90, posted 2026-09-04, base $184.7K–$277.6K plus bonus/RSUs, est. TC $260K–$430K. **Submitted 2026-09-07 after user-completed Apple two-factor authentication; Apple displayed `Your information has been submitted for Secure Systems Engineer - Platform Architecture Security Team role`.** `Kevin_Lee_Resume_Cybersecurity.pdf` replaced the prior Cloud resume. The review page verified the Primero Grove address, Cupertino among the role locations, Apple employment and contractor history No, U.S. work authorization Yes, future sponsorship Yes, Male, Asian, not a protected veteran, and no disability. Security architecture, threat modeling, vulnerability analysis, Python/C/C++, secure coding and 10+ years align; deep distributed-service ownership and hands-on PKI/key-management/Secure Boot implementation are gaps. OPT/STEM is structurally compatible after authorization approval; H-1B likelihood high; U.S. stay **strong YES**. Do not reapply.
-
-Closed, duplicate, or below-threshold findings:
-
-- Amazon — Security Engineer II, Stores AppSec (`10524054`): not submitted because it is a same-title/same-team material duplicate or reposting of previously submitted and rejected Stores Application Security requisition `10468150`; an application draft was opened but no final submission was made. Avoid reapplication.
-- Amazon — Senior Security Engineer, AWS Marketplace (`10445229`) and Senior Software Security Engineer, AWS Identity Security (`10407551`): official direct pages returned HTTP 404; not submitted.
-- Amazon — Security Engineer, Forward Deployed Engineering (`10529387`): otherwise strong Mountain View AI-security fit, but the posting explicitly requires U.S. citizenship; not eligible and not submitted.
-- NVIDIA — Security Research Engineer, AI Safety (`JR2021887`), Senior Network Security Engineer, DGX Cloud (`JR2021512`), Senior Cybersecurity Architect (`JR2006128`), Principal Security Data Engineer (`JR2019415`), and Senior Security Architect, Cloud Authentication (`JR2018329`): official Workday pages displayed that the pages do not exist; not submitted.
-- NVIDIA — Senior Cybersecurity Engineer, Identity Platform & Access Management (`JR2016493`): live but fit 78; the posting requires 12+ years of platform/infrastructure engineering and extensive hands-on identity/token-platform leadership not established in the resumes. Not submitted under the fit-80+ rule.
-- Apple — Senior Software Engineer, Platform Apps & Technologies (`200680764`): fit 78; large-scale distributed-platform ownership and production applied-ML/data-engineering depth are not established. Not submitted under the fit-80+ rule.
-
-The identified portfolio now contains **76 submitted-application records**: the prior 70 plus six submissions on 2026-09-07. Hiring outcomes were intentionally not reviewed during this `굿모닝~` run; the last verified outcome totals remain separate for the next `굿나잇~` audit.
+> Canonical current-state tracker. Historical verbose application runs, screening notes, compensation research, and prior workflow details are preserved in Git history and branch `tracker-history-2026-09-07`.
+
+## Current portfolio — audited 2026-09-07 (America/Los_Angeles)
+
+- **Tracked submitted applications: 107**
+- **지원 완료 / 검토 중: 88**
+- **서류 합격: 1**
+- **서류 탈락: 18**
+- **인터뷰 1 예정/완료, 인터뷰 2 예정/완료, 추가 인터뷰 진행, 최종 합격/오퍼, 면접 탈락, 지원 철회, 공고 종료 — 결과 미확인, 상태 불명: 0**
+- **Active scheduled recruiter/interview events: 0**
+- **Verified offers: 0**
+
+### Status interpretation
+
+- Current status is determined only from explicit employer email or verifiable portal evidence. Silence, generic marketing mail, or ambiguous wording does not imply progression or rejection.
+- Preserve the original application date separately from later decision/interview dates.
+- User-directed exclusions: do **not** count or recreate the unmapped OpenAI generic confirmation dated 2026-08-27 or the unmapped Google generic confirmation dated 2026-09-01 unless a distinct exact role/requisition is explicitly verified later.
+- `yhylee@ucdavis.edu` is the only mailbox authorized for recruiting/application-status audits.
+
+### Most advanced active application
+
+- **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
+
+### Latest audit changes
+
+- **Amazon — Security Engineer, AWS Security / 10406134** — applied 2026-09-07; explicit rejection received 2026-09-07 20:59 PT → `서류 탈락`.
+- Newly confirmed exact applications from UC Davis Gmail, all applied 2026-09-07 and currently `지원 완료 / 검토 중`: **Chime Senior Security Engineer; Corridor Software Engineer; Notion Software Engineer, AI Product Security; Hive Security Engineer; Assort Health Security Engineer, Detection & Response**. Requisition IDs were not stated in the receipt emails and remain `미확인`.
+
+## Full current portfolio
+
+| # | Employer | Role | Requisition | Application date | Outcome | Current stage | Decision / evidence note |
+|---:|---|---|---|---|---|---|---|
+| 1 | Google | Senior Information Security Engineer, Product Security Engineering | 미확인 | 2026-08-27 | 미정 | 서류 합격 | Google Hiring Assessment passed 2026-09-01; Recruiting review pending |
+| 2 | Google | Senior Offensive Security Consultant, Mandiant, Google Cloud | 미확인 | 2026-08-27 | 미정 | 지원 완료 / 검토 중 | — |
+| 3 | Anthropic | Staff+ Application Security Engineer | 4502508008 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
+| 4 | Apple | Security Engineer - Apple Pay | 200667427 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
+| 5 | OpenAI | Security Engineer, Detection and Response | f956b77c-3cc5-4fdd-9463-2a6e5047e57c | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
+| 6 | Waymo | Senior Security Engineer | 3658 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
+| 7 | Tesla | Security Engineer, Red Team, Vehicle Software | 225532 | 2026-08-28 | 불합격 | 서류 탈락 | decision 2026-09-01 |
+| 8 | Anthropic | Staff+ Application Security Engineer - M&A | 5311463008 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 9 | Anthropic | Security Software Engineer, Detection & Response Platform | 4595463008 | 2026-08-29 | 불합격 | 서류 탈락 | decision 2026-08-31 |
+| 10 | OpenAI | Security Engineer, Application Security | 0322d6d8-6588-4209-a304-83e768063a25 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 11 | OpenAI | Security Engineer, Insider Threat Detection & Response | f84dbb5c-6008-40f1-b388-1434d159d4a4 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 12 | OpenAI | Offensive Security Engineer, Agent Products | bb97fffc-cdda-43a3-a6bc-234f9c031720 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 13 | Apple | Offensive Security Researcher, SEAR | 200659973-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 14 | Amazon | Security Engineer II, Stores Application Security | 10468150 | 2026-08-29 | 불합격 | 서류 탈락 | decision 2026-08-31 |
+| 15 | Apple | Senior Security Engineer | 200657994-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 16 | Scale AI | Security Engineer, Product Security | 4643029005 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 17 | NVIDIA | Senior Software Engineer, Security | JR2018245 | 미확인 | 불합격 | 서류 탈락 | decision 2026-09-03 |
+| 18 | Amazon | Security Engineer II, Devices and Services Security | 10475581 | 2026-08-30 | 불합격 | 서류 탈락 | decision 2026-08-31 |
+| 19 | LinkedIn | Staff Security Engineer - AI | 4425661803 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 20 | Apple | Security Software Engineer, Enterprise Technology Services | 200677750-3956 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 21 | NVIDIA | Intellectual Property Security Engineer | JR2021915 | 2026-08-30 | 불합격 | 서류 탈락 | decision 2026-09-07 |
+| 22 | Apple | Platform Engineer - Security | 200667725-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 23 | Apple | Platform Security Certification Engineer | 200668286-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 24 | Apple | Secure Design Engineer, SEAR | 200670923-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 25 | Scale AI | Security Engineer, Detection & Response | 4684073005 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 26 | Snap | Security Engineer, Level 5, Detection & Response | R0045495 | 2026-08-30 | 불합격 | 서류 탈락 | decision 2026-09-04 |
+| 27 | Amazon / Ring | Sr. Security Engineer, Ring Application Security | 10491903 | 2026-08-31 | 불합격 | 서류 탈락 | decision 2026-09-02 |
+| 28 | Lambda | Security Engineer | e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 29 | Gamma | Security Engineer | 79b3efcd-0380-41bc-9556-bc7c681adc43 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 30 | LangChain | Security Engineer - Detection & Response | 7b1e5ff7-4531-4d4a-8379-52a21b6d386d | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 31 | Magic | Member of Technical Staff, Security Engineer | f9b3e872-cffa-400a-b9e0-621149c5f566 | 2026-08-31 | 불합격 | 서류 탈락 | decision 2026-09-02 |
+| 32 | Cognition | Security Engineer | 71165bb4-9bc8-49df-9eca-49c4232f72ff | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 33 | Decagon | Security Engineer | 3998068a-4ce9-4a70-b9c0-7e89ef531331 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 34 | Baseten | Security Engineer | b85e4b1d-6531-46b5-bc8a-238f3761a50e | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 35 | Figma | Security Engineer | 5829751004 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 36 | Vercel | Product Security Engineer | 6102343004 | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 37 | Brain Co. | AI Application Security Engineer | 46cacd55-81d9-414c-9fcb-c8be15d94e4a | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 38 | Ironclad | Staff Application Security Engineer | b5d4466f-ffe3-4b31-9463-22a926206ece | 2026-08-31 | 불합격 | 서류 탈락 | decision 2026-09-03 |
+| 39 | Beacon Software | Staff/Lead Application Security Engineer | 2cd0e31a-fc69-455e-b089-98f80078e36f | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 40 | Sazabi | Security Engineer | 32cbe0b4-e623-4227-a793-d89a24354e7f | 2026-08-31 | 미정 | 지원 완료 / 검토 중 | — |
+| 41 | Amazon | Software Development Engineer Internship - Fall 2026 | 3116030 | 2025-10-30 | 불합격 | 서류 탈락 | historical; no longer under consideration |
+| 42 | Sentry | Security Engineer, Detection & Response | ac1cb3c4-5408-4912-8591-eea2a84480b7 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-02 |
+| 43 | Juicebox | Security Engineer | ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 44 | Anthropic | Security Engineer, Detection & Response | 4982193008 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-03 |
+| 45 | Amazon | Network Security Penetration Tester, AppSTAR Network Security | 10498016 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 46 | Snowflake | Staff Security Engineer - Threat Detection | 5ed76bcd-cb61-4222-900b-ad9fa89a472e | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 47 | Anthropic | Senior Software Security Engineer | 4887959008 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 48 | Databricks | Staff Security Software Engineer, AI Security Engineering | 7882009002 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 49 | Tesla | Product Security Engineer, Vehicle Software | 225531 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-04 |
+| 50 | NVIDIA | Cyber Security Analyst | JR2013392 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 51 | Tesla | Sr. Security Engineer, Fleetnet, Vehicle Software | 256901 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-05 |
+| 52 | Uber | Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) | 159199 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | portal Under Consideration |
+| 53 | Amazon | Senior Software Development Engineer, New Security Service | 10488832 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 54 | Amazon | Application Security Engineer, AppSec ASSET | 10504744 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 55 | Amazon | Application Security Engineer, AWS Proactive Security | 10507092 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 56 | Apple | Senior Software Engineer, Enterprise Technology Services | 200677752 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 57 | Snap | Security Engineer, Level 4 | H226SWES2 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 58 | Anthropic | Staff+ Security Engineer, Risk Engineering | 5250052008 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-03 |
+| 59 | Anthropic | Staff+ Software Security Engineer | 5120512008 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 60 | Apple | Software Engineer, Apple Services Engineering - Commerce | 200673082 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 61 | Apple | Senior Software Engineer - Security | 200679881-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 62 | Apple | Senior Security Engineer - Red Team | 200673234-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 63 | Apple | Senior Security Engineer | 200673187-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 64 | Amazon | Security Engineer, CS Security | 10378597 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-02 |
+| 65 | Harvey | Staff Product Security Engineer | d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 66 | Candid Health | Product Security Engineer | f111d46b-4efb-4b41-9cc2-a6bd49b71cfa | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 67 | Amazon | Security Engineer, Identity and Access Management | 10516566 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 68 | Assort Health | Security Engineer, Cloud & Product Security | f7e575ec-2b75-47b7-ab90-eb1d0a82c2c8 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 69 | Crusoe | Senior Product Security Engineer | 80a3da02-12ab-4451-9f9a-915e34038bee | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 70 | Amazon | Security Engineer, AWS Security | 10406134 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-07 20:59 PT |
+| 71 | Amazon | Security Engineer, Security for Employee and Legal Systems (SEALS) | 10524818 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 72 | Amazon | Security Engineer II, Stores Security – HealthCare | 10464856 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 73 | Amazon | Sr Security Engineer, AWS Infrastructure Security | 10530005 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 74 | Amazon | Security Engineer II, Enterprise Protection Program | 10505020 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 75 | Apple | Secure Systems Engineer, Platform Architecture Security Team | 200681859-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 76 | Amazon | Senior Security Engineer, AI Red Team, Threat Operations | 10412446 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 77 | Amazon | Senior Security Engineer, Corporate Services Security | 10524826 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 78 | Amazon | Security Engineer II, Global Media and Entertainment Security | 10512097 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 79 | Apple | Sr Automation & Intelligence Tools Engineer, SEAR | 200676748-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 80 | NVIDIA | Senior Security Engineer, RTOS and Virtualization | JR2023153 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 81 | NVIDIA | Senior AI Security Researcher | JR2017578 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 82 | NVIDIA | Senior Offensive Security Engineer, Automotive | JR2022838 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 83 | Zoox | Senior Information Security Engineer (Detection, Automation & AI) | 57b8519b-e599-44eb-84dc-403cea7bca49 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 84 | Whatnot | Threat Detection and Response Engineer | 2b5b4bc2-6d47-4afd-afcb-72b4879bea1f | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 85 | Reflection AI | Member of Technical Staff - Security Engineer | a38f03ad-770c-4c53-be91-0d04171d8ead | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 86 | Zoox | Network Security Engineer | 8321d00e-9e2b-4947-a37e-fdbad7dcd637 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 87 | Zoox | Senior/Staff Network Security Engineer | 9945ef61-1c15-4cf1-9734-b65944c73757 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 88 | Zoox | Senior Software Systems Engineer - Security | f8150234-1695-4ed9-a820-c81e66ca693a | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 89 | Grow Therapy | Senior/Staff Security Engineer, Incident Response | fa101721-1fba-42ae-a949-5389e82e11c0 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 90 | Serval | Security Engineer, Detection and Response | 5250c679-d490-407e-bd2e-b8b160c62aac | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 91 | Higgsfield AI | IT Security Engineer | f76f61cf-b346-4bc3-8c87-ef40f81185c6 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 92 | Edison Scientific | Security Operations Engineer | 6d89ca9a-ced1-4276-a9c5-b64459635b52 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 93 | Sentry | Security Engineer, Application Security | dc1e73a4-3cb8-4269-82b5-fdc6495b7e83 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 94 | Sierra | Security Engineer | bbef339c-3365-40df-804b-ece245386b43 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 95 | Nooks | Security Engineer | b2c97a00-5176-4faf-a3b5-9e55f495267a | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 96 | Apollo Research | Security Engineer | 855f584d-08dd-4845-93b8-dbeb6737707d | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 97 | Security Level 5 | Member of Technical Staff (Security, Engineering, Research) | e9857b2d-5e2e-4426-8886-99af4154f5a0 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 98 | Anyscale | Senior Cloud Security Engineer | 63247d0f-5346-4f8e-a2d2-25baf5fd3c3a | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 99 | Applied Compute | Platform Security Engineer | 8c508d42-1cc2-43ba-95d6-b109b811febb | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 100 | Serval | Security Engineer, Application | c98b5c56-48fc-4da7-9f3f-577bd1aa7aec | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 101 | Apollo Research | Product Security Engineer | c2ee47f7-4fe9-41a7-86fd-ce0a23fe4850 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 102 | Apollo Research | AI Red Team Engineer | 459b83bf-4e7d-41c5-b93e-c589c6b71bfe | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 103 | Chime | Senior Security Engineer | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:09 PT |
+| 104 | Corridor | Software Engineer | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:04 PT |
+| 105 | Notion | Software Engineer, AI Product Security | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:03 PT |
+| 106 | Hive | Security Engineer | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:00 PT |
+| 107 | Assort Health | Security Engineer, Detection & Response | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 21:58 PT |
+
+## Current workflow rules
+
+### `굿나잇~` / status audit
+
+- Read only the UC Davis Gmail account `yhylee@ucdavis.edu` and reconcile new recruiting/application-status messages against every row in this tracker.
+- Inspect new inbox mail broadly and cross-check recruiter/scheduling/assessment/interview/offer/rejection terms; open the relevant full message/thread before changing status.
+- Normalize stages where applicable as: `지원 완료 / 검토 중`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `상태 불명`.
+- Never infer a stage from silence. If date, exact role mapping, interview round, or decision basis is unverified, use `미확인`.
+- Read-only mailbox/portal checks plus tracker updates are authorized. Do not reply, schedule/reschedule, accept an offer, withdraw an application, or make another external commitment.
+- Report: (1) key changes, (2) total/stage counts, and (3) complete portfolio.
+
+### Scheduled integrated routine
+
+- 08:00 America/Los_Angeles: search for new engineering-track security roles; do not submit applications or make external commitments.
+- 20:00 America/Los_Angeles: run the `굿나잇~` status audit above.
+- Google/Alphabet/DeepMind discovery remains excluded until the user explicitly re-enables it because of the current Google application-limit strategy.
+
+## Core factual/application source rules
+
+- Primary resume/source repository: `section9-us/CV`; use the latest factual resumes rather than inventing experience.
+- Legal name: Yonghyeon Lee; preferred name: Kevin; email: `yhylee@ucdavis.edu`; current location: Davis, California.
+- Current status: F-1 student. General application work-authorization answer has been user-directed as `Yes`, but current CPT/OPT/EAD is **not yet approved or issued** and prior CPT/OPT use is zero months. Future employment visa sponsorship: **Yes**.
+- Do not claim U.S. citizenship/U.S.-person status, permanent/unrestricted work authorization, an existing security clearance, or another unverified credential.
+- Current Republic of Korea government employment is established by the source resume and must be disclosed when directly asked.
+- Open to relocation and materially equivalent advertised office-attendance requirements: Yes, per verified recurring answers.
+- When a new required factual/legal/immigration/export-control/compensation/certification answer is not established, do not guess.
+
+## Historical reference
+
+- Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
+- Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
+
+Last status audit: **2026-09-07 (America/Los_Angeles)**
