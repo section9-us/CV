@@ -1,14 +1,23 @@
 # Security Engineering Job Search Tracking
 
-> Canonical current-state tracker. Historical verbose application runs, screening notes, compensation research, and prior workflow details are preserved in Git history and branch `tracker-history-2026-09-07`.
+> Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — audited 2026-09-07 (America/Los_Angeles)
+## Current portfolio — audited 2026-09-08 (America/Los_Angeles)
 
-- **Tracked submitted applications: 107**
-- **지원 완료 / 검토 중: 88**
+- **Tracked submitted applications: 116**
+- **지원 완료 / 검토 중: 96**
 - **서류 합격: 1**
-- **서류 탈락: 18**
-- **인터뷰 1 예정/완료, 인터뷰 2 예정/완료, 추가 인터뷰 진행, 최종 합격/오퍼, 면접 탈락, 지원 철회, 공고 종료 — 결과 미확인, 상태 불명: 0**
+- **서류 탈락: 19**
+- **인터뷰 1 예정: 0**
+- **인터뷰 1 완료: 0**
+- **인터뷰 2 예정: 0**
+- **인터뷰 2 완료: 0**
+- **추가 인터뷰 진행: 0**
+- **최종 합격 / 오퍼: 0**
+- **면접 탈락: 0**
+- **지원 철회: 0**
+- **공고 종료 — 결과 미확인: 0**
+- **상태 불명: 0**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
 
@@ -23,16 +32,17 @@
 
 - **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
 
-### Latest audit changes
+### Latest audit changes — 2026-09-08
 
-- **Amazon — Security Engineer, AWS Security / 10406134** — applied 2026-09-07; explicit rejection received 2026-09-07 20:59 PT → `서류 탈락`.
-- Newly confirmed exact applications from UC Davis Gmail, all applied 2026-09-07 and currently `지원 완료 / 검토 중`: **Chime Senior Security Engineer; Corridor Software Engineer; Notion Software Engineer, AI Product Security; Hive Security Engineer; Assort Health Security Engineer, Detection & Response**. Requisition IDs were not stated in the receipt emails and remain `미확인`.
+- **Amazon — Security Engineer II, Global Media and Entertainment Security / 10512097** — applied 2026-09-07; explicit rejection received 2026-09-08 08:02 PT → `서류 탈락`.
+- **Nine new applications received 2026-09-08** and added as `지원 완료 / 검토 중`: Peregrine Technologies — Staff Software Engineer, Product Security; Cerebras Systems — Application Security Engineer; Notion — Security Engineer, Detection and Response; Pinterest — Security Software Engineer II, Detection and Response; Oscar — Senior Security Engineer I, Product Security; NVIDIA — Security Software Engineer, Vulnerability Operations / JR2024620; Apollo Research — AI Security Researcher; Flex — Senior Software Engineer, Security; Sigma Computing — exact role/requisition not stated in receipt, therefore `미확인`.
+- No verified interview request, interview schedule, additional round, offer, withdrawal, or other stage progression was found in this audit.
 
 ## Full current portfolio
 
 | # | Employer | Role | Requisition | Application date | Outcome | Current stage | Decision / evidence note |
 |---:|---|---|---|---|---|---|---|
-| 1 | Google | Senior Information Security Engineer, Product Security Engineering | 미확인 | 2026-08-27 | 미정 | 서류 합격 | Google Hiring Assessment passed 2026-09-01; Recruiting review pending |
+| 1 | Google | Senior Information Security Engineer, Product Security Engineering | 미확인 | 2026-08-27 | 미정 | 서류 합격 | Assessment passed 2026-09-01; Recruiting review pending |
 | 2 | Google | Senior Offensive Security Consultant, Mandiant, Google Cloud | 미확인 | 2026-08-27 | 미정 | 지원 완료 / 검토 중 | — |
 | 3 | Anthropic | Staff+ Application Security Engineer | 4502508008 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
 | 4 | Apple | Security Engineer - Apple Pay | 200667427 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
@@ -109,7 +119,7 @@
 | 75 | Apple | Secure Systems Engineer, Platform Architecture Security Team | 200681859-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 76 | Amazon | Senior Security Engineer, AI Red Team, Threat Operations | 10412446 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 77 | Amazon | Senior Security Engineer, Corporate Services Security | 10524826 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
-| 78 | Amazon | Security Engineer II, Global Media and Entertainment Security | 10512097 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 78 | Amazon | Security Engineer II, Global Media and Entertainment Security | 10512097 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-08 08:02 PT |
 | 79 | Apple | Sr Automation & Intelligence Tools Engineer, SEAR | 200676748-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 80 | NVIDIA | Senior Security Engineer, RTOS and Virtualization | JR2023153 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 81 | NVIDIA | Senior AI Security Researcher | JR2017578 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
@@ -139,6 +149,15 @@
 | 105 | Notion | Software Engineer, AI Product Security | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:03 PT |
 | 106 | Hive | Security Engineer | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 22:00 PT |
 | 107 | Assort Health | Security Engineer, Detection & Response | 미확인 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-07 21:58 PT |
+| 108 | Peregrine Technologies | Staff Software Engineer, Product Security | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 09:37 PT |
+| 109 | Cerebras Systems | Application Security Engineer | 91bc61c1-29db-4a47-817d-30e921064af5 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 09:45 PT |
+| 110 | Notion | Security Engineer, Detection and Response | c0fcf37b-e00f-4aae-a2e0-b008f9939a7e | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 09:48 PT |
+| 111 | Pinterest | Security Software Engineer II, Detection and Response | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 09:57 PT |
+| 112 | Oscar | Senior Security Engineer I, Product Security | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 10:00 PT |
+| 113 | NVIDIA | Security Software Engineer, Vulnerability Operations | JR2024620 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 10:07 PT |
+| 114 | Apollo Research | AI Security Researcher | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 10:14 PT |
+| 115 | Flex | Senior Software Engineer, Security | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 10:18 PT |
+| 116 | Sigma Computing | 미확인 | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-08 10:23 PT; role not stated, do not infer |
 
 ## Current workflow rules
 
@@ -155,21 +174,10 @@
 
 - 08:00 America/Los_Angeles: search for new engineering-track security roles; do not submit applications or make external commitments.
 - 20:00 America/Los_Angeles: run the `굿나잇~` status audit above.
-- Google/Alphabet/DeepMind discovery remains excluded until the user explicitly re-enables it because of the current Google application-limit strategy.
-
-## Core factual/application source rules
-
-- Primary resume/source repository: `section9-us/CV`; use the latest factual resumes rather than inventing experience.
-- Legal name: Yonghyeon Lee; preferred name: Kevin; email: `yhylee@ucdavis.edu`; current location: Davis, California.
-- Current status: F-1 student. General application work-authorization answer has been user-directed as `Yes`, but current CPT/OPT/EAD is **not yet approved or issued** and prior CPT/OPT use is zero months. Future employment visa sponsorship: **Yes**.
-- Do not claim U.S. citizenship/U.S.-person status, permanent/unrestricted work authorization, an existing security clearance, or another unverified credential.
-- Current Republic of Korea government employment is established by the source resume and must be disclosed when directly asked.
-- Open to relocation and materially equivalent advertised office-attendance requirements: Yes, per verified recurring answers.
-- When a new required factual/legal/immigration/export-control/compensation/certification answer is not established, do not guess.
+- Google/Alphabet/DeepMind discovery remains excluded until the user explicitly re-enables it.
 
 ## Historical reference
 
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
-- Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-07 (America/Los_Angeles)**
+Last status audit: **2026-09-08 (America/Los_Angeles)**
