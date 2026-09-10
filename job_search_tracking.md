@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — audited 2026-09-08 (America/Los_Angeles)
+## Current portfolio — audited 2026-09-09 20:00 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 121**
-- **지원 완료 / 검토 중: 98**
+- **Tracked submitted applications: 131**
+- **지원 완료 / 검토 중: 106**
 - **서류 합격: 1**
-- **서류 탈락: 22**
+- **서류 탈락: 24**
 - **인터뷰 1 예정: 0**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
@@ -32,13 +32,12 @@
 
 - **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
 
-### Latest audit changes — 2026-09-08 20:00 PT
+### Latest audit changes — 2026-09-09 20:00 PT
 
-- **Anthropic — Senior Software Security Engineer / 4887959008** — applied 2026-09-01; explicit rejection received 2026-09-08 14:30 PT → `서류 탈락`.
-- **Amazon — Application Security Engineer, AWS Proactive Security / 10507092** — applied 2026-09-01; explicit rejection received 2026-09-08 11:08 PT → `서류 탈락`.
-- **Higgsfield AI — IT Security Engineer / f76f61cf-b346-4bc3-8c87-ef40f81185c6** — applied 2026-09-07; explicit rejection received 2026-09-08 12:34 PT → `서류 탈락`.
-- **Five new applications received after the prior audit** and added as `지원 완료 / 검토 중`: NTT DATA AIVista — exact role/requisition not stated; Glean — Platform Security Engineer; Stripe — Security Engineer, Bridge; Privy — exact role/requisition not stated; Vercel — Security Engineer, Detection Response.
-- A second Sigma Computing generic receipt arrived in the same thread without an exact role/requisition. It was **not** counted as a distinct application because no distinct role could be verified.
+- **Snowflake — Staff Security Engineer - Threat Detection / 5ed76bcd-cb61-4222-900b-ad9fa89a472e** — applied 2026-09-01; explicit rejection received 2026-09-09 16:00 PT → `서류 탈락`.
+- **Amazon — Security Engineer, Identity and Access Management / 10516566** — applied 2026-09-03; explicit rejection received 2026-09-09 10:00 PT → `서류 탈락`.
+- **Ten new applications received 2026-09-09** and added as `지원 완료 / 검토 중`: Rippling — Senior Security Engineer; Resolution — Security Engineer (Research Infrastructure); Resolution — Security Engineer (Corporate IT); Samsara — Staff Application Security Engineer; Cisco — exact role/requisition not stated; ServiceNow — Senior Staff AI Security Engineer; ServiceNow — Principal Security Engineer | Cyber Defense Engineering; ServiceNow — Staff Application Security Engineer (ServiceNow Instance Security); Thinking Machines Lab — exact role/requisition not stated; Apple — Product Security Engineer, SEAR / 200670308.
+- A second Cisco generic receipt arrived in the same thread without an exact role/requisition. It was **not** counted as a distinct application because no distinct role could be verified.
 - No verified interview request, interview schedule, additional round, offer, withdrawal, or other stage progression was found in this audit.
 
 ## Full current portfolio
@@ -90,7 +89,7 @@
 | 43 | Juicebox | Security Engineer | ad92e89b-d908-4b6a-ac1e-7c3ce81a2f71 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
 | 44 | Anthropic | Security Engineer, Detection & Response | 4982193008 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-03 |
 | 45 | Amazon | Network Security Penetration Tester, AppSTAR Network Security | 10498016 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
-| 46 | Snowflake | Staff Security Engineer - Threat Detection | 5ed76bcd-cb61-4222-900b-ad9fa89a472e | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 46 | Snowflake | Staff Security Engineer - Threat Detection | 5ed76bcd-cb61-4222-900b-ad9fa89a472e | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-09 16:00 PT |
 | 47 | Anthropic | Senior Software Security Engineer | 4887959008 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-08 14:30 PT |
 | 48 | Databricks | Staff Security Software Engineer, AI Security Engineering | 7882009002 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
 | 49 | Tesla | Product Security Engineer, Vehicle Software | 225531 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-04 |
@@ -111,7 +110,7 @@
 | 64 | Amazon | Security Engineer, CS Security | 10378597 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-02 |
 | 65 | Harvey | Staff Product Security Engineer | d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
 | 66 | Candid Health | Product Security Engineer | f111d46b-4efb-4b41-9cc2-a6bd49b71cfa | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
-| 67 | Amazon | Security Engineer, Identity and Access Management | 10516566 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
+| 67 | Amazon | Security Engineer, Identity and Access Management | 10516566 | 2026-09-03 | 불합격 | 서류 탈락 | decision 2026-09-09 10:00 PT |
 | 68 | Assort Health | Security Engineer, Cloud & Product Security | f7e575ec-2b75-47b7-ab90-eb1d0a82c2c8 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
 | 69 | Crusoe | Senior Product Security Engineer | 80a3da02-12ab-4451-9f9a-915e34038bee | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
 | 70 | Amazon | Security Engineer, AWS Security | 10406134 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-07 20:59 PT |
@@ -166,6 +165,16 @@
 | 119 | Stripe | Security Engineer, Bridge | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 15:48 PT |
 | 120 | Privy | 미확인 | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-08 16:01 PT; role not stated, do not infer |
 | 121 | Vercel | Security Engineer, Detection Response | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 16:04 PT |
+| 122 | Rippling | Senior Security Engineer | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 11:09 PT |
+| 123 | Resolution | Security Engineer (Research Infrastructure) | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 11:12 PT |
+| 124 | Resolution | Security Engineer (Corporate IT) | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 11:15 PT |
+| 125 | Samsara | Staff Application Security Engineer | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 11:25 PT |
+| 126 | Cisco | 미확인 | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-09 13:41 PT; role not stated; second same-thread generic receipt not counted separately |
+| 127 | ServiceNow | Senior Staff AI Security Engineer | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 13:56 PT |
+| 128 | ServiceNow | Principal Security Engineer | Cyber Defense Engineering | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 13:56 PT |
+| 129 | ServiceNow | Staff Application Security Engineer (ServiceNow Instance Security) | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 14:02 PT |
+| 130 | Thinking Machines Lab | 미확인 | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-09 14:06 PT; role not stated, do not infer |
+| 131 | Apple | Product Security Engineer, SEAR | 200670308 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 19:56 PT |
 
 ## Current workflow rules
 
@@ -188,4 +197,4 @@
 
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 
-Last status audit: **2026-09-08 20:00 PT (America/Los_Angeles)**
+Last status audit: **2026-09-09 20:00 PT (America/Los_Angeles)**
