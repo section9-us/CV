@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — audited 2026-09-17 05:32 PT (America/Los_Angeles)
+## Current portfolio — audited 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 186**
-- **지원 완료 / 검토 중: 133**
+- **Tracked submitted applications: 187**
+- **지원 완료 / 검토 중: 134**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -32,10 +32,10 @@
 
 - **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
 
-### Latest audit changes — 2026-09-17 05:32 PT
+### Latest audit changes — 2026-09-17 05:36 PT
 
 - **Thirteen existing tracked roles newly reconciled to `서류 탈락` since the 2026-09-11 saved audit:** Waymo — Senior Security Engineer; Anthropic — Staff+ Software Security Engineer; Candid Health — Product Security Engineer; Amazon — Senior Security Engineer, AI Red Team, Threat Operations / 10412446; Applied Compute — Platform Security Engineer; Rippling — Senior Security Engineer; Resolution — Security Engineer (Corporate IT); ServiceNow — Senior Staff AI Security Engineer; Stripe — Cloud Security Engineer; Abridge — Senior/Staff Application Security Engineer; Tesla — Embedded Security Engineer / 226451; Tesla — Software Engineer, Zero Trust / 281412; Tesla — Sr. Software Engineer, Code Hardening & Framework Resilience, Robotaxi / 246033.
-- **Ten newly tracked application records:** Apple — Product Security Engineer, SEAR / 200682965; Arena Intelligence — Software Engineer, Product Security; Replit — Product Security Engineer (PSIRT); Meta — Security Engineer - Security Risk Management; Meta — Security Engineer, Investigations - i3E; Airwallex — Staff Product Security Engineer (rejection verified; application date remains `미확인`); Apple — AI Security Architect- ARC, Apple Information Security / 200667273; Binti — Principal Application Security Engineer; Glean — Application Security Engineer; Supabase — role `미확인` generic application receipt.
+- **Eleven newly tracked application records:** Apple — Product Security Engineer, SEAR / 200682965; Arena Intelligence — Software Engineer, Product Security; Replit — Product Security Engineer (PSIRT); Meta — Security Engineer - Security Risk Management; Meta — Security Engineer, Investigations - i3E; Airwallex — Staff Product Security Engineer (rejection verified; application date remains `미확인`); Apple — AI Security Architect- ARC, Apple Information Security / 200667273; Binti — Principal Application Security Engineer / 8950b5c7-5599-46c1-9c3a-be5ca43ae2d7; Glean — Application Security Engineer / 4728513005; Supabase — Platform Security Engineer (AMER/APAC) / 8fa1c7a0-a85c-4562-a1f5-4dd22cadae27; Prime Intellect — Member of Technical Staff - Security / fb497090-0336-45b2-b802-9d34d8758d06.
 - Serval — Security Engineer, Detection and Response generated another confirmation on 2026-09-16 22:18 PT, but no distinct requisition/role was identified, so it remains one tracked application (#90) and is not double-counted.
 - Resolution sent a later generic rejection on 2026-09-15 without an exact role name. Corporate IT was already explicitly rejected on 2026-09-13; Research Infrastructure remains `지원 완료 / 검토 중` because the role-specific 2026-09-13 message said that application would remain open while the hiring round was paused.
 - No verified recruiter screen, interview invitation/schedule, additional interview round, offer, withdrawal, or other stage progression was found.
@@ -227,9 +227,11 @@
 | 181 | Meta | Security Engineer, Investigations - i3E | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 182 | Airwallex | Staff Product Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact role verified by rejection; decision 2026-09-15 18:20 PT; application date unverified |
 | 183 | Apple | AI Security Architect- ARC, Apple Information Security | 200667273 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-16 11:42 PT |
-| 184 | Binti | Principal Application Security Engineer | 미확인 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-16 13:54 PT |
-| 185 | Glean | Application Security Engineer | 미확인 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-16 22:29 PT; distinct from rejected Platform Security Engineer role |
-| 186 | Supabase | 미확인 | 미확인 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-16 22:21 PT; role not stated, do not infer |
+| 184 | Binti | Principal Application Security Engineer | 8950b5c7-5599-46c1-9c3a-be5ca43ae2d7 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; receipt 2026-09-16 13:54 PT |
+| 185 | Glean | Application Security Engineer | 4728513005 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; receipt 2026-09-16 22:29 PT; distinct from rejected Platform Security Engineer role |
+| 186 | Supabase | Platform Security Engineer (AMER/APAC) | 8fa1c7a0-a85c-4562-a1f5-4dd22cadae27 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; generic receipt 2026-09-16 22:21 PT |
+
+| 187 | Prime Intellect | Member of Technical Staff - Security | fb497090-0336-45b2-b802-9d34d8758d06 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-16 |
 
 ## Current workflow rules
 
@@ -263,4 +265,4 @@
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-17 05:32 PT (America/Los_Angeles)**
+Last status audit: **2026-09-17 05:36 PT (America/Los_Angeles)**
