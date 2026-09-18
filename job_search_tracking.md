@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — audited 2026-09-17 05:36 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-18; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 187**
-- **지원 완료 / 검토 중: 134**
+- **Tracked submitted applications: 192**
+- **지원 완료 / 검토 중: 139**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -39,6 +39,12 @@
 - Serval — Security Engineer, Detection and Response generated another confirmation on 2026-09-16 22:18 PT, but no distinct requisition/role was identified, so it remains one tracked application (#90) and is not double-counted.
 - Resolution sent a later generic rejection on 2026-09-15 without an exact role name. Corporate IT was already explicitly rejected on 2026-09-13; Research Infrastructure remains `지원 완료 / 검토 중` because the role-specific 2026-09-13 message said that application would remain open while the hiring round was paused.
 - No verified recruiter screen, interview invitation/schedule, additional interview round, offer, withdrawal, or other stage progression was found.
+
+### Latest application submissions — 2026-09-18
+
+- Five portal-confirmed submissions were added: Apple — Senior Security Engineer, Apple Services Engineering / 200673282-3337; Microsoft — Senior Security Engineer and Principal Security Engineer (Multiple Positions) / 200045403; Microsoft — Senior Security Researcher and Principal Security Researcher (Multiple Positions) / 200045824; Anthropic — Threat Intelligence Engineer / 5074937008; Anthropic — Staff+ Software Engineer, Cybersecurity Products / 5063007008.
+- All five portals displayed explicit submission-success confirmations. Earliest-start responses were entered as March 2027 where requested.
+- Amazon — Security Engineer, Platform Security / 10431893 and Amazon — Security Engineer, Ads Security / 10512090 were not submitted because the applicant sign-in flow failed; they are not counted in the portfolio.
 
 ## Full current portfolio
 
@@ -232,6 +238,12 @@
 | 186 | Supabase | Platform Security Engineer (AMER/APAC) | 8fa1c7a0-a85c-4562-a1f5-4dd22cadae27 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; generic receipt 2026-09-16 22:21 PT |
 
 | 187 | Prime Intellect | Member of Technical Staff - Security | fb497090-0336-45b2-b802-9d34d8758d06 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-16 |
+
+| 188 | Apple | Senior Security Engineer, Apple Services Engineering | 200673282-3337 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
+| 189 | Microsoft | Senior Security Engineer and Principal Security Engineer (Multiple Positions) | 200045403 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
+| 190 | Microsoft | Senior Security Researcher and Principal Security Researcher (Multiple Positions) | 200045824 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
+| 191 | Anthropic | Threat Intelligence Engineer | 5074937008 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
+| 192 | Anthropic | Staff+ Software Engineer, Cybersecurity Products | 5063007008 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
 
 ## Current workflow rules
 
