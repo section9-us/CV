@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 198**
-- **지원 완료 / 검토 중: 145**
+- **Tracked submitted applications: 203**
+- **지원 완료 / 검토 중: 150**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -54,6 +54,11 @@
 - **Submitted:** Anthropic — Security Engineer - Threat Intel / `5195705008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 89; salary $320K-$405K; visa sponsorship stated. The application truthfully recorded no 8+ years of dedicated CTI and no production intelligence automation or deployed detection-content work within the past 12 months.
 - **Submitted:** Anthropic — Red Team Engineer, Safeguards / `5320469008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 83 expansion candidate; salary $320K-$405K; visa sponsorship stated. Primary gaps are hands-on LLM jailbreaking/agent prompt-injection testing, LLM-specific automation frameworks, and public CVE/bug-bounty work.
 - **Submitted:** Anthropic — Technical Cyber Threat Investigator / `5066995008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 94; salary $230K-$290K; visa sponsorship stated.
+- **Submitted:** Anthropic — Cyber Evaluations Engineer / `5406367008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 93; salary $300K-$405K; visa sponsorship stated.
+- **Submitted:** Anthropic — Applied AI Architect, Cyber / `5387733008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 94; salary $240K-$315K; visa sponsorship stated.
+- **Submitted:** Anthropic — Staff+ Researcher, Cybersecurity Products / `5385217008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 87; salary $405K-$485K; visa sponsorship stated.
+- **Submitted:** Anthropic — Staff+ Software Engineer, Safeguards / `4951844008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 85; salary $320K-$485K; visa sponsorship stated. Verified experience answers: industry software engineering `8+`, industry experience `7+`, preferred interview language `Python`.
+- **Submitted:** Anthropic — Security Engineer, Corporate Security / `5397319008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 81 expansion candidate; salary $320K-$405K; visa sponsorship stated. Primary gaps are direct MDM/endpoint-platform engineering, enterprise IAM/SaaS governance ownership, and configuration-as-code for corporate infrastructure.
 - **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
 - **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
 
@@ -261,6 +266,11 @@
 | 196 | Anthropic | Security Engineer - Threat Intel | 5195705008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89; $320K-$405K salary; sponsorship stated |
 | 197 | Anthropic | Red Team Engineer, Safeguards | 5320469008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 83 expansion candidate; $320K-$405K salary; sponsorship stated |
 | 198 | Anthropic | Technical Cyber Threat Investigator | 5066995008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 94; $230K-$290K salary; sponsorship stated |
+| 199 | Anthropic | Cyber Evaluations Engineer | 5406367008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 93; $300K-$405K salary; sponsorship stated |
+| 200 | Anthropic | Applied AI Architect, Cyber | 5387733008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 94; $240K-$315K salary; sponsorship stated |
+| 201 | Anthropic | Staff+ Researcher, Cybersecurity Products | 5385217008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 87; $405K-$485K salary; sponsorship stated |
+| 202 | Anthropic | Staff+ Software Engineer, Safeguards | 4951844008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 85; $320K-$485K salary; sponsorship stated |
+| 203 | Anthropic | Security Engineer, Corporate Security | 5397319008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; $320K-$405K salary; sponsorship stated |
 
 ## Current workflow rules
 
