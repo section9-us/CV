@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 207**
-- **지원 완료 / 검토 중: 154**
+- **Tracked submitted applications: 217**
+- **지원 완료 / 검토 중: 164**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -63,6 +63,8 @@
 - **Submitted:** Anthropic — ML/Research Engineer, Safeguards / `4949336008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 82 expansion candidate; salary $350K-$500K; visa sponsorship stated. Primary gap is the posting's 4+ years of dedicated ML/research engineering and production classifier/ML-system ownership.
 - **Submitted:** Anthropic — Staff+ Software Engineer, Safeguards Human Review Tooling / `5342935008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 86; salary $320K-$485K; visa sponsorship stated. Industry software engineering experience was entered as `8+`.
 - **Submitted:** Anthropic — Research Engineer, Model Evaluations / `5198255008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 80 expansion candidate; salary $500K-$850K; visa sponsorship stated. Primary gaps are production-scale distributed evaluation infrastructure, live-training support, and large-scale ML data-pipeline ownership.
+- **Submitted — 10 additional Anthropic roles:** Incident Manager - Detection & Response / `5397749008` (fit 91, $290K-$365K); Technical Program Manager, Security / `4989788008` (fit 92, $290K-$365K); Technical Program Manager, Safeguards (Infrastructure & Evals) / `5108695008` (fit 88, $290K-$365K); Incident Response Manager - Product & Engineering / `5205495008` (fit 82, $290K-$365K); Applied AI Architect, Commercial / `5192805008` (fit 88, $240K-$315K); Applied AI Architect, Enterprise Tech / `5383335008` (fit 84, $240K-$315K); Applied AI Architect, Industries / `4461444008` (fit 84, $240K-$315K); Applied AI Architect, Strategic Enterprise Tech / `5409008008` (fit 81, $240K-$315K); Applied AI Engineer, Enterprise Tech / `5057647008` (fit 80, $200K-$320K); Research Engineer, Computer Use / `5285246008` (fit 80, $500K-$850K). Greenhouse confirmation was verified for all ten; Anthropic states visa sponsorship for these roles.
+- The 80-84 expansion candidates are lowered by one or more of: dedicated product/cloud-infrastructure incident-command experience, 5-8+ years in named pre-sales/solutions-architecture roles, production LLM/agent/MCP deployment at scale, and production model-training/RL/evaluation infrastructure ownership. No such experience was invented in the applications.
 - **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
 - **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
 
@@ -279,6 +281,16 @@
 | 205 | Anthropic | ML/Research Engineer, Safeguards | 4949336008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 82 expansion candidate; $350K-$500K salary; sponsorship stated |
 | 206 | Anthropic | Staff+ Software Engineer, Safeguards Human Review Tooling | 5342935008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86; $320K-$485K salary; sponsorship stated |
 | 207 | Anthropic | Research Engineer, Model Evaluations | 5198255008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 80 expansion candidate; $500K-$850K salary; sponsorship stated |
+| 208 | Anthropic | Incident Manager - Detection & Response | 5397749008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 91; $290K-$365K salary; sponsorship stated |
+| 209 | Anthropic | Technical Program Manager, Security | 4989788008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 92; $290K-$365K salary; sponsorship stated |
+| 210 | Anthropic | Technical Program Manager, Safeguards (Infrastructure & Evals) | 5108695008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 88; $290K-$365K salary; sponsorship stated |
+| 211 | Anthropic | Incident Response Manager - Product & Engineering | 5205495008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; $290K-$365K salary; sponsorship stated |
+| 212 | Anthropic | Applied AI Architect, Commercial | 5192805008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 88; $240K-$315K salary; sponsorship stated |
+| 213 | Anthropic | Applied AI Architect, Enterprise Tech | 5383335008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 84 expansion candidate; $240K-$315K salary; sponsorship stated |
+| 214 | Anthropic | Applied AI Architect, Industries | 4461444008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 84 expansion candidate; $240K-$315K salary; sponsorship stated |
+| 215 | Anthropic | Applied AI Architect, Strategic Enterprise Tech | 5409008008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 81 expansion candidate; $240K-$315K salary; sponsorship stated |
+| 216 | Anthropic | Applied AI Engineer, Enterprise Tech | 5057647008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 80 expansion candidate; $200K-$320K salary; sponsorship stated |
+| 217 | Anthropic | Research Engineer, Computer Use | 5285246008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 80 expansion candidate; $500K-$850K salary; sponsorship stated |
 
 ## Current workflow rules
 
