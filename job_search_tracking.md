@@ -228,7 +228,7 @@
 | 176 | Tesla | Sr. Software Engineer, Code Hardening & Framework Resilience, Robotaxi | 246033 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 11:00 PT |
 | 177 | Apple | Product Security Engineer, SEAR | 200682965 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 23:43 PT |
 | 178 | Arena Intelligence | Software Engineer, Product Security | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 23:46 PT |
-| 179 | Replit | Product Security Engineer (PSIRT - Product Security Incident Response Team) | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:00 PT |
+| 179 | Replit | Product Security Engineer (PSIRT - Product Security Incident Response Team) | 1634b879-80c7-4064-be0a-8a4aecc81923 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:00 PT; an additional Ashby submission success was confirmed 2026-09-20, so the duplicate was not counted as a separate application; desired TC entered as USD $200K-$300K depending on level and equity |
 | 180 | Meta | Security Engineer - Security Risk Management | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 181 | Meta | Security Engineer, Investigations - i3E | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 182 | Airwallex | Staff Product Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact role verified by rejection; decision 2026-09-15 18:20 PT; application date unverified |
