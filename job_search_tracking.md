@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 195**
-- **지원 완료 / 검토 중: 142**
+- **Tracked submitted applications: 198**
+- **지원 완료 / 검토 중: 145**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -51,6 +51,9 @@
 - **Submitted:** OpenAI — Software Engineer, Host Assurance / `0b9e565a-ae5f-40fc-8350-b59f71f76df1`; Ashby displayed an explicit success confirmation. Cybersecurity base resume used; fit 82; compensation $266K-$445K plus equity.
 - **Submitted:** Anthropic — Research Engineer, Cybersecurity RL (Reinforcement Learning) / `5025624008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 95; salary $300K-$405K; visa sponsorship stated in the posting.
 - **Submitted:** Apple — Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR / `200682701-0836`; Apple displayed the explicit “information has been submitted” confirmation. AI base resume used; fit 88; base $184.7K-$277.6K plus bonus/equity.
+- **Submitted:** Anthropic — Security Engineer - Threat Intel / `5195705008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 89; salary $320K-$405K; visa sponsorship stated. The application truthfully recorded no 8+ years of dedicated CTI and no production intelligence automation or deployed detection-content work within the past 12 months.
+- **Submitted:** Anthropic — Red Team Engineer, Safeguards / `5320469008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 83 expansion candidate; salary $320K-$405K; visa sponsorship stated. Primary gaps are hands-on LLM jailbreaking/agent prompt-injection testing, LLM-specific automation frameworks, and public CVE/bug-bounty work.
+- **Submitted:** Anthropic — Technical Cyber Threat Investigator / `5066995008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 94; salary $230K-$290K; visa sponsorship stated.
 - **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
 - **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
 
@@ -255,6 +258,9 @@
 | 193 | OpenAI | Software Engineer, Host Assurance | 0b9e565a-ae5f-40fc-8350-b59f71f76df1 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Ashby submission-success confirmation verified; Cybersecurity base resume; fit 82; $266K-$445K plus equity |
 | 194 | Anthropic | Research Engineer, Cybersecurity RL (Reinforcement Learning) | 5025624008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse application-received confirmation verified; AI base resume; fit 95; $300K-$405K; sponsorship stated |
 | 195 | Apple | Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR | 200682701-0836 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 88; $184.7K-$277.6K base plus bonus/equity |
+| 196 | Anthropic | Security Engineer - Threat Intel | 5195705008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89; $320K-$405K salary; sponsorship stated |
+| 197 | Anthropic | Red Team Engineer, Safeguards | 5320469008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 83 expansion candidate; $320K-$405K salary; sponsorship stated |
+| 198 | Anthropic | Technical Cyber Threat Investigator | 5066995008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 94; $230K-$290K salary; sponsorship stated |
 
 ## Current workflow rules
 
