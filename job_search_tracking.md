@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 204**
-- **지원 완료 / 검토 중: 151**
+- **Tracked submitted applications: 207**
+- **지원 완료 / 검토 중: 154**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -60,6 +60,9 @@
 - **Submitted:** Anthropic — Staff+ Software Engineer, Safeguards / `4951844008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 85; salary $320K-$485K; visa sponsorship stated. Verified experience answers: industry software engineering `8+`, industry experience `7+`, preferred interview language `Python`.
 - **Submitted:** Anthropic — Security Engineer, Corporate Security / `5397319008`; Greenhouse displayed an explicit receipt confirmation. Cybersecurity base resume used; fit 81 expansion candidate; salary $320K-$405K; visa sponsorship stated. Primary gaps are direct MDM/endpoint-platform engineering, enterprise IAM/SaaS governance ownership, and configuration-as-code for corporate infrastructure.
 - **Submitted:** Anthropic — Staff+ Software Engineer, Account Abuse / `5123039008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 88; salary $320K-$485K; visa sponsorship stated. The required abuse-investigation example was grounded in the verified malware/APT analysis and 500+ annual public CTI case workflow; professional software engineering experience was entered as `8+` and interview language as `Python`.
+- **Submitted:** Anthropic — ML/Research Engineer, Safeguards / `4949336008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 82 expansion candidate; salary $350K-$500K; visa sponsorship stated. Primary gap is the posting's 4+ years of dedicated ML/research engineering and production classifier/ML-system ownership.
+- **Submitted:** Anthropic — Staff+ Software Engineer, Safeguards Human Review Tooling / `5342935008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 86; salary $320K-$485K; visa sponsorship stated. Industry software engineering experience was entered as `8+`.
+- **Submitted:** Anthropic — Research Engineer, Model Evaluations / `5198255008`; Greenhouse displayed an explicit receipt confirmation. AI base resume used; fit 80 expansion candidate; salary $500K-$850K; visa sponsorship stated. Primary gaps are production-scale distributed evaluation infrastructure, live-training support, and large-scale ML data-pipeline ownership.
 - **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
 - **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
 
@@ -273,6 +276,9 @@
 | 202 | Anthropic | Staff+ Software Engineer, Safeguards | 4951844008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 85; $320K-$485K salary; sponsorship stated |
 | 203 | Anthropic | Security Engineer, Corporate Security | 5397319008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; $320K-$405K salary; sponsorship stated |
 | 204 | Anthropic | Staff+ Software Engineer, Account Abuse | 5123039008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 88; $320K-$485K salary; sponsorship stated |
+| 205 | Anthropic | ML/Research Engineer, Safeguards | 4949336008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 82 expansion candidate; $350K-$500K salary; sponsorship stated |
+| 206 | Anthropic | Staff+ Software Engineer, Safeguards Human Review Tooling | 5342935008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86; $320K-$485K salary; sponsorship stated |
+| 207 | Anthropic | Research Engineer, Model Evaluations | 5198255008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 80 expansion candidate; $500K-$850K salary; sponsorship stated |
 
 ## Current workflow rules
 
