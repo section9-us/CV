@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-18; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-20; latest status audit 2026-09-17 05:36 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 192**
-- **지원 완료 / 검토 중: 139**
+- **Tracked submitted applications: 193**
+- **지원 완료 / 검토 중: 140**
 - **서류 합격: 1**
 - **서류 탈락: 52**
 - **인터뷰 1 예정: 0**
@@ -45,6 +45,13 @@
 - Five portal-confirmed submissions were added: Apple — Senior Security Engineer, Apple Services Engineering / 200673282-3337; Microsoft — Senior Security Engineer and Principal Security Engineer (Multiple Positions) / 200045403; Microsoft — Senior Security Researcher and Principal Security Researcher (Multiple Positions) / 200045824; Anthropic — Threat Intelligence Engineer / 5074937008; Anthropic — Staff+ Software Engineer, Cybersecurity Products / 5063007008.
 - All five portals displayed explicit submission-success confirmations. Earliest-start responses were entered as March 2027 where requested.
 - Amazon — Security Engineer, Platform Security / 10431893 and Amazon — Security Engineer, Ads Security / 10512090 were not submitted because the applicant sign-in flow failed; they are not counted in the portfolio.
+
+### Latest application activity — 2026-09-20
+
+- **Submitted:** OpenAI — Software Engineer, Host Assurance / `0b9e565a-ae5f-40fc-8350-b59f71f76df1`; Ashby displayed an explicit success confirmation. Cybersecurity base resume used; fit 82; compensation $266K-$445K plus equity.
+- **Prepared but blocked:** Apple — Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR / `200682701-0836`; fit 88; Apple sign-in is waiting for the SMS two-factor code sent to the number ending in `32`. Not counted as submitted.
+- **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
+- **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
 
 ## Full current portfolio
 
@@ -244,6 +251,7 @@
 | 190 | Microsoft | Senior Security Researcher and Principal Security Researcher (Multiple Positions) | 200045824 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
 | 191 | Anthropic | Threat Intelligence Engineer | 5074937008 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
 | 192 | Anthropic | Staff+ Software Engineer, Cybersecurity Products | 5063007008 | 2026-09-18 | 미정 | 지원 완료 / 검토 중 | portal submission success verified 2026-09-18 |
+| 193 | OpenAI | Software Engineer, Host Assurance | 0b9e565a-ae5f-40fc-8350-b59f71f76df1 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Ashby submission-success confirmation verified; Cybersecurity base resume; fit 82; $266K-$445K plus equity |
 
 ## Current workflow rules
 
