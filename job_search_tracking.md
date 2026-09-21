@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 241**
-- **지원 완료 / 검토 중: 182**
+- **Tracked submitted applications: 242**
+- **지원 완료 / 검토 중: 181**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -17,7 +17,7 @@
 - **면접 탈락: 0**
 - **지원 철회: 0**
 - **공고 종료 — 결과 미확인: 0**
-- **상태 불명: 0**
+- **상태 불명: 2**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
 
@@ -38,7 +38,10 @@
 - The prior generic Okta record is now associated with the exact rejected role, but the exact application date remains `미확인` because the earlier 2026-09-10 receipt did not state a role and the later rejection did not state an application date.
 - **Three new email-confirmed submissions were added:** Microsoft — Senior Software Engineer, Security AI / 200044826; Tesla — Sr. Cybersecurity Engineer, Energy / 276195; NVIDIA — Senior Network Security Architect / JR2025110. All remain `지원 완료 / 검토 중`.
 - Replit generated another Product Security Engineer (PSIRT) confirmation on 2026-09-20, but the exact tracked role already existed and is not double-counted.
-- No verified recruiter screen, interview invitation/schedule, additional interview round, offer, withdrawal, or other stage progression was found in the UC Davis recruiting mailbox.
+- **Deeper mailbox audit found one additional missed rejection:** Giga — Senior Security Engineer - San Francisco [+] (explicit rejection 2026-09-11 16:20 PT).
+- **Deeper mailbox audit found one previously untracked submission:** Candid Health — Principal Security Engineer (receipt 2026-09-04 01:14 PT). Because Candid later sent one generic rejection on 2026-09-14 without naming a role, both Candid applications are now conservatively marked `상태 불명`; the prior role-specific rejection mapping to Product Security Engineer was removed.
+- **Snap recruiter contact was verified:** Lead Technical Recruiter Cassidy Turek invited the user to a 15-minute call for a generic “Security opportunity”; the call was scheduled for Friday 2026-09-04 at 13:30 PT. The email thread never names the exact requisition and contains no explicit post-call completion confirmation. A separate role-specific rejection for Security Engineer, Level 5, Detection & Response arrived at 13:58 PT that day; do not infer that the recruiter call belonged to that requisition. Snap Level 4 remains `지원 완료 / 검토 중` from email evidence alone.
+- No other verified recruiter screen/interview scheduling, additional interview round, offer, withdrawal, or stage progression was found after a full email audit from 2026-08-27 onward.
 
 ### Latest application submissions — 2026-09-18
 
@@ -140,7 +143,7 @@
 | 63 | Apple | Senior Security Engineer | 200673187-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
 | 64 | Amazon | Security Engineer, CS Security | 10378597 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-02 |
 | 65 | Harvey | Staff Product Security Engineer | d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
-| 66 | Candid Health | Product Security Engineer | f111d46b-4efb-4b41-9cc2-a6bd49b71cfa | 2026-09-03 | 불합격 | 서류 탈락 | decision 2026-09-14 08:03 PT |
+| 66 | Candid Health | Product Security Engineer | f111d46b-4efb-4b41-9cc2-a6bd49b71cfa | 2026-09-03 | 미정 | 상태 불명 | receipt 2026-09-03 08:25 PT; Candid sent one generic rejection on 2026-09-14 08:03 PT without a role name; exact mapping between the two Candid applications is unverified |
 | 67 | Amazon | Security Engineer, Identity and Access Management | 10516566 | 2026-09-03 | 불합격 | 서류 탈락 | decision 2026-09-09 10:00 PT |
 | 68 | Assort Health | Security Engineer, Cloud & Product Security | f7e575ec-2b75-47b7-ab90-eb1d0a82c2c8 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
 | 69 | Crusoe | Senior Product Security Engineer | 80a3da02-12ab-4451-9f9a-915e34038bee | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | — |
@@ -247,7 +250,7 @@
 | 170 | Meta | Privacy Engineer, Implementation Review | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:36 PT |
 | 171 | Meta | Privacy Engineer - Privacy Red Team | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:37 PT |
 | 172 | Cisco | Staff Software Engineer - AI/Security Platform | 2023418 | 미확인 | 불합격 | 서류 탈락 | exact role/requisition first verified by rejection; decision 2026-09-11 14:17 PT |
-| 173 | Giga | Senior Security Engineer - San Francisco [+] | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 16:20 PT |
+| 173 | Giga | Senior Security Engineer - San Francisco [+] | 미확인 | 2026-09-11 | 불합격 | 서류 탈락 | explicit Giga rejection 2026-09-11 16:20 PT |
 | 174 | Tesla | Sr. Network Security Engineer | 280308 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:40 PT |
 | 175 | Tesla | Software Engineer, Zero Trust | 281412 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 14:15 PT |
 | 176 | Tesla | Sr. Software Engineer, Code Hardening & Framework Resilience, Robotaxi | 246033 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 11:00 PT |
@@ -318,6 +321,7 @@
 | 239 | Microsoft | Senior Software Engineer, Security AI | 200044826 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Microsoft application receipt 2026-09-20 16:41 PT; review pending |
 | 240 | Tesla | Sr. Cybersecurity Engineer, Energy | 276195 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Tesla application receipt 2026-09-20 16:49 PT; review pending; status view available via Tesla Connect |
 | 241 | NVIDIA | Senior Network Security Architect | JR2025110 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 16:51 PT; review pending |
+| 242 | Candid Health | Principal Security Engineer | 미확인 | 2026-09-04 | 미정 | 상태 불명 | explicit application receipt 2026-09-04 01:14 PT; Candid sent one generic rejection on 2026-09-14 08:03 PT without a role name; exact mapping between the two Candid applications is unverified |
 
 ## Current workflow rules
 
