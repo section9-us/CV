@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 242**
-- **지원 완료 / 검토 중: 181**
+- **Tracked submitted applications: 246**
+- **지원 완료 / 검토 중: 185**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -37,6 +37,8 @@
 - **Six existing tracked applications were newly reconciled to `서류 탈락` from explicit employer emails:** Uber — Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) / 159199; Apple — Senior Security Engineer - Red Team / 200673234; NVIDIA — Senior Security Engineer, RTOS and Virtualization / JR2023153; NVIDIA — Senior Platform Security Engineer – Device Trust, Attestation and Secure Browser / JR2024769; Sierra — Security Engineer; Okta — Staff Security Engineer, TDI.
 - The prior generic Okta record is now associated with the exact rejected role, but the exact application date remains `미확인` because the earlier 2026-09-10 receipt did not state a role and the later rejection did not state an application date.
 - **Three new email-confirmed submissions were added:** Microsoft — Senior Software Engineer, Security AI / 200044826; Tesla — Sr. Cybersecurity Engineer, Energy / 276195; NVIDIA — Senior Network Security Architect / JR2025110. All remain `지원 완료 / 검토 중`.
+- **Four additional portal-confirmed submissions were added:** NVIDIA — Senior Product Security Lead – NVIDIA Jetson / JR2025433; Amazon — Security Engineer – Sec Escalations / 10503539; Amazon — Security Engineer, Amazon Photos / 10481721; Amazon — Senior Security Engineer, Corporate Services Security / 10480747. All remain `지원 완료 / 검토 중`.
+- Amazon — Senior Security Engineer, Ads Security / 10376062 returned an official-site 404 and was not submitted or counted.
 - Replit generated another Product Security Engineer (PSIRT) confirmation on 2026-09-20, but the exact tracked role already existed and is not double-counted.
 - **Deeper mailbox audit found one additional missed rejection:** Giga — Senior Security Engineer - San Francisco [+] (explicit rejection 2026-09-11 16:20 PT).
 - **Deeper mailbox audit found one previously untracked submission:** Candid Health — Principal Security Engineer (receipt 2026-09-04 01:14 PT). Because Candid later sent one generic rejection on 2026-09-14 without naming a role, both Candid applications are now conservatively marked `상태 불명`; the prior role-specific rejection mapping to Product Security Engineer was removed.
@@ -322,6 +324,10 @@
 | 240 | Tesla | Sr. Cybersecurity Engineer, Energy | 276195 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Tesla application receipt 2026-09-20 16:49 PT; review pending; status view available via Tesla Connect |
 | 241 | NVIDIA | Senior Network Security Architect | JR2025110 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 16:51 PT; review pending |
 | 242 | Candid Health | Principal Security Engineer | 미확인 | 2026-09-04 | 미정 | 상태 불명 | explicit application receipt 2026-09-04 01:14 PT; Candid sent one generic rejection on 2026-09-14 08:03 PT without a role name; exact mapping between the two Candid applications is unverified |
+| 243 | NVIDIA | Senior Product Security Lead – NVIDIA Jetson | JR2025433 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 21:00 PT; review pending |
+| 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:07 PT; review pending |
+| 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
+| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:11 PT; review pending |
 
 ## Current workflow rules
 
