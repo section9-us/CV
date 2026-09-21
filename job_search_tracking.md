@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-20 21:32 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-20 21:44 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 252**
-- **지원 완료 / 검토 중: 191**
+- **Tracked submitted applications: 253**
+- **지원 완료 / 검토 중: 192**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -83,6 +83,13 @@
 - Cybersecurity base resume used for all six. Work authorization was entered `Yes`, future sponsorship `Yes`, current/previous government service `Yes`, noncompete/obstructive NDA `No`, prior Microsoft work `No`, current Microsoft-subsidiary employment `No`; address line 2 was `Apt. 106`. Each truthful minimum-qualification question was answered `Yes`.
 - OPT/STEM OPT compatibility is assessed as reasonable for all six and Microsoft's H-1B sponsorship likelihood as high, but sponsorship is not guaranteed by these postings. U.S.-stay judgment is **YES** for all six based on fit, employer trajectory, and expected total compensation. The lower cash bands for `200046267` and `200053274` are accepted because AI Red Team/MSRC scope and equity may materially improve career upside.
 - Roles with explicit export-control status restrictions or clearance requirements were excluded. Fit 80-84 backup candidates were not submitted because the Microsoft active-application cap was reached.
+
+### Amazon application activity — 2026-09-20 21:44 PT
+
+- **Submitted:** Amazon — Security Engineer II, Ads Security / `10553960`; explicit Amazon success page verified. Cybersecurity base resume used; fit 96; Bellevue; $159.3K-$202.4K base plus sign-on/RSUs. The role directly matches threat hunting, incident response, threat intelligence, Python, MITRE ATT&CK, and AI/ML-assisted detection work.
+- Job-specific answers were truthful: bachelor's/equivalent `Yes`, 3+ years of programming `Yes`, listed security-certification bundle `No`. Reused verified general answers include work eligibility `Yes`, future immigration support/sponsorship `Yes`, F-1, no prior H-1B/J-1, CPT required to begin `No`, STEM degree `Yes`, current government employee `Yes`, no Amazon-related government matter, and no U.S. federal/intelligence employment or post-government restriction.
+- Amazon immediately displayed its **10 active application maximum** after this submission. The Application Dashboard confirms `Active (10)`, so no existing application was withdrawn and the remaining nine targets were not submitted.
+- **Held as ranked backups:** `10547002` Security Incident Response Engineer, Security Posture Improvement and Resilience Engineering (fit 96, San Francisco); `10534686` Security Engineer, AWS CIRT (fit 95); `10481118` Security Engineer II, SIRT (fit 94); `10512092` Security Engineer II, Ads Security (fit 94); `10544098` Sr. Security Engineer, AppSec — Amazon Stores Security (fit 93); `10431835` Senior Security Engineer, Ads Security (fit 92); `10443617` Senior Security Engineer, Proactive Security (fit 91); `10551940` Senior Security Engineer, AWS Security (fit 91); `10550878` Application Security Engineer, AWS Security (fit 90). These remain unsubmitted pending an active slot; roles requiring U.S. citizenship were excluded.
 
 ## Full current portfolio
 
@@ -342,6 +349,7 @@
 | 250 | Microsoft | Security Researcher II — Microsoft Security Response Center | 200053274 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 92; Redmond remote; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
 | 251 | Microsoft | Senior Security Researcher | 200053204 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 91; Redmond hybrid; $119.8K-$234.7K base plus additional compensation; sponsorship likely |
 | 252 | Microsoft | Principal Security Engineer — Microsoft Edge Browser Security | 200044641 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 90; Redmond 4 days/week in-office; principal-band compensation plus benefits/equity; sponsorship likely |
+| 253 | Amazon | Security Engineer II, Ads Security | 10553960 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page verified 2026-09-20; Cybersecurity base resume; fit 96; Bellevue; $159.3K-$202.4K base plus sign-on/RSUs; Amazon dashboard Active (10) |
 
 ## Current workflow rules
 
