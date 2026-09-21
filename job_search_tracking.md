@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 09:34 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 14:50 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 266**
-- **지원 완료 / 검토 중: 205**
+- **Tracked submitted applications: 326**
+- **지원 완료 / 검토 중: 265**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -377,6 +377,66 @@
 | 264 | Apple | Software Engineer, AI Infrastructure | 200672768-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 88; Cupertino; $184.7K-$324.8K base plus bonus/equity |
 | 265 | Apple | User Secrets, Software Engineer, SEAR | 200646650-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity |
 | 266 | Apple | User Secrets - Software Engineer, SEAR | 200644622-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 83 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity; Apple active submissions reached 50/50 |
+| 267 | NVIDIA | Security Research Engineer, AI Safety and Security Engineering | JR2021887 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 91 |
+| 268 | NVIDIA | Harness and Platform Engineer, AI Safety and Security Engineering | JR2021886 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 88 |
+| 269 | NVIDIA | Senior Solutions Architect, Agentic AI — Safety and Security | JR2023191 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 90 |
+| 270 | NVIDIA | Software Engineer, OpenShell | JR2020825 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 88 |
+| 271 | NVIDIA | Senior Software Engineer, Attestation Services - DGX Cloud | JR2023561 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 86 |
+| 272 | NVIDIA | Senior Solutions Architect, Agentic AI — Safety and Security | JR2024467 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 90 |
+| 273 | NVIDIA | Senior Infrastructure Engineer - Infrastructure Security and Core Services | JR2025013 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 82 expansion candidate; Dell/OpenShift and 12+ year scope are gaps |
+| 274 | NVIDIA | Principal Cyber Security Engineer - Agentic Identity and Security | JR2016696 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 84 expansion candidate; principal identity depth is a gap |
+| 275 | NVIDIA | Staff Security Engineer - PAM and Agentic Identity | JR2024380 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; direct PAM ownership is a gap |
+| 276 | NVIDIA | Software DevOps Engineer, Networking | JR2025882 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 83 expansion candidate; Kubernetes/CI ownership is a gap |
+| 277 | NVIDIA | Senior Developer Relations, AI - Security | JR2021765 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 82 expansion candidate; formal DevRel program ownership is a gap |
+| 278 | NVIDIA | Offensive Hardware Security Researcher | JR2016209 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; side-channel/Verilog/ARM depth is a gap |
+| 279 | NVIDIA | Senior Hardware Security Architect | JR2025548 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; ASIC/Verilog depth is a gap |
+| 280 | NVIDIA | Senior Tegra Software Engineer | JR2022972 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 87 |
+| 281 | NVIDIA | Principal Software Engineer, Agent Policy Fabric | JR2019848 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; principal policy/cryptography depth is a gap |
+| 282 | NVIDIA | Senior Security Architect - Hardware | JR2020941 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; ASIC/Verilog depth is a gap |
+| 283 | NVIDIA | Senior Software Engineer, Fleet Intelligence Agent Systems | JR2023940 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 80 expansion candidate; Go/Rust and fleet telemetry depth are gaps |
+| 284 | NVIDIA | Senior Hardware Security Architect, GPU | JR2022806 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 88 |
+| 285 | NVIDIA | Senior Embedded Software Engineer, DPU - Networking | JR2017846 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 82 expansion candidate; embedded distro/bootloader depth is a gap |
+| 286 | NVIDIA | Senior Software Engineer - Traffic and Networking | JR2023061 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 85 |
+| 287 | Meta | Security Engineer | 1543033930899022 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Cybersecurity base resume; fit 84 expansion candidate; 15+ year/pillar leadership scope is a gap |
+| 288 | Meta | Enterprise Application Security Engineer (Builder) | 2136503920624415 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Cybersecurity base resume; fit 96 |
+| 289 | Meta | Security Engineer, Wearables | 2043408953216138 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Cybersecurity base resume; fit 92; $219K-$301K base plus bonus/equity |
+| 290 | Meta | Network Engineer, Engineering R&D Environments | 1609465697215996 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 90; $193K-$271K base plus bonus/equity |
+| 291 | Meta | Network Engineer, Engineering R&D Environments | 1050350287318267 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 88 |
+| 292 | Meta | Wireless Network Engineer | 1586604899752430 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 80 expansion candidate; RF survey/OEM platform depth is a gap |
+| 293 | Meta | Network Production Engineer, Network.AI | 2018238108857051 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 90 |
+| 294 | Meta | Network Production Engineer, DC Frontier | 1961448117855201 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 90 |
+| 295 | Meta | Network Production Engineer, Delivery Engineering | 1600901628090556 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 89 |
+| 296 | Meta | Network Production Engineer, DC Frontier | 1990732088273422 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 89 |
+| 297 | Meta | Network Production Engineer, Delivery Engineering | 1548476800301643 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 89 |
+| 298 | Meta | Network Production Engineer | 1023297133814750 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 88 |
+| 299 | Meta | Network Production Engineer, Infrastructure | 1108965594796722 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta receipt verified; Network base resume; fit 83 expansion candidate; direct infrastructure platform ownership is a gap |
+| 300 | Meta | IP Network Design Engineer, Long-Term Design & Delivery | 1716951046247425 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 88 |
+| 301 | Meta | Software Engineer, SystemML - AI Networking | 1124065870041690 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 82 expansion candidate; HPC/GPU distributed-ML depth is a gap |
+| 302 | Meta | AI/HPC Network Performance Engineer | 1390888449604521 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta receipt verified; Network base resume; fit 82 expansion candidate; RDMA/HPC training-scale depth is a gap |
+| 303 | Meta | Software Engineer, Network Engineering | 990953733995858 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page and receipt verified; Network base resume; fit 84 expansion candidate; Kubernetes networking/DPDK/eBPF depth is a gap |
+| 304 | Meta | Network Engineer, Deployment & Support | 1180254430960731 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 87 |
+| 305 | Meta | Network Engineer, Operations & Support | 1456536816494707 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 85 |
+| 306 | Meta | Embedded Software Engineer, Connectivity/Wireless | 1967414873947303 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Meta success page verified; Network base resume; fit 88 |
+| 307 | Tesla | Lead Cybersecurity Engineer, Regulatory Compliance | 279344 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; product certification/regulatory depth is a gap; $120K-$252K base plus cash/stock |
+| 308 | Tesla | Sr. Engineer, PKI & Identity Infrastructure | 281407 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 82 expansion candidate; enterprise PKI/HSM ownership depth is a gap; $140K-$252K base plus cash/stock |
+| 309 | Tesla | Sr. Software Engineer, Identity & Zero Trust Platform | 275209 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; SPIFFE/SPIRE and Kubernetes operator depth are gaps; $140K-$252K base plus cash/stock |
+| 310 | Tesla | Sr. Network Operation Engineer | 280867 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 91; $168K-$300K base plus cash/stock |
+| 311 | Tesla | Sr. Network Engineer, Network Operations, Data Center | 275716 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 90; $168K-$300K base plus cash/stock |
+| 312 | Tesla | Staff Wireless Network Engineer, Network Engineering | 260012 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 86; $120K-$396K base plus cash/stock |
+| 313 | Tesla | Sr. Software Engineer, Traffic Engineering | 265598 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 87 |
+| 314 | Tesla | Sr. Wireless Linux Kernel Software Engineer | 277931 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 80 expansion candidate; direct Linux-kernel/Yocto maintenance depth is a gap; $168K-$300K base plus cash/stock |
+| 315 | Tesla | Firmware Engineer, AI Linux Systems | 278582 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 86; $140K-$360K base plus cash/stock |
+| 316 | Tesla | Software Engineer, Linux Kernel, Tesla AI | 278580 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 82 expansion candidate; direct kernel-driver and SoC bring-up depth are gaps; $140K-$360K base plus cash/stock |
+| 317 | Tesla | Software Engineer, C++ Generalist, AI Systems & Infrastructure | 278581 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 87; $140K-$360K base plus cash/stock |
+| 318 | Tesla | Platform Firmware Engineer, AI Data Center | 280583 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 82 expansion candidate; PCIe Gen4-6 and kernel-driver depth are gaps; $160K-$414K base plus cash/stock |
+| 319 | Tesla | Sr. Embedded Linux Software Engineer, Energy Products | 255272 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 88; $140K-$300K base plus cash/stock |
+| 320 | Tesla | Software Engineer, Firmware Platforms, Vehicle Software | 277006 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 86; $140K-$300K base plus cash/stock |
+| 321 | Tesla | Embedded Firmware Engineer, Reliability & Test | 256903 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 82 expansion candidate; motor-control/PCBA depth is a gap; $104K-$222K base plus cash/stock |
+| 322 | Tesla | Embedded Software Engineer, Reliability & Test | 260562 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 81 expansion candidate; RTOS/PCBA lab depth is a gap; $100K-$216K base plus cash/stock |
+| 323 | Tesla | Sr. Embedded Firmware Engineer, Energy BMS | 247151 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; BMS/FMEA and board bring-up depth are gaps; $140K-$300K base plus cash/stock |
+| 324 | Tesla | Software Engineer, Body Controls & Authentication Validation, Vehicle Software | 282615 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; HIL/SIL and vehicle-control validation depth are gaps; $140K-$360K base plus cash/stock |
+| 325 | Tesla | Lead Staff Wireless Network Engineer | 279064 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 80 expansion candidate; enterprise RF survey and wireless-team leadership depth are gaps; $120K-$396K base plus cash/stock |
+| 326 | Tesla | Network Circuit Engineer | 282144 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 81 expansion candidate; carrier circuit turn-up and optical test-equipment depth are gaps; $140K-$252K base plus cash/stock |
 
 ## Current workflow rules
 
