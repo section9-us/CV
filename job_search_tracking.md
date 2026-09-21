@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-20 21:44 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 09:25 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 253**
-- **지원 완료 / 검토 중: 192**
+- **Tracked submitted applications: 263**
+- **지원 완료 / 검토 중: 202**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -90,6 +90,13 @@
 - Job-specific answers were truthful: bachelor's/equivalent `Yes`, 3+ years of programming `Yes`, listed security-certification bundle `No`. Reused verified general answers include work eligibility `Yes`, future immigration support/sponsorship `Yes`, F-1, no prior H-1B/J-1, CPT required to begin `No`, STEM degree `Yes`, current government employee `Yes`, no Amazon-related government matter, and no U.S. federal/intelligence employment or post-government restriction.
 - Amazon immediately displayed its **10 active application maximum** after this submission. The Application Dashboard confirms `Active (10)`, so no existing application was withdrawn and the remaining nine targets were not submitted.
 - **Held as ranked backups:** `10547002` Security Incident Response Engineer, Security Posture Improvement and Resilience Engineering (fit 96, San Francisco); `10534686` Security Engineer, AWS CIRT (fit 95); `10481118` Security Engineer II, SIRT (fit 94); `10512092` Security Engineer II, Ads Security (fit 94); `10544098` Sr. Security Engineer, AppSec — Amazon Stores Security (fit 93); `10431835` Senior Security Engineer, Ads Security (fit 92); `10443617` Senior Security Engineer, Proactive Security (fit 91); `10551940` Senior Security Engineer, AWS Security (fit 91); `10550878` Application Security Engineer, AWS Security (fit 90). These remain unsubmitted pending an active slot; roles requiring U.S. citizenship were excluded.
+
+### Apple application activity — 2026-09-21 09:25 PT
+
+- **Submitted ten additional Apple roles:** Offensive Security Researcher, Kernel & Embedded Security / `200667546-2459` (fit 87, New York City, $150.4K-$277.6K base); Software Development Engineer - Security, Enterprise Technology Services / `200648308-3956` (fit 89, Sunnyvale, $150.4K-$277.6K base); Systems & Kernel Software Engineer, SEAR / `200565362-0836` (fit 81 expansion candidate, Cupertino, $150.4K-$277.6K base); Senior Software Engineer - Host Access / `200673277-3337` (fit 85, Seattle, $175K-$308.5K base); Senior Software Engineer, Wallet Identity Server / `200674168-0157` (fit 85, Austin, compensation not captured); Software Engineer, Apple Services Engineering, iCloud Platform / `200636744-3337` (fit 82 expansion candidate, Seattle, $142.3K-$263.3K base); Senior Software Engineer, Apple Services Engineering, iCloud Platform / `200652502-3337` (fit 80 expansion candidate, Seattle, $175K-$308.5K base); Senior Security Software Engineer, Software Supply Chain Security / `200679771-3337` (fit 81 expansion candidate, Seattle, $175K-$308.5K base); Senior Platform Engineer, Privacy Preserving ML / `200658428-3337` (fit 83 expansion candidate, Seattle, $175K-$308.5K base); Senior machine learning platform engineer, Evaluation & Privacy / `200666705-0836` (fit 80 expansion candidate, Cupertino, $184.7K-$324.8K base). Apple roles also include bonus/equity and benefits where stated.
+- Apple displayed an explicit “Your information has been submitted” confirmation for every role. `Your Roles` increased from 37 to **47 active submissions**, below Apple's displayed limit of 50 active submissions; Apple notes that certain roles are exempt from the limit.
+- Cybersecurity base resume used for the first eight roles; AI base resume used for the two privacy/ML roles. Standard answers remained age 18+ `Yes`, prior Apple employment `No`, prior Apple contractor work `No`, U.S. work authorization `Yes`, and future visa sponsorship `Yes`. The Enterprise Technology Services role's duplicate authorization/sponsorship questionnaire was also answered `Yes` / `Yes`.
+- The 80-83 expansion candidates were lowered for direct kernel/driver/firmware depth, production Go/Swift, large-scale distributed systems and Kubernetes, production privacy-enhancing technologies, ML-platform ownership, or SBOM/SCA/software-supply-chain tooling. No such experience was invented. OPT/STEM OPT compatibility is assessed as reasonable and Apple H-1B sponsorship likelihood as high based on employer history, but no individual posting guarantees sponsorship. U.S.-stay judgment is **YES** for all ten based on role fit, engineering scope, and compensation/equity upside.
 
 ## Full current portfolio
 
@@ -350,6 +357,16 @@
 | 251 | Microsoft | Senior Security Researcher | 200053204 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 91; Redmond hybrid; $119.8K-$234.7K base plus additional compensation; sponsorship likely |
 | 252 | Microsoft | Principal Security Engineer — Microsoft Edge Browser Security | 200044641 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 90; Redmond 4 days/week in-office; principal-band compensation plus benefits/equity; sponsorship likely |
 | 253 | Amazon | Security Engineer II, Ads Security | 10553960 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page verified 2026-09-20; Cybersecurity base resume; fit 96; Bellevue; $159.3K-$202.4K base plus sign-on/RSUs; Amazon dashboard Active (10) |
+| 254 | Apple | Offensive Security Researcher, Kernel & Embedded Security | 200667546-2459 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 87; New York City; $150.4K-$277.6K base plus bonus/equity |
+| 255 | Apple | Software Development Engineer - Security, Enterprise Technology Services | 200648308-3956 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 89; Sunnyvale; $150.4K-$277.6K base plus bonus/equity; questionnaire authorization Yes / sponsorship Yes |
+| 256 | Apple | Systems & Kernel Software Engineer, SEAR | 200565362-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity |
+| 257 | Apple | Senior Software Engineer - Host Access | 200673277-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 85; Seattle; $175K-$308.5K base plus bonus/equity |
+| 258 | Apple | Senior Software Engineer, Wallet Identity Server | 200674168-0157 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 85; Austin; compensation not captured |
+| 259 | Apple | Software Engineer, Apple Services Engineering, iCloud Platform | 200636744-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; Seattle; $142.3K-$263.3K base plus bonus/equity |
+| 260 | Apple | Senior Software Engineer, Apple Services Engineering, iCloud Platform | 200652502-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 80 expansion candidate; Seattle; $175K-$308.5K base plus bonus/equity |
+| 261 | Apple | Senior Security Software Engineer, Software Supply Chain Security | 200679771-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; Seattle; $175K-$308.5K base plus bonus/equity |
+| 262 | Apple | Senior Platform Engineer, Privacy Preserving ML | 200658428-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 83 expansion candidate; Seattle; $175K-$308.5K base plus bonus/equity |
+| 263 | Apple | Senior machine learning platform engineer, Evaluation & Privacy | 200666705-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 80 expansion candidate; Cupertino; $184.7K-$324.8K base plus bonus/equity |
 
 ## Current workflow rules
 
