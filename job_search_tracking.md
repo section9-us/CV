@@ -4,8 +4,8 @@
 
 ## Current portfolio — updated 2026-09-20; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 240**
-- **지원 완료 / 검토 중: 181**
+- **Tracked submitted applications: 241**
+- **지원 완료 / 검토 중: 182**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -36,7 +36,7 @@
 
 - **Six existing tracked applications were newly reconciled to `서류 탈락` from explicit employer emails:** Uber — Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) / 159199; Apple — Senior Security Engineer - Red Team / 200673234; NVIDIA — Senior Security Engineer, RTOS and Virtualization / JR2023153; NVIDIA — Senior Platform Security Engineer – Device Trust, Attestation and Secure Browser / JR2024769; Sierra — Security Engineer; Okta — Staff Security Engineer, TDI.
 - The prior generic Okta record is now associated with the exact rejected role, but the exact application date remains `미확인` because the earlier 2026-09-10 receipt did not state a role and the later rejection did not state an application date.
-- **Two new portal/email-confirmed submissions were added:** Microsoft — Senior Software Engineer, Security AI / 200044826; NVIDIA — Senior Network Security Architect / JR2025110. Both remain `지원 완료 / 검토 중`.
+- **Three new email-confirmed submissions were added:** Microsoft — Senior Software Engineer, Security AI / 200044826; Tesla — Sr. Cybersecurity Engineer, Energy / 276195; NVIDIA — Senior Network Security Architect / JR2025110. All remain `지원 완료 / 검토 중`.
 - Replit generated another Product Security Engineer (PSIRT) confirmation on 2026-09-20, but the exact tracked role already existed and is not double-counted.
 - No verified recruiter screen, interview invitation/schedule, additional interview round, offer, withdrawal, or other stage progression was found in the UC Davis recruiting mailbox.
 
@@ -316,7 +316,8 @@
 | 237 | Apple | Software Engineer - Security Framework | 200674160 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; Seattle; $142.3K-$263.3K base + bonus/equity |
 | 238 | Apple | Systems Software Engineer, Information Security | 200641083-3337 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 86; multi-location U.S.; $175K-$308.5K base + bonus/equity |
 | 239 | Microsoft | Senior Software Engineer, Security AI | 200044826 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Microsoft application receipt 2026-09-20 16:41 PT; review pending |
-| 240 | NVIDIA | Senior Network Security Architect | JR2025110 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 16:51 PT; review pending |
+| 240 | Tesla | Sr. Cybersecurity Engineer, Energy | 276195 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Tesla application receipt 2026-09-20 16:49 PT; review pending; status view available via Tesla Connect |
+| 241 | NVIDIA | Senior Network Security Architect | JR2025110 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 16:51 PT; review pending |
 
 ## Current workflow rules
 
