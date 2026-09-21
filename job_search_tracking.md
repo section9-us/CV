@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-20; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-20 21:32 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 246**
-- **지원 완료 / 검토 중: 185**
+- **Tracked submitted applications: 252**
+- **지원 완료 / 검토 중: 191**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -75,6 +75,14 @@
 - Apple roles below fit 80 were not submitted, including compiler/JavaScriptCore-specialist, Swift/Objective-C calls and messaging, 15+ year perimeter-security architect, dedicated proxy/WAF domain-expert, and non-engineering TPM/EPM roles. Expansion candidates at fit 80-84 carry specific gaps in kernel/OS internals, Go/Swift, SDK/framework ownership, large-scale distributed systems, software supply-chain tooling, or Kubernetes/cloud-platform depth; no experience was invented.
 - **Not submitted:** OpenAI — Software Engineer, Privacy Engineering / `07153f7c-7e8b-4283-a879-cb07a224e083`; the completed application was rejected by OpenAI's limit of five applications in any 180-day period. Not counted.
 - **Screened out:** OpenAI — Software Engineer, Security Observability requires U.S. citizenship; Apple — Vulnerability Response Engineer / `200683092-2114` is London-based; Anyscale — Senior Product Security Engineer states the role is based in India; OpenAI — Systems Software Engineer, Security, First Party Hardware was below the 80-point threshold because it requires deep hands-on hardware/firmware security experience.
+
+### Microsoft application activity — 2026-09-20 21:32 PT
+
+- **Submitted six additional Microsoft roles:** Principal Security Engineer, Microsoft Red Team / `200055868` (fit 94, Principal, U.S. remote, $142.8K-$274.8K base; Bay Area $188K-$304.2K); Principal Security Engineer, Microsoft Red Team / `200055865` (fit 93, Principal, U.S. remote, $165.6K-$296.4K base; Bay Area $220.8K-$331.2K); Security Researcher, AI Red Team / `200046267` (fit 95, Security Researcher, Redmond hybrid, $102.1K-$202.2K base); Security Researcher II, MSRC / `200053274` (fit 92, Security Researcher II, Redmond remote, $102.1K-$202.2K base); Senior Security Researcher / `200053204` (fit 91, Senior, Redmond hybrid, $119.8K-$234.7K base); Principal Security Engineer, Microsoft Edge Browser Security / `200044641` (fit 90, Principal, Redmond on-site/hybrid, principal-band compensation plus benefits/equity).
+- Microsoft displayed the explicit “Your application has been submitted, Kevin!” success page for all six. The dashboard now shows **10 active Applications**, reaching Microsoft's observed active-application limit; four previously submitted Microsoft roles remain active.
+- Cybersecurity base resume used for all six. Work authorization was entered `Yes`, future sponsorship `Yes`, current/previous government service `Yes`, noncompete/obstructive NDA `No`, prior Microsoft work `No`, current Microsoft-subsidiary employment `No`; address line 2 was `Apt. 106`. Each truthful minimum-qualification question was answered `Yes`.
+- OPT/STEM OPT compatibility is assessed as reasonable for all six and Microsoft's H-1B sponsorship likelihood as high, but sponsorship is not guaranteed by these postings. U.S.-stay judgment is **YES** for all six based on fit, employer trajectory, and expected total compensation. The lower cash bands for `200046267` and `200053274` are accepted because AI Red Team/MSRC scope and equity may materially improve career upside.
+- Roles with explicit export-control status restrictions or clearance requirements were excluded. Fit 80-84 backup candidates were not submitted because the Microsoft active-application cap was reached.
 
 ## Full current portfolio
 
@@ -328,6 +336,12 @@
 | 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:07 PT; review pending |
 | 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
 | 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:11 PT; review pending |
+| 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely |
+| 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely |
+| 249 | Microsoft | Security Researcher — AI Red Team | 200046267 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 95; Redmond hybrid; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
+| 250 | Microsoft | Security Researcher II — Microsoft Security Response Center | 200053274 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 92; Redmond remote; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
+| 251 | Microsoft | Senior Security Researcher | 200053204 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 91; Redmond hybrid; $119.8K-$234.7K base plus additional compensation; sponsorship likely |
+| 252 | Microsoft | Principal Security Engineer — Microsoft Edge Browser Security | 200044641 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 90; Redmond 4 days/week in-office; principal-band compensation plus benefits/equity; sponsorship likely |
 
 ## Current workflow rules
 
