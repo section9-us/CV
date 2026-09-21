@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 09:25 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 09:34 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 263**
-- **지원 완료 / 검토 중: 202**
+- **Tracked submitted applications: 266**
+- **지원 완료 / 검토 중: 205**
 - **서류 합격: 1**
 - **서류 탈락: 58**
 - **인터뷰 1 예정: 0**
@@ -97,6 +97,13 @@
 - Apple displayed an explicit “Your information has been submitted” confirmation for every role. `Your Roles` increased from 37 to **47 active submissions**, below Apple's displayed limit of 50 active submissions; Apple notes that certain roles are exempt from the limit.
 - Cybersecurity base resume used for the first eight roles; AI base resume used for the two privacy/ML roles. Standard answers remained age 18+ `Yes`, prior Apple employment `No`, prior Apple contractor work `No`, U.S. work authorization `Yes`, and future visa sponsorship `Yes`. The Enterprise Technology Services role's duplicate authorization/sponsorship questionnaire was also answered `Yes` / `Yes`.
 - The 80-83 expansion candidates were lowered for direct kernel/driver/firmware depth, production Go/Swift, large-scale distributed systems and Kubernetes, production privacy-enhancing technologies, ML-platform ownership, or SBOM/SCA/software-supply-chain tooling. No such experience was invented. OPT/STEM OPT compatibility is assessed as reasonable and Apple H-1B sponsorship likelihood as high based on employer history, but no individual posting guarantees sponsorship. U.S.-stay judgment is **YES** for all ten based on role fit, engineering scope, and compensation/equity upside.
+
+### Apple active-posting sweep — 2026-09-21 09:34 PT
+
+- Screened Apple's current U.S. Security and Privacy inventory (100 active search results) against all tracked Apple requisitions and removed already-submitted roles, location variants of the same role, non-engineering program/management work, and roles below fit 80.
+- **Submitted three best remaining roles:** Software Engineer, AI Infrastructure / `200672768-0836` (fit 88, Cupertino, $184.7K-$324.8K base plus bonus/equity; AI base resume); User Secrets, Software Engineer, SEAR / `200646650-0836` (fit 84 expansion candidate, Cupertino, $150.4K-$277.6K base plus bonus/equity; Cybersecurity base resume); User Secrets - Software Engineer, SEAR / `200644622-0836` (fit 83 expansion candidate, Cupertino, $150.4K-$277.6K base plus bonus/equity; Cybersecurity base resume). Apple displayed an explicit submission confirmation for all three.
+- Apple `Your Roles` increased from 47 to **50 active submissions**, reaching the displayed general maximum. A direct application attempt for Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems / `200664835-0240` redirected to `showSubmissionLimitAlert=true` with the explicit instruction that an active submission must be withdrawn; no application was created and no existing submission was withdrawn.
+- **Held at the Apple cap:** `200664835-0240` Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems (fit 82 expansion; SAP/enterprise workload automation is the main gap); `200678225-3577` Senior Software Engineer, Apple Services Engineering (fit 81 expansion; production Kubernetes and large-scale observability/distributed-systems ownership gaps); `200664944-3577` Software Engineer, Apple Services Engineering (fit 80 expansion; production NoSQL, concurrent network I/O, and large-scale distributed-systems ownership gaps). These can be reconsidered only when an Apple active slot opens or Apple marks a role exempt; do not withdraw a stronger active application automatically.
 
 ## Full current portfolio
 
@@ -367,6 +374,9 @@
 | 261 | Apple | Senior Security Software Engineer, Software Supply Chain Security | 200679771-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; Seattle; $175K-$308.5K base plus bonus/equity |
 | 262 | Apple | Senior Platform Engineer, Privacy Preserving ML | 200658428-3337 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 83 expansion candidate; Seattle; $175K-$308.5K base plus bonus/equity |
 | 263 | Apple | Senior machine learning platform engineer, Evaluation & Privacy | 200666705-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 80 expansion candidate; Cupertino; $184.7K-$324.8K base plus bonus/equity |
+| 264 | Apple | Software Engineer, AI Infrastructure | 200672768-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 88; Cupertino; $184.7K-$324.8K base plus bonus/equity |
+| 265 | Apple | User Secrets, Software Engineer, SEAR | 200646650-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity |
+| 266 | Apple | User Secrets - Software Engineer, SEAR | 200644622-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 83 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity; Apple active submissions reached 50/50 |
 
 ## Current workflow rules
 
