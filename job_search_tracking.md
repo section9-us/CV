@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 14:50 PT; latest status audit 2026-09-20 17:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 15:02 PT; latest status audit 2026-09-21 15:02 PT (America/Los_Angeles)
 
 - **Tracked submitted applications: 326**
-- **지원 완료 / 검토 중: 265**
+- **지원 완료 / 검토 중: 263**
 - **서류 합격: 1**
-- **서류 탈락: 58**
+- **서류 탈락: 60**
 - **인터뷰 1 예정: 0**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
@@ -32,7 +32,12 @@
 
 - **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
 
-### Latest audit changes — 2026-09-20 17:02 PT
+### Latest audit changes — 2026-09-21 15:02 PT
+
+- **Two applications were newly reconciled to `서류 탈락` from explicit employer emails:** Amazon — Security Engineer II, Ads Security / `10553960` (decision email 2026-09-21 06:41 PT); Palo Alto Networks — Principal Software Engineer in Test (Cloud Security Services) (decision email 2026-09-21 00:01 PT).
+- **Microsoft action required, no stage change:** Principal Security Engineer / `200055868` and `200055865` each received a request to complete Microsoft's Government Official form because current or prior government affiliation was disclosed. Both remain `지원 완료 / 검토 중`; the form was not submitted during this read-only audit.
+- **Anthropic application-limit notice, no role-level status change:** Anthropic stated that only a limited number of applications per candidate can be processed within a 180-day period. A separate message confirms the first application to Applied AI Architect, Strategic Enterprise Tech is retained and duplicate applications to that same role are not processed.
+- No new recruiter screen, assessment pass, interview invitation, later-round progression, offer, withdrawal, or interview rejection was found in the UC Davis mailbox.
 
 - **Six existing tracked applications were newly reconciled to `서류 탈락` from explicit employer emails:** Uber — Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) / 159199; Apple — Senior Security Engineer - Red Team / 200673234; NVIDIA — Senior Security Engineer, RTOS and Virtualization / JR2023153; NVIDIA — Senior Platform Security Engineer – Device Trust, Attestation and Secure Browser / JR2024769; Sierra — Security Engineer; Okta — Staff Security Engineer, TDI.
 - The prior generic Okta record is now associated with the exact rejected role, but the exact application date remains `미확인` because the earlier 2026-09-10 receipt did not state a role and the later rejection did not state an application date.
@@ -253,7 +258,7 @@
 | 142 | FieldAI | Robotics Product Security Engineer | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:17 PT |
 | 143 | FieldAI | Infrastructure Security Engineer | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:18 PT |
 | 144 | Palo Alto Networks | Principal Security Researcher | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:37 PT |
-| 145 | Palo Alto Networks | Principal Software Engineer in Test (Cloud Security Services) | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:41 PT |
+| 145 | Palo Alto Networks | Principal Software Engineer in Test (Cloud Security Services) | 미확인 | 2026-09-10 | 미정 | 서류 탈락 | explicit rejection email 2026-09-21 00:01 PT; employer pursued other candidates |
 | 146 | Amazon | Security Engineer II, Stores AppSec | 10524054 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | explicit received 2026-09-10 14:11 PT |
 | 147 | Palo Alto Networks | Sr. Principal Engineer Software - Security & Detections | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 18:22 PT |
 | 148 | Palo Alto Networks | Senior Staff Security Architect (Information Security) - Bay Area | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 18:24 PT |
@@ -357,13 +362,13 @@
 | 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:07 PT; review pending |
 | 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
 | 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:11 PT; review pending |
-| 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely |
-| 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely |
+| 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
+| 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 249 | Microsoft | Security Researcher — AI Red Team | 200046267 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 95; Redmond hybrid; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
 | 250 | Microsoft | Security Researcher II — Microsoft Security Response Center | 200053274 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 92; Redmond remote; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
 | 251 | Microsoft | Senior Security Researcher | 200053204 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 91; Redmond hybrid; $119.8K-$234.7K base plus additional compensation; sponsorship likely |
 | 252 | Microsoft | Principal Security Engineer — Microsoft Edge Browser Security | 200044641 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 90; Redmond 4 days/week in-office; principal-band compensation plus benefits/equity; sponsorship likely |
-| 253 | Amazon | Security Engineer II, Ads Security | 10553960 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page verified 2026-09-20; Cybersecurity base resume; fit 96; Bellevue; $159.3K-$202.4K base plus sign-on/RSUs; Amazon dashboard Active (10) |
+| 253 | Amazon | Security Engineer II, Ads Security | 10553960 | 2026-09-20 | 미정 | 서류 탈락 | explicit rejection email 2026-09-21 06:41 PT; Amazon progressed with other candidates |
 | 254 | Apple | Offensive Security Researcher, Kernel & Embedded Security | 200667546-2459 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 87; New York City; $150.4K-$277.6K base plus bonus/equity |
 | 255 | Apple | Software Development Engineer - Security, Enterprise Technology Services | 200648308-3956 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 89; Sunnyvale; $150.4K-$277.6K base plus bonus/equity; questionnaire authorization Yes / sponsorship Yes |
 | 256 | Apple | Systems & Kernel Software Engineer, SEAR | 200565362-0836 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; Cupertino; $150.4K-$277.6K base plus bonus/equity |
@@ -470,4 +475,4 @@
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-20 17:02 PT (America/Los_Angeles)**
+Last status audit: **2026-09-21 15:02 PT (America/Los_Angeles)**
