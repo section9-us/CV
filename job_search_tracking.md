@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-22 18:30 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-22 15:10 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 338**
-- **지원 완료 / 검토 중: 258**
+- **Tracked submitted applications: 361**
+- **지원 완료 / 검토 중: 281**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 67**
@@ -124,6 +124,14 @@
 - **Submitted three best remaining roles:** Software Engineer, AI Infrastructure / `200672768-0836` (fit 88, Cupertino, $184.7K-$324.8K base plus bonus/equity; AI base resume); User Secrets, Software Engineer, SEAR / `200646650-0836` (fit 84 expansion candidate, Cupertino, $150.4K-$277.6K base plus bonus/equity; Cybersecurity base resume); User Secrets - Software Engineer, SEAR / `200644622-0836` (fit 83 expansion candidate, Cupertino, $150.4K-$277.6K base plus bonus/equity; Cybersecurity base resume). Apple displayed an explicit submission confirmation for all three.
 - Apple `Your Roles` increased from 47 to **50 active submissions**, reaching the displayed general maximum. A direct application attempt for Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems / `200664835-0240` redirected to `showSubmissionLimitAlert=true` with the explicit instruction that an active submission must be withdrawn; no application was created and no existing submission was withdrawn.
 - **Held at the Apple cap:** `200664835-0240` Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems (fit 82 expansion; SAP/enterprise workload automation is the main gap); `200678225-3577` Senior Software Engineer, Apple Services Engineering (fit 81 expansion; production Kubernetes and large-scale observability/distributed-systems ownership gaps); `200664944-3577` Software Engineer, Apple Services Engineering (fit 80 expansion; production NoSQL, concurrent network I/O, and large-scale distributed-systems ownership gaps). These can be reconsidered only when an Apple active slot opens or Apple marks a role exempt; do not withdraw a stronger active application automatically.
+
+### Greenhouse Bay Area application batch — 2026-09-22 15:10 PT
+
+- **Twenty Greenhouse submissions were confirmed:** Faire 2, Scale AI 1, Reddit 1, Roblox 10, Instacart 1, Waymo 2, and Zscaler 3. Every counted application reached Greenhouse's explicit confirmation page.
+- Base resumes were selected by role: Cybersecurity for product/application/offensive/enterprise/IR roles, Cloud for cloud and infrastructure security, Network for vehicle security, and AI for Zscaler AI Security. No company-specific resume was created.
+- Verified recurring answers remained truthful: U.S. work authorization `Yes`, future sponsorship `Yes`, current location Davis, current Republic of Korea government employment where asked, prior employer affiliation `No`, gender `Male`, race/ethnicity `Asian`, protected veteran `No`, and disability `No`.
+- Expansion candidates at fit 80–84 were lowered for direct enterprise IAM, sandbox-platform, insider-risk/DLP, or production hyperscale platform ownership gaps; no missing experience was claimed.
+- **Three Rippling submissions made immediately before the Greenhouse-only scope clarification were also confirmed and recorded:** Principal Security Engineer, Staff Product Security Engineer, and Senior Security Engineer - DART.
 
 ## Full current portfolio
 
@@ -469,6 +477,29 @@
 | 336 | Meta | Product Security Engineer | 1576164386800549 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Meta application page verified; Cybersecurity base resume; fit 97; $154K-$217K base plus bonus/equity; government employment disclosure completed truthfully |
 | 337 | Tesla | Sr. Security Engineer, Infrastructure & Platform Security | 276017 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cloud base resume; fit 82 expansion candidate; production Kubernetes/SRE ownership is a gap; compensation not stated |
 | 338 | Tesla | Sr. Digital Forensics & eDiscovery Engineer, Security Intelligence | 274471 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 86; direct Purview/eDiscovery platform depth is a gap; compensation not stated |
+| 339 | Rippling | Principal Security Engineer | dc4d5774-9242-4948-bf9c-bb470d272809 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Submission confirmation verified; Cybersecurity base resume; fit 88 |
+| 340 | Rippling | Staff Product Security Engineer | c8f318e5-2b94-4e0f-889c-c7ab29b3aed3 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Submission confirmation verified; Cybersecurity base resume; fit 92 |
+| 341 | Rippling | Senior Security Engineer - DART | 84739025-ee23-48c3-847d-39a4a187f376 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Submission confirmation verified; Cybersecurity base resume; fit 90 |
+| 342 | Faire | Senior Security Engineer - Enterprise AI | 8536687002 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 92 |
+| 343 | Faire | Senior Enterprise Security Engineer | 8659413002 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 86 |
+| 344 | Scale AI | Security Engineer, Infrastructure | 4646888005 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 91 |
+| 345 | Reddit | Staff Product Security Engineer | 7868511 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
+| 346 | Roblox | Principal Security Software Engineer, Application Security | 7789332 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 88 |
+| 347 | Roblox | Principal Security Software Engineer, Enterprise Security | 7983905 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; enterprise security-platform ownership depth is a gap |
+| 348 | Roblox | Principal Security Software Engineer, IAM | 8099958 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; large-scale IAM platform ownership is a gap |
+| 349 | Roblox | Senior Cloud Security Engineer | 7997039 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 86 |
+| 350 | Roblox | Senior Offensive Security Engineer | 8070888 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89 |
+| 351 | Roblox | Senior Security Software Engineer, Application Security | 7896293 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
+| 352 | Roblox | Senior Security Software Engineer, IAM | 8016408 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; production IAM-service ownership is a gap |
+| 353 | Roblox | Senior Security Software Engineer, Infrastructure Security | 7896061 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 87 |
+| 354 | Roblox | Senior Security Software Engineer, Sandbox Platforms | 8198167 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; sandbox-runtime/platform engineering depth is a gap |
+| 355 | Roblox | Senior Security Software Engineer, Vulnerability Management | 7922649 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89 |
+| 356 | Instacart | Senior Product Security Engineer II | 8017071 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 88 |
+| 357 | Waymo | Senior Security Engineer | 7160937 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
+| 358 | Waymo | Senior Systems Engineer, Vehicle Security | 7974252 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Network base resume; fit 86 |
+| 359 | Zscaler | Staff Software Engineer - AI Security (Go/Rust/Python) | 5202464007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86 |
+| 360 | Zscaler | Senior Information Security Engineer | 5235296007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; exact production security-platform scope is a gap |
+| 361 | Zscaler | Insider Risk Security Engineer | 5208421007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 80 expansion candidate; direct enterprise insider-risk/DLP ownership is a gap |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
