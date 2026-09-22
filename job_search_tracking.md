@@ -2,12 +2,13 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 15:02 PT; latest status audit 2026-09-21 15:02 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 20:45 PT; latest status audit 2026-09-21 20:45 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 326**
-- **지원 완료 / 검토 중: 263**
+- **Tracked submitted applications: 329**
+- **지원 완료 / 검토 중: 250**
+- **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
-- **서류 탈락: 60**
+- **서류 탈락: 67**
 - **인터뷰 1 예정: 0**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
@@ -16,7 +17,7 @@
 - **최종 합격 / 오퍼: 0**
 - **면접 탈락: 0**
 - **지원 철회: 0**
-- **공고 종료 — 결과 미확인: 0**
+- **공고 종료 — 결과 미확인: 8**
 - **상태 불명: 2**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
@@ -32,7 +33,17 @@
 
 - **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
 
-### Latest audit changes — 2026-09-21 15:02 PT
+### Latest portal audit changes — 2026-09-21 20:45 PT
+
+- **Meta stage progression:** Security Engineer - Vulnerability Management is now explicitly `Initial prescreen` in Meta Career Profile. No recruiter call or interview invitation is shown, so this is tracked as `초기 사전심사 (포털)`, not as an interview.
+- **Google portal outcomes:** Senior Offensive Security Consultant, Mandiant, Google Cloud is `Not proceeding`. A previously untracked application to Senior Information Security Engineer, Cloud CISO, Vulnerability Rewards Program was submitted 2026-09-01 and is also `Not proceeding`; it has been added below. Senior Information Security Engineer, Product Security Engineering remains `Assessment passed`.
+- **Amazon portal outcomes:** `10488832`, `10504744`, and `10524826` are `No longer under consideration`. `10480747` is explicitly `Under consideration`; the other eight active Amazon applications remain `Application submitted`.
+- **Apple portal reconciliation:** Apple shows 49 active submissions, all `Submitted`. Eight tracked roles have moved to Archived without an explicit rejection: five still display `Submitted` and three display `Not available`. They are conservatively tracked as `공고 종료 — 결과 미확인`, not as rejections. The previously user-excluded 2025 internship remains excluded.
+- **NVIDIA portal reconciliation:** 27 applications are active and all display `Application Received`. Seven are inactive and display `Declined / Thank You For Applying`; four were already reconciled, two previously untracked engineering roles were added below as rejected, and the historical 2026 internship remains excluded.
+- **Microsoft portal reconciliation:** All 10 applications remain `Submitted`; Inactive is 0. Two Government Official forms remain outstanding, with no stage change.
+- **Tesla portal blocker:** the verified email reaches the password step, but no verified Tesla password is available in the browser session. No password reset or account change was attempted.
+
+### Latest mailbox audit changes — 2026-09-21 15:02 PT
 
 - **Two applications were newly reconciled to `서류 탈락` from explicit employer emails:** Amazon — Security Engineer II, Ads Security / `10553960` (decision email 2026-09-21 06:41 PT); Palo Alto Networks — Principal Software Engineer in Test (Cloud Security Services) (decision email 2026-09-21 00:01 PT).
 - **Microsoft action required, no stage change:** Principal Security Engineer / `200055868` and `200055865` each received a request to complete Microsoft's Government Official form because current or prior government affiliation was disclosed. Both remain `지원 완료 / 검토 중`; the form was not submitted during this read-only audit.
@@ -115,7 +126,7 @@
 | # | Employer | Role | Requisition | Application date | Outcome | Current stage | Decision / evidence note |
 |---:|---|---|---|---|---|---|---|
 | 1 | Google | Senior Information Security Engineer, Product Security Engineering | 미확인 | 2026-08-27 | 미정 | 서류 합격 | Assessment passed 2026-09-01; Recruiting review pending |
-| 2 | Google | Senior Offensive Security Consultant, Mandiant, Google Cloud | 미확인 | 2026-08-27 | 미정 | 지원 완료 / 검토 중 | — |
+| 2 | Google | Senior Offensive Security Consultant, Mandiant, Google Cloud | 미확인 | 2026-08-27 | 불합격 | 서류 탈락 | Google Careers portal: `Not proceeding`, verified 2026-09-21 |
 | 3 | Anthropic | Staff+ Application Security Engineer | 4502508008 | 2026-08-28 | 불합격 | 서류 탈락 | decision 2026-09-11 09:00 PT |
 | 4 | Apple | Security Engineer - Apple Pay | 200667427 | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
 | 5 | OpenAI | Security Engineer, Detection and Response | f956b77c-3cc5-4fdd-9463-2a6e5047e57c | 2026-08-28 | 미정 | 지원 완료 / 검토 중 | — |
@@ -133,9 +144,9 @@
 | 17 | NVIDIA | Senior Software Engineer, Security | JR2018245 | 미확인 | 불합격 | 서류 탈락 | decision 2026-09-03 |
 | 18 | Amazon | Security Engineer II, Devices and Services Security | 10475581 | 2026-08-30 | 불합격 | 서류 탈락 | decision 2026-08-31 |
 | 19 | LinkedIn | Staff Security Engineer - AI | 4425661803 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
-| 20 | Apple | Security Software Engineer, Enterprise Technology Services | 200677750-3956 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 20 | Apple | Security Software Engineer, Enterprise Technology Services | 200677750-3956 | 2026-08-30 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
 | 21 | NVIDIA | Intellectual Property Security Engineer | JR2021915 | 2026-08-30 | 불합격 | 서류 탈락 | decision 2026-09-07 |
-| 22 | Apple | Platform Engineer - Security | 200667725-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
+| 22 | Apple | Platform Engineer - Security | 200667725-0836 | 2026-08-30 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived / `Not available`, verified 2026-09-21 |
 | 23 | Apple | Platform Security Certification Engineer | 200668286-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
 | 24 | Apple | Secure Design Engineer, SEAR | 200670923-0836 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
 | 25 | Scale AI | Security Engineer, Detection & Response | 4684073005 | 2026-08-30 | 미정 | 지원 완료 / 검토 중 | — |
@@ -166,14 +177,14 @@
 | 50 | NVIDIA | Cyber Security Analyst | JR2013392 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
 | 51 | Tesla | Sr. Security Engineer, Fleetnet, Vehicle Software | 256901 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-05 |
 | 52 | Uber | Staff Security Engineer, Detection & Response (AI-Driven Threat Hunting & Incident Response) | 159199 | 2026-09-01 | 불합격 | 서류 탈락 | explicit employer rejection 2026-09-17 11:50 PT |
-| 53 | Amazon | Senior Software Development Engineer, New Security Service | 10488832 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
-| 54 | Amazon | Application Security Engineer, AppSec ASSET | 10504744 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
+| 53 | Amazon | Senior Software Development Engineer, New Security Service | 10488832 | 2026-09-01 | 불합격 | 서류 탈락 | Amazon portal: `No longer under consideration`, verified 2026-09-21 |
+| 54 | Amazon | Application Security Engineer, AppSec ASSET | 10504744 | 2026-09-01 | 불합격 | 서류 탈락 | Amazon portal: `No longer under consideration`, verified 2026-09-21 |
 | 55 | Amazon | Application Security Engineer, AWS Proactive Security | 10507092 | 2026-09-01 | 불합격 | 서류 탈락 | decision 2026-09-08 11:08 PT |
 | 56 | Apple | Senior Software Engineer, Enterprise Technology Services | 200677752 | 2026-09-01 | 미정 | 지원 완료 / 검토 중 | — |
 | 57 | Snap | Security Engineer, Level 4 | H226SWES2 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
 | 58 | Anthropic | Staff+ Security Engineer, Risk Engineering | 5250052008 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-03 |
 | 59 | Anthropic | Staff+ Software Security Engineer | 5120512008 | 2026-09-02 | 불합격 | 서류 탈락 | decision 2026-09-15 14:30 PT |
-| 60 | Apple | Software Engineer, Apple Services Engineering - Commerce | 200673082 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
+| 60 | Apple | Software Engineer, Apple Services Engineering - Commerce | 200673082 | 2026-09-02 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived / `Not available`, verified 2026-09-21 |
 | 61 | Apple | Senior Software Engineer - Security | 200679881-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
 | 62 | Apple | Senior Security Engineer - Red Team | 200673234-3337 | 2026-09-02 | 불합격 | 서류 탈락 | explicit Apple rejection for role 200673234 on 2026-09-17 15:36 PT |
 | 63 | Apple | Senior Security Engineer | 200673187-3337 | 2026-09-02 | 미정 | 지원 완료 / 검토 중 | — |
@@ -188,9 +199,9 @@
 | 72 | Amazon | Security Engineer II, Stores Security – HealthCare | 10464856 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-09 02:00 PT |
 | 73 | Amazon | Sr Security Engineer, AWS Infrastructure Security | 10530005 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-09 02:01 PT |
 | 74 | Amazon | Security Engineer II, Enterprise Protection Program | 10505020 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
-| 75 | Apple | Secure Systems Engineer, Platform Architecture Security Team | 200681859-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 75 | Apple | Secure Systems Engineer, Platform Architecture Security Team | 200681859-0836 | 2026-09-07 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
 | 76 | Amazon | Senior Security Engineer, AI Red Team, Threat Operations | 10412446 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-14 08:39 PT |
-| 77 | Amazon | Senior Security Engineer, Corporate Services Security | 10524826 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 77 | Amazon | Senior Security Engineer, Corporate Services Security | 10524826 | 2026-09-07 | 불합격 | 서류 탈락 | Amazon portal: `No longer under consideration`, verified 2026-09-21 |
 | 78 | Amazon | Security Engineer II, Global Media and Entertainment Security | 10512097 | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-08 08:02 PT |
 | 79 | Apple | Sr Automation & Intelligence Tools Engineer, SEAR | 200676748-0836 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 80 | NVIDIA | Senior Security Engineer, RTOS and Virtualization | JR2023153 | 2026-09-07 | 불합격 | 서류 탈락 | explicit NVIDIA rejection 2026-09-18 00:06 PT |
@@ -266,7 +277,7 @@
 | 150 | Coinbase | 미확인 | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-10 18:41 PT; role not stated, do not infer |
 | 151 | Amazon | Software Development Engineer, Security Platform | 10510816 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | explicit received 2026-09-10 19:32 PT |
 | 152 | Amazon | Software Engineer, Abuse Prevention, Devices and Services Security | 10513831 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | explicit received 2026-09-10 19:33 PT |
-| 153 | Apple | SoC Security Engineer - Platform Architecture | 200660178 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 23:39 PT |
+| 153 | Apple | SoC Security Engineer - Platform Architecture | 200660178 | 2026-09-10 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived / `Not available`, verified 2026-09-21 |
 | 154 | Apple | SDET, Security Server Application, Enterprise Applications Engineering | 200651077 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 23:41 PT |
 | 155 | Okta | Staff Security Engineer, TDI | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact role verified by explicit rejection 2026-09-18 10:31 PT; earlier generic receipt was 2026-09-10 but exact receipt-to-role mapping/application date remains unverified |
 | 156 | Wispr Flow | Platform Engineer, Product Security | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 23:25 PT |
@@ -279,7 +290,7 @@
 | 163 | Tesla | Embedded Security Engineer | 226451 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-15 11:00 PT |
 | 164 | Microsoft | Principal Security Engineer | 200044763 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 13:41 PT |
 | 165 | NVIDIA | Senior Platform Security Engineer – Device Trust, Attestation and Secure Browser | JR2024769 | 2026-09-11 | 불합격 | 서류 탈락 | explicit NVIDIA rejection 2026-09-18 00:06 PT |
-| 166 | Meta | Security Engineer - Vulnerability Management | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 13:45 PT |
+| 166 | Meta | Security Engineer - Vulnerability Management | 미확인 | 2026-09-11 | 미정 | 초기 사전심사 (포털) | Meta Career Profile: `Initial prescreen`, verified 2026-09-21; no interview invitation shown |
 | 167 | Meta | Product Security Engineer - Team Lead | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 18:45 PT |
 | 168 | Meta | Security Engineer, Applied AI | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:01 PT |
 | 169 | Meta | Security Engineer Investigator, Integrity Investigations, Intelligence, and Events | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:04 PT |
@@ -290,13 +301,13 @@
 | 174 | Tesla | Sr. Network Security Engineer | 280308 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 19:40 PT |
 | 175 | Tesla | Software Engineer, Zero Trust | 281412 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 14:15 PT |
 | 176 | Tesla | Sr. Software Engineer, Code Hardening & Framework Resilience, Robotaxi | 246033 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 11:00 PT |
-| 177 | Apple | Product Security Engineer, SEAR | 200682965 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 23:43 PT |
+| 177 | Apple | Product Security Engineer, SEAR | 200682965 | 2026-09-11 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
 | 178 | Arena Intelligence | Software Engineer, Product Security | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 23:46 PT |
 | 179 | Replit | Product Security Engineer (PSIRT - Product Security Incident Response Team) | 1634b879-80c7-4064-be0a-8a4aecc81923 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:00 PT; an additional Ashby submission success was confirmed 2026-09-20, so the duplicate was not counted as a separate application; desired TC entered as USD $200K-$300K depending on level and equity |
 | 180 | Meta | Security Engineer - Security Risk Management | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 181 | Meta | Security Engineer, Investigations - i3E | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 182 | Airwallex | Staff Product Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact role verified by rejection; decision 2026-09-15 18:20 PT; application date unverified |
-| 183 | Apple | AI Security Architect- ARC, Apple Information Security | 200667273 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-16 11:42 PT |
+| 183 | Apple | AI Security Architect- ARC, Apple Information Security | 200667273 | 2026-09-16 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
 | 184 | Binti | Principal Application Security Engineer | 8950b5c7-5599-46c1-9c3a-be5ca43ae2d7 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; receipt 2026-09-16 13:54 PT |
 | 185 | Glean | Application Security Engineer | 4728513005 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; receipt 2026-09-16 22:29 PT; distinct from rejected Platform Security Engineer role |
 | 186 | Supabase | Platform Security Engineer (AMER/APAC) | 8fa1c7a0-a85c-4562-a1f5-4dd22cadae27 | 2026-09-16 | 미정 | 지원 완료 / 검토 중 | portal submission success; generic receipt 2026-09-16 22:21 PT |
@@ -341,7 +352,7 @@
 | 223 | Apple | Machine Learning Engineer, Information Security | 200645407-3956 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 92; Sunnyvale; $150.4K-$277.6K base + bonus/equity |
 | 224 | Apple | Vulnerability Researcher | 200667500 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 88; Seattle; $142.3K-$263.3K base + bonus/equity |
 | 225 | Apple | Senior Security Engineer, Data Center Network | 200674799 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 86; Bay Area; $175.5K-$311.7K base + bonus/equity |
-| 226 | Apple | Senior Security Engineer, Infrastructure Services | 200642549 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 86; Bay Area; $184.7K-$324.8K base + bonus/equity |
+| 226 | Apple | Senior Security Engineer, Infrastructure Services | 200642549 | 2026-09-20 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
 | 227 | Apple | Senior Software Engineer, Security/Privacy, Enterprise Technology Services | 200653708 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 87; Sunnyvale; $184.7K-$277.6K base + bonus/equity; questionnaire work authorization Yes / sponsorship Yes |
 | 228 | Apple | Security Software Engineer, OS Security, SEAR | 200667231-0836 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; Cupertino; $129.3K-$225.3K base + bonus/equity |
 | 229 | Apple | Platform and Frameworks Software Engineer, SEAR | 200592135-0836 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; Cupertino; $150.4K-$277.6K base + bonus/equity |
@@ -361,7 +372,7 @@
 | 243 | NVIDIA | Senior Product Security Lead – NVIDIA Jetson | JR2025433 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 21:00 PT; review pending |
 | 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:07 PT; review pending |
 | 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
-| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:11 PT; review pending |
+| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Amazon portal: `Under consideration`, verified 2026-09-21 |
 | 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 249 | Microsoft | Security Researcher — AI Red Team | 200046267 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 95; Redmond hybrid; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
@@ -442,6 +453,9 @@
 | 324 | Tesla | Software Engineer, Body Controls & Authentication Validation, Vehicle Software | 282615 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; HIL/SIL and vehicle-control validation depth are gaps; $140K-$360K base plus cash/stock |
 | 325 | Tesla | Lead Staff Wireless Network Engineer | 279064 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 80 expansion candidate; enterprise RF survey and wireless-team leadership depth are gaps; $120K-$396K base plus cash/stock |
 | 326 | Tesla | Network Circuit Engineer | 282144 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 81 expansion candidate; carrier circuit turn-up and optical test-equipment depth are gaps; $140K-$252K base plus cash/stock |
+| 327 | Google | Senior Information Security Engineer, Cloud CISO, Vulnerability Rewards Program | application 408760eb-3309-43c1-8cfb-cf97f4cde87f | 2026-09-01 | 불합격 | 서류 탈락 | Google Careers portal: `Not proceeding`, verified 2026-09-21; previously untracked exact application |
+| 328 | NVIDIA | Cloud Security Software Engineer, GeForce NOW | 미확인 | 미확인 | 불합격 | 서류 탈락 | NVIDIA Candidate Home inactive: `Declined / Thank You For Applying`, verified 2026-09-21; requisition and application date not shown |
+| 329 | NVIDIA | Offensive Security Researcher | 미확인 | 미확인 | 불합격 | 서류 탈락 | NVIDIA Candidate Home inactive: `Declined / Thank You For Applying`, verified 2026-09-21; requisition and application date not shown |
 
 ## Current workflow rules
 
@@ -449,7 +463,7 @@
 
 - Read only the UC Davis Gmail account `yhylee@ucdavis.edu` and reconcile new recruiting/application-status messages against every row in this tracker.
 - Inspect new inbox mail broadly and cross-check recruiter/scheduling/assessment/interview/offer/rejection terms; open the relevant full message/thread before changing status.
-- Normalize stages where applicable as: `지원 완료 / 검토 중`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `상태 불명`.
+- Normalize stages where applicable as: `지원 완료 / 검토 중`, `초기 사전심사 (포털)`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `상태 불명`.
 - Never infer a stage from silence. If date, exact role mapping, interview round, or decision basis is unverified, use `미확인`.
 - Read-only mailbox/portal checks plus tracker updates are authorized. Do not reply, schedule/reschedule, accept an offer, withdraw an application, or make another external commitment.
 - Report: (1) key changes, (2) total/stage counts, and (3) complete portfolio.
@@ -475,4 +489,4 @@
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-21 15:02 PT (America/Los_Angeles)**
+Last status audit: **2026-09-21 20:45 PT (America/Los_Angeles)**
