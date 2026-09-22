@@ -2,7 +2,7 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 20:58 PT; latest status audit 2026-09-21 20:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-21 21:15 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
 
 - **Tracked submitted applications: 329**
 - **지원 완료 / 검토 중: 249**
@@ -37,7 +37,7 @@
 
 - **SmartRecruiters follow-up — 2026-09-21 20:58 PT:** direct OTP-authenticated application pages were checked for all SmartRecruiters links found in the UC Davis mailbox. ServiceNow — Principal Security Engineer, Cyber Defense Engineering is now `Archived` and has been conservatively moved to `공고 종료 — 결과 미확인`. ServiceNow — Staff Application Security Engineer and LinkedIn — Staff Security Engineer - AI remain active; the already-rejected ServiceNow Senior Staff AI Security Engineer also displays `Archived`.
 - **Other ATS coverage:** Ashby has no shared candidate status dashboard; status remains email-driven. Workday is tenant-specific rather than cross-employer; NVIDIA was audited directly and the only other Workday tenant link found was the already-rejected Palo Alto Networks application. No recruiting applications using Lever, Workable, Jobvite, or iCIMS were found in the authorized mailbox for this search period.
-- **MyGreenhouse blocker:** a centralized Greenhouse candidate portal is available, but continuing would accept a new MyGreenhouse User Agreement and Privacy Policy. No account creation or agreement acceptance was performed without fresh user approval.
+- **MyGreenhouse connected — 2026-09-21 21:15 PT:** after fresh user approval, the MyGreenhouse User Agreement / Privacy Policy was accepted and the UC Davis Google account was connected. The portal shows **58 Active / 1 Inactive** Greenhouse applications. The sole inactive role is Peregrine Technologies — Staff Software Engineer, Product Security, which was already tracked as rejected from an explicit 2026-09-10 email; no new stage change resulted. Several portal-Active roles already have later explicit rejection emails, so MyGreenhouse's Active label is treated only as a portal grouping and does not override stronger role-specific evidence.
 
 - **Meta stage progression:** Security Engineer - Vulnerability Management is now explicitly `Initial prescreen` in Meta Career Profile. No recruiter call or interview invitation is shown, so this is tracked as `초기 사전심사 (포털)`, not as an interview.
 - **Google portal outcomes:** Senior Offensive Security Consultant, Mandiant, Google Cloud is `Not proceeding`. A previously untracked application to Senior Information Security Engineer, Cloud CISO, Vulnerability Rewards Program was submitted 2026-09-01 and is also `Not proceeding`; it has been added below. Senior Information Security Engineer, Product Security Engineering remains `Assessment passed`.
@@ -493,4 +493,4 @@
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-21 20:58 PT (America/Los_Angeles)**
+Last status audit: **2026-09-21 21:15 PT (America/Los_Angeles)**
