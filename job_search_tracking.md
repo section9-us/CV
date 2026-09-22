@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-21 21:15 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-22 18:30 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 329**
-- **지원 완료 / 검토 중: 249**
+- **Tracked submitted applications: 338**
+- **지원 완료 / 검토 중: 258**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 67**
@@ -460,6 +460,23 @@
 | 327 | Google | Senior Information Security Engineer, Cloud CISO, Vulnerability Rewards Program | application 408760eb-3309-43c1-8cfb-cf97f4cde87f | 2026-09-01 | 불합격 | 서류 탈락 | Google Careers portal: `Not proceeding`, verified 2026-09-21; previously untracked exact application |
 | 328 | NVIDIA | Cloud Security Software Engineer, GeForce NOW | 미확인 | 미확인 | 불합격 | 서류 탈락 | NVIDIA Candidate Home inactive: `Declined / Thank You For Applying`, verified 2026-09-21; requisition and application date not shown |
 | 329 | NVIDIA | Offensive Security Researcher | 미확인 | 미확인 | 불합격 | 서류 탈락 | NVIDIA Candidate Home inactive: `Declined / Thank You For Applying`, verified 2026-09-21; requisition and application date not shown |
+| 330 | NVIDIA | Principal Engineer, Security Architecture - DGX Cloud | JR2026132 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 83 expansion candidate; 15+ year cloud-native architecture/Kubernetes depth is a gap; $272K-$431.25K base plus equity |
+| 331 | NVIDIA | Senior Cybersecurity Engineer - Identity Platform and Access Management | JR2016493 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; direct enterprise IAM/token-platform ownership is a gap; $196K-$310.5K base plus equity |
+| 332 | NVIDIA | Senior Security Software Engineer - AV Platform | JR2021254 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 82 expansion candidate; AV/RTOS/embedded-platform depth is a gap; $184K-$356.5K base plus equity |
+| 333 | NVIDIA | Senior Software Engineer, Attestation Services - DGX Cloud | JR2014097 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 84 expansion candidate; production attestation and hyperscale cloud-service ownership are gaps; $224K-$431.25K base plus equity |
+| 334 | NVIDIA | System Software Engineer - Trusted Firmware | JR2023340 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; ARM Trusted Firmware and low-level driver depth are gaps; $124K-$241.5K base plus equity |
+| 335 | NVIDIA | Senior Network Security Engineer - DGX Cloud | JR2021512 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 92; $168K-$333.5K base plus equity |
+| 336 | Meta | Product Security Engineer | 1576164386800549 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Meta application page verified; Cybersecurity base resume; fit 97; $154K-$217K base plus bonus/equity; government employment disclosure completed truthfully |
+| 337 | Tesla | Sr. Security Engineer, Infrastructure & Platform Security | 276017 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cloud base resume; fit 82 expansion candidate; production Kubernetes/SRE ownership is a gap; compensation not stated |
+| 338 | Tesla | Sr. Digital Forensics & eDiscovery Engineer, Security Intelligence | 274471 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 86; direct Purview/eDiscovery platform depth is a gap; compensation not stated |
+
+### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
+
+- **Nine new qualifying applications were submitted:** NVIDIA 6, Meta 1, Tesla 2. Every portal displayed an explicit success/received state.
+- NVIDIA and Meta were deduplicated against the tracker and their signed-in career profiles. Meta roles showing `View application` were treated as already submitted and were not reapplied to.
+- Tesla's current security search was dominated by EHS, physical-security, and internship roles. NVIDIA management/distinguished/research roles below fit 80 were excluded. The requested 20-per-employer volume was therefore not reached because fewer than 20 new engineering-track security roles per employer met the fit threshold.
+- Meta profile location was corrected from `Indio Hills, California` to `Davis, CA`. The required government-employment disclosure used the source-resume facts: `Software Engineer, Threat Management Division` at `Ministry of Science and ICT, Republic of Korea`.
+- Standard verified answers remained: U.S. work authorization `Yes`, future sponsorship `Yes`, prior NVIDIA/Tesla employment `No`, gender `Male`, race/ethnicity `Asian`, protected veteran `No`. Tesla hCaptcha completed automatically; no CAPTCHA was bypassed.
 
 ## Current workflow rules
 
