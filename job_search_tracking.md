@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-23 14:28 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-23 15:47 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 383**
-- **2026-09-23 drafts, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004 (base-salary expectation, family/healthcare relationships, FDA/OIG exclusion, relocation, and AI-authorship confirmation unresolved); HeyGen — Security Engineer / 5174700007 (all required fields completed, awaiting exact-role final submission approval); Flexport — Senior Security Engineer, Detection & Response / 8160833 (prior Flexport employment and onsite relocation unresolved). Verified basic fields and the current resume were entered in browser tabs; none has a submission receipt. Browser drafts may not survive a session restart.
+- **Tracked submitted applications: 384**
+- **2026-09-23 drafts, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004 (base-salary expectation, family/healthcare relationships, FDA/OIG exclusion, relocation, and AI-authorship confirmation unresolved); Flexport — Senior Security Engineer, Detection & Response / 8160833 (prior Flexport employment and onsite relocation unresolved). Verified basic fields and the current resume were entered in browser tabs; neither has a submission receipt. Browser drafts may not survive a session restart.
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 289**
+- **지원 완료 / 검토 중: 290**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 75**
@@ -540,6 +540,7 @@
 | 381 | Suno | Senior / Staff Application Security Engineer | 미확인 | 2026-09-03 | 불합격 | 서류 탈락 | receipt 2026-09-03 18:11 PT; explicit decision 2026-09-23 06:45 PT; Gmail `1a0ce83cf19d930e` |
 | 382 | Suno | Staff Detection & Response Engineer | 미확인 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-03 18:09 PT; Gmail `1a06b77830cdabd3`; no role-specific outcome verified |
 | 383 | Wraithwatch Corporation | Offensive Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact-role rejection verifies prior application; application date unverified; decision 2026-09-23 10:03 PT; Gmail `1a0cf395d566b34f` |
+| 384 | HeyGen | Security Engineer | 5174700007 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation page `Your application has been received` at 15:47 PT; current Cybersecurity resume and original cover letter uploaded |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
