@@ -2,13 +2,13 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-22 21:36 PT; latest full status audit 2026-09-21 21:15 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-23 14:28 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 380**
-- **지원 완료 / 검토 중: 299**
+- **Tracked submitted applications: 383**
+- **지원 완료 / 검토 중: 289**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
-- **서류 탈락: 67**
+- **서류 탈락: 75**
 - **인터뷰 1 예정: 0**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
@@ -19,6 +19,7 @@
 - **지원 철회: 0**
 - **공고 종료 — 결과 미확인: 9**
 - **공고 종료 — 미진행 확정: 1**
+- **지원 한도 — 자동 종료: 5**
 - **상태 불명: 2**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
@@ -26,9 +27,16 @@
 ### Status interpretation
 
 - Current status is determined only from explicit employer email or verifiable portal evidence. Silence, generic marketing mail, or ambiguous wording does not imply progression or rejection.
+- `지원 한도 — 자동 종료` records an employer's application-volume policy, not a merit-based rejection or a closed job posting.
 - Preserve the original application date separately from later decision/interview dates.
 - User-directed exclusions: do **not** count or recreate the unmapped OpenAI generic confirmation dated 2026-08-27 or the unmapped Google generic confirmation dated 2026-09-01 unless a distinct exact role/requisition is explicitly verified later.
 - `yhylee@ucdavis.edu` is the only mailbox authorized for recruiting/application-status audits.
+
+### UC Davis mailbox reconciliation — 2026-09-23 14:28 PT
+
+- **Eight explicit role-level non-selection notices** were reconciled as `서류 탈락`: Roblox — Principal Security Software Engineer, Enterprise Security; Anthropic — Security Engineer - Threat Intel (email labels the pipeline role); Macroscope — Senior Security Engineer; Arena Intelligence — Software Engineer, Product Security; Vercel — Security Engineer, Detection Response; Ambience Healthcare — Staff Security Engineer; Suno — Senior / Staff Application Security Engineer; Wraithwatch Corporation — Offensive Security Engineer. The Suno and Wraithwatch roles were previously missing from the tracker and have been added without inventing an application date for Wraithwatch.
+- **Five Roblox applications were automatically closed by the employer's five-applications-per-30-days limit:** Senior Cloud Security Engineer; Senior Security Software Engineer — Application Security, IAM, Infrastructure Security, and Sandbox Platforms. These are `지원 한도 — 자동 종료`, not screening rejections. Do not submit further Roblox applications during the applicable 30-day window without confirming eligibility.
+- A second previously untracked Suno submission, Staff Detection & Response Engineer, was added from its 2026-09-03 PT receipt; no later role-specific decision was found. No new interview, assessment pass, offer, or interview rejection was verified in the new mail.
 
 ### Application-mail reconciliation — 2026-09-22 21:36 PT
 
@@ -265,7 +273,7 @@
 | 118 | Glean | Platform Security Engineer | 미확인 | 2026-09-08 | 불합격 | 서류 탈락 | decision 2026-09-11 13:17 PT |
 | 119 | Stripe | Security Engineer, Bridge | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 15:48 PT |
 | 120 | Privy | 미확인 | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-08 16:01 PT; role not stated, do not infer |
-| 121 | Vercel | Security Engineer, Detection Response | 미확인 | 2026-09-08 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-08 16:04 PT |
+| 121 | Vercel | Security Engineer, Detection Response | 미확인 | 2026-09-08 | 불합격 | 서류 탈락 | receipt 2026-09-08 16:04 PT; explicit decision 2026-09-23 08:07 PT; Gmail `1a0cecf0b3c1205f` |
 | 122 | Rippling | Senior Security Engineer | 미확인 | 2026-09-09 | 불합격 | 서류 탈락 | decision 2026-09-14 07:00 PT |
 | 123 | Resolution | Security Engineer (Research Infrastructure) | 미확인 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | role-specific 2026-09-13 email says application remains open; hiring round paused |
 | 124 | Resolution | Security Engineer (Corporate IT) | 미확인 | 2026-09-09 | 불합격 | 서류 탈락 | decision 2026-09-13 09:33 PT |
@@ -322,7 +330,7 @@
 | 175 | Tesla | Software Engineer, Zero Trust | 281412 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 14:15 PT |
 | 176 | Tesla | Sr. Software Engineer, Code Hardening & Framework Resilience, Robotaxi | 246033 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 11:00 PT |
 | 177 | Apple | Product Security Engineer, SEAR | 200682965 | 2026-09-11 | 미정 | 공고 종료 — 결과 미확인 | Apple portal Archived; still displays `Submitted`, verified 2026-09-21 |
-| 178 | Arena Intelligence | Software Engineer, Product Security | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 23:46 PT |
+| 178 | Arena Intelligence | Software Engineer, Product Security | 미확인 | 2026-09-11 | 불합격 | 서류 탈락 | receipt 2026-09-11 23:46 PT; explicit decision 2026-09-23 09:46 PT; Gmail `1a0cf296145a436c` |
 | 179 | Replit | Product Security Engineer (PSIRT - Product Security Incident Response Team) | 1634b879-80c7-4064-be0a-8a4aecc81923 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:00 PT; an additional Ashby submission success was confirmed 2026-09-20, so the duplicate was not counted as a separate application; desired TC entered as USD $200K-$300K depending on level and equity |
 | 180 | Meta | Security Engineer - Security Risk Management | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
 | 181 | Meta | Security Engineer, Investigations - i3E | 미확인 | 2026-09-12 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-12 00:04 PT |
@@ -342,7 +350,7 @@
 | 193 | OpenAI | Software Engineer, Host Assurance | 0b9e565a-ae5f-40fc-8350-b59f71f76df1 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Ashby submission-success confirmation verified; Cybersecurity base resume; fit 82; $266K-$445K plus equity |
 | 194 | Anthropic | Research Engineer, Cybersecurity RL (Reinforcement Learning) | 5025624008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse application-received confirmation verified; AI base resume; fit 95; $300K-$405K; sponsorship stated |
 | 195 | Apple | Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR | 200682701-0836 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Apple submission confirmation verified; AI base resume; fit 88; $184.7K-$277.6K base plus bonus/equity |
-| 196 | Anthropic | Security Engineer - Threat Intel | 5195705008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89; $320K-$405K salary; sponsorship stated |
+| 196 | Anthropic | Security Engineer - Threat Intel | 5195705008 | 2026-09-20 | 불합격 | 서류 탈락 | Greenhouse confirmation verified; explicit decision 2026-09-23 13:52 PT for `[Pipeline] Security Engineer - Threat Intel`; Gmail `1a0d00abb184f2a8` |
 | 197 | Anthropic | Red Team Engineer, Safeguards | 5320469008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 83 expansion candidate; $320K-$405K salary; sponsorship stated |
 | 198 | Anthropic | Technical Cyber Threat Investigator | 5066995008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 94; $230K-$290K salary; sponsorship stated |
 | 199 | Anthropic | Cyber Evaluations Engineer | 5406367008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 93; $300K-$405K salary; sponsorship stated |
@@ -493,14 +501,14 @@
 | 344 | Scale AI | Security Engineer, Infrastructure | 4646888005 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 91 |
 | 345 | Reddit | Staff Product Security Engineer | 7868511 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
 | 346 | Roblox | Principal Security Software Engineer, Application Security | 7789332 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 88 |
-| 347 | Roblox | Principal Security Software Engineer, Enterprise Security | 7983905 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; enterprise security-platform ownership depth is a gap |
+| 347 | Roblox | Principal Security Software Engineer, Enterprise Security | 7983905 | 2026-09-22 | 불합격 | 서류 탈락 | explicit decision 2026-09-23 14:19 PT; Gmail `1a0d0231dcce72c0`; fit 84 expansion candidate |
 | 348 | Roblox | Principal Security Software Engineer, IAM | 8099958 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; large-scale IAM platform ownership is a gap |
-| 349 | Roblox | Senior Cloud Security Engineer | 7997039 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 86 |
+| 349 | Roblox | Senior Cloud Security Engineer | 7997039 | 2026-09-22 | 자동 종료 | 지원 한도 — 자동 종료 | employer's five-applications-per-30-days limit; notice 2026-09-23 09:02 PT; Gmail `1a0cf01510611242` |
 | 350 | Roblox | Senior Offensive Security Engineer | 8070888 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89 |
-| 351 | Roblox | Senior Security Software Engineer, Application Security | 7896293 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
-| 352 | Roblox | Senior Security Software Engineer, IAM | 8016408 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 84 expansion candidate; production IAM-service ownership is a gap |
-| 353 | Roblox | Senior Security Software Engineer, Infrastructure Security | 7896061 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cloud base resume; fit 87 |
-| 354 | Roblox | Senior Security Software Engineer, Sandbox Platforms | 8198167 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; sandbox-runtime/platform engineering depth is a gap |
+| 351 | Roblox | Senior Security Software Engineer, Application Security | 7896293 | 2026-09-22 | 자동 종료 | 지원 한도 — 자동 종료 | employer's five-applications-per-30-days limit; notice 2026-09-23 09:02 PT; Gmail `1a0cf015493f57f6` |
+| 352 | Roblox | Senior Security Software Engineer, IAM | 8016408 | 2026-09-22 | 자동 종료 | 지원 한도 — 자동 종료 | employer's five-applications-per-30-days limit; notice 2026-09-23 09:02 PT; Gmail `1a0cf01532858df9` |
+| 353 | Roblox | Senior Security Software Engineer, Infrastructure Security | 7896061 | 2026-09-22 | 자동 종료 | 지원 한도 — 자동 종료 | employer's five-applications-per-30-days limit; notice 2026-09-23 09:02 PT; Gmail `1a0cf015c9e1a3aa` |
+| 354 | Roblox | Senior Security Software Engineer, Sandbox Platforms | 8198167 | 2026-09-22 | 자동 종료 | 지원 한도 — 자동 종료 | employer's five-applications-per-30-days limit; notice 2026-09-23 09:02 PT; Gmail `1a0cf015e01ba8e7` |
 | 355 | Roblox | Senior Security Software Engineer, Vulnerability Management | 7922649 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 89 |
 | 356 | Instacart | Senior Product Security Engineer II | 8017071 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 88 |
 | 357 | Waymo | Senior Security Engineer | 7160937 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 90 |
@@ -524,9 +532,12 @@
 | 375 | Opal Security | Application Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:48 PT; requisition not stated |
 | 376 | Nectar Social | Senior Software Engineer, Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:50 PT; requisition not stated |
 | 377 | Genesis AI | MTS, Security Engineer (US) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:52 PT; requisition not stated |
-| 378 | Macroscope | Senior Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis application receipt 15:54 PT; requisition not stated |
-| 379 | Ambience Healthcare | Staff Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 16:00 PT; requisition not stated |
+| 378 | Macroscope | Senior Security Engineer | 미확인 | 2026-09-22 | 불합격 | 서류 탈락 | receipt 2026-09-22 15:54 PT; explicit decision 2026-09-23 12:40 PT; Gmail `1a0cfc85bceb1d0e` |
+| 379 | Ambience Healthcare | Staff Security Engineer | 미확인 | 2026-09-22 | 불합격 | 서류 탈락 | receipt 2026-09-22 16:00 PT; explicit decision 2026-09-23 05:48 PT; Gmail `1a0ce4fc5086e575` |
 | 380 | WRITER | Security Engineer, Detection and Response (US) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis application receipt 16:02 PT; requisition not stated |
+| 381 | Suno | Senior / Staff Application Security Engineer | 미확인 | 2026-09-03 | 불합격 | 서류 탈락 | receipt 2026-09-03 18:11 PT; explicit decision 2026-09-23 06:45 PT; Gmail `1a0ce83cf19d930e` |
+| 382 | Suno | Staff Detection & Response Engineer | 미확인 | 2026-09-03 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-03 18:09 PT; Gmail `1a06b77830cdabd3`; no role-specific outcome verified |
+| 383 | Wraithwatch Corporation | Offensive Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact-role rejection verifies prior application; application date unverified; decision 2026-09-23 10:03 PT; Gmail `1a0cf395d566b34f` |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
@@ -542,7 +553,7 @@
 
 - Read only the UC Davis Gmail account `yhylee@ucdavis.edu` and reconcile new recruiting/application-status messages against every row in this tracker.
 - Inspect new inbox mail broadly and cross-check recruiter/scheduling/assessment/interview/offer/rejection terms; open the relevant full message/thread before changing status.
-- Normalize stages where applicable as: `지원 완료 / 검토 중`, `초기 사전심사 (포털)`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `공고 종료 — 미진행 확정`, `상태 불명`.
+- Normalize stages where applicable as: `지원 완료 / 검토 중`, `초기 사전심사 (포털)`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `공고 종료 — 미진행 확정`, `지원 한도 — 자동 종료`, `상태 불명`.
 - Never infer a stage from silence. If date, exact role mapping, interview round, or decision basis is unverified, use `미확인`.
 - Read-only mailbox/portal checks plus tracker updates are authorized. Do not reply, schedule/reschedule, accept an offer, withdraw an application, or make another external commitment.
 - Report: (1) key changes, (2) total/stage counts, and (3) complete portfolio.
