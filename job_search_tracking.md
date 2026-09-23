@@ -5,6 +5,8 @@
 ## Current portfolio — updated 2026-09-23 14:28 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
 - **Tracked submitted applications: 383**
+- **2026-09-23 drafts, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004 (base-salary expectation, family/healthcare relationships, FDA/OIG exclusion, relocation, and AI-authorship confirmation unresolved); HeyGen — Security Engineer / 5174700007 (all required fields completed, awaiting exact-role final submission approval); Flexport — Senior Security Engineer, Detection & Response / 8160833 (prior Flexport employment and onsite relocation unresolved). Verified basic fields and the current resume were entered in browser tabs; none has a submission receipt. Browser drafts may not survive a session restart.
+- **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
 - **지원 완료 / 검토 중: 289**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
