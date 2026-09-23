@@ -555,7 +555,9 @@
 
 ## Core factual/application source rules
 
-- Primary resume/source repository: `section9-us/CV`; use the latest factual resumes rather than inventing experience.
+- Primary resume/source repository: `section9-us/CV`; never invent experience.
+- For future applications, use only the resume finalized on 2026-09-22: `resumes/Kevin_Lee_Resume_Cybersecurity.pdf`. Use only the cover letter finalized that day when a cover letter is requested or appropriate: `cover_letters/Kevin_Lee_Original_Cover_Letter_2_Page.pdf`.
+- Do not upload older resume/cover-letter variants or create job-specific replacements unless the user explicitly requests a change. The corresponding `.tex` files are editing sources, not application attachments; the SOP and writing notes are reference material only.
 - Legal name: Yonghyeon Lee; preferred name: Kevin; email: `yhylee@ucdavis.edu`; current location: Davis, California.
 - Current status: F-1 student. General application work-authorization answer has been user-directed as `Yes`, but current CPT/OPT/EAD is **not yet approved or issued** and prior CPT/OPT use is zero months. Future employment visa sponsorship: **Yes**.
 - Do not claim U.S. citizenship/U.S.-person status, permanent/unrestricted work authorization, an existing security clearance, or another unverified credential.
