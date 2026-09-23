@@ -2,10 +2,10 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-22 15:10 PT; latest status audit 2026-09-21 21:15 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-22 21:36 PT; latest full status audit 2026-09-21 21:15 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 361**
-- **지원 완료 / 검토 중: 281**
+- **Tracked submitted applications: 380**
+- **지원 완료 / 검토 중: 299**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 67**
@@ -18,6 +18,7 @@
 - **면접 탈락: 0**
 - **지원 철회: 0**
 - **공고 종료 — 결과 미확인: 9**
+- **공고 종료 — 미진행 확정: 1**
 - **상태 불명: 2**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
@@ -28,6 +29,13 @@
 - Preserve the original application date separately from later decision/interview dates.
 - User-directed exclusions: do **not** count or recreate the unmapped OpenAI generic confirmation dated 2026-08-27 or the unmapped Google generic confirmation dated 2026-09-01 unless a distinct exact role/requisition is explicitly verified later.
 - `yhylee@ucdavis.edu` is the only mailbox authorized for recruiting/application-status audits.
+
+### Application-mail reconciliation — 2026-09-22 21:36 PT
+
+- UC Davis application receipts confirmed **19 additional distinct, role-specific submissions** on 2026-09-22. Together with rows 330–361 already recorded earlier today, the tracker now contains **51 distinct applications dated 2026-09-22**. These 19 receipts establish submission only; no interview or screening progression was inferred.
+- Factory — Software Engineer, Security generated another receipt on 2026-09-22, but the exact role is already row 136 (original application date 2026-09-10). No duplicate row was created. Repeated Faire and Waymo receipts were not counted as additional distinct applications because no separate requisition could be verified from those emails.
+- **Four role-unmapped receipts are not counted:** Plaud (one, Gmail message `1a0cb5496117ca6f`) and Anyscale (three, `1a0cb30a3366bb8b`, `1a0cb30e39cd7a25`, `1a0cb310f7b8fa0d`). Their confirmation messages omit the role and requisition; do not infer a match or add duplicate applications until independently verified.
+- OpenAI — Offensive Security Engineer, Agent Products: explicit 2026-09-22 email says the position closed and the application will not move forward. Classified separately as `공고 종료 — 미진행 확정`, not a merit-based rejection or an interview outcome.
 
 ### Most advanced active application
 
@@ -148,7 +156,7 @@
 | 9 | Anthropic | Security Software Engineer, Detection & Response Platform | 4595463008 | 2026-08-29 | 불합격 | 서류 탈락 | decision 2026-08-31 |
 | 10 | OpenAI | Security Engineer, Application Security | 0322d6d8-6588-4209-a304-83e768063a25 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
 | 11 | OpenAI | Security Engineer, Insider Threat Detection & Response | f84dbb5c-6008-40f1-b388-1434d159d4a4 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
-| 12 | OpenAI | Offensive Security Engineer, Agent Products | bb97fffc-cdda-43a3-a6bc-234f9c031720 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
+| 12 | OpenAI | Offensive Security Engineer, Agent Products | bb97fffc-cdda-43a3-a6bc-234f9c031720 | 2026-08-29 | 미정 | 공고 종료 — 미진행 확정 | 2026-09-22 13:04 PT email: position closed; application will not move forward; not classified as merit rejection |
 | 13 | Apple | Offensive Security Researcher, SEAR | 200659973-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
 | 14 | Amazon | Security Engineer II, Stores Application Security | 10468150 | 2026-08-29 | 불합격 | 서류 탈락 | decision 2026-08-31 |
 | 15 | Apple | Senior Security Engineer | 200657994-0836 | 2026-08-29 | 미정 | 지원 완료 / 검토 중 | — |
@@ -272,7 +280,7 @@
 | 133 | Apple | Firmware Security Researcher, SEAR | 200672673 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 20:07 PT |
 | 134 | NVIDIA | Senior Security Software Engineer | JR2023052 | 2026-09-09 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-09 20:14 PT |
 | 135 | Anthropic | Security Engineer, Offensive Security | 미확인 | 2026-09-10 | 불합격 | 서류 탈락 | decision 2026-09-11 14:37 PT |
-| 136 | Factory | Software Engineer, Security | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:01 PT |
+| 136 | Factory | Software Engineer, Security | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:01 PT; same-role receipt again 2026-09-22 15:51 PT, not counted as a distinct application |
 | 137 | Apple | Quality Engineer, Tools and Automation | 200682667 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:02 PT |
 | 138 | PIP Labs | Security Engineer | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:03 PT |
 | 139 | Waabi | Applied AI Security Engineer | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:08 PT |
@@ -500,6 +508,25 @@
 | 359 | Zscaler | Staff Software Engineer - AI Security (Go/Rust/Python) | 5202464007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86 |
 | 360 | Zscaler | Senior Information Security Engineer | 5235296007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; exact production security-platform scope is a gap |
 | 361 | Zscaler | Insider Risk Security Engineer | 5208421007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 80 expansion candidate; direct enterprise insider-risk/DLP ownership is a gap |
+| 362 | Cerebras Systems | Distributed Systems Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:17 PT; requisition not stated |
+| 363 | Logos Space | Lead Security Architect – Cloud Platform & Network Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
+| 364 | Logos Space | Lead Security Engineering - Terminals | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
+| 365 | Logos Space | Platform Trust & Security Lead (Satellite / Firmware Security) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
+| 366 | Logos Space | Security Platform Lead (CI/CD + Supply Chain Security + DevSecOps) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
+| 367 | Logos Space | Security Assurance Lead | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
+| 368 | Harvey | Staff Security Software Engineer, IAM | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:22 PT; requisition not stated |
+| 369 | Crusoe | Senior Endpoint Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:28 PT; requisition not stated |
+| 370 | Crusoe | Senior Software Engineer, Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:28 PT; requisition not stated |
+| 371 | Crusoe | Staff Corporate Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:28 PT; requisition not stated |
+| 372 | Commure | Senior Application Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:40 PT; requisition not stated |
+| 373 | Commure | Senior Software Engineer, PIE | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:43 PT; requisition not stated |
+| 374 | Commure | Senior Software Engineer, Air AI | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:45 PT; requisition not stated |
+| 375 | Opal Security | Application Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:48 PT; requisition not stated |
+| 376 | Nectar Social | Senior Software Engineer, Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:50 PT; requisition not stated |
+| 377 | Genesis AI | MTS, Security Engineer (US) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:52 PT; requisition not stated |
+| 378 | Macroscope | Senior Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis application receipt 15:54 PT; requisition not stated |
+| 379 | Ambience Healthcare | Staff Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 16:00 PT; requisition not stated |
+| 380 | WRITER | Security Engineer, Detection and Response (US) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis application receipt 16:02 PT; requisition not stated |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
@@ -515,7 +542,7 @@
 
 - Read only the UC Davis Gmail account `yhylee@ucdavis.edu` and reconcile new recruiting/application-status messages against every row in this tracker.
 - Inspect new inbox mail broadly and cross-check recruiter/scheduling/assessment/interview/offer/rejection terms; open the relevant full message/thread before changing status.
-- Normalize stages where applicable as: `지원 완료 / 검토 중`, `초기 사전심사 (포털)`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `상태 불명`.
+- Normalize stages where applicable as: `지원 완료 / 검토 중`, `초기 사전심사 (포털)`, `서류 합격`, `인터뷰 1 예정`, `인터뷰 1 완료`, `인터뷰 2 예정`, `인터뷰 2 완료`, `추가 인터뷰 진행`, `최종 합격 / 오퍼`, `서류 탈락`, `면접 탈락`, `지원 철회`, `공고 종료 — 결과 미확인`, `공고 종료 — 미진행 확정`, `상태 불명`.
 - Never infer a stage from silence. If date, exact role mapping, interview round, or decision basis is unverified, use `미확인`.
 - Read-only mailbox/portal checks plus tracker updates are authorized. Do not reply, schedule/reschedule, accept an offer, withdraw an application, or make another external commitment.
 - Report: (1) key changes, (2) total/stage counts, and (3) complete portfolio.
@@ -542,3 +569,4 @@
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
 Last status audit: **2026-09-21 21:15 PT (America/Los_Angeles)**
+Last application-receipt reconciliation: **2026-09-22 21:36 PT (America/Los_Angeles)**
