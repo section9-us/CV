@@ -6,59 +6,96 @@
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Kevin Lee}
 \address{+1 530-376-9732 \\ Davis, CA}
-\address{\faEnvelope\ \href{mailto:yhylee@ucdavis.edu}{yhylee@ucdavis.edu} \quad
+\address{\small\faEnvelope\ \href{mailto:yhylee@ucdavis.edu}{yhylee@ucdavis.edu} \quad
 \faLinkedin\ \href{https://www.linkedin.com/in/kevin-lee-b78448388/}{linkedin.com/in/kevin-lee-b78448388} \quad
 \faGithub\ \href{https://github.com/section9-us}{github.com/section9-us}}
 
 \begin{document}
-\small
 
 \begin{rSection}{PROFESSIONAL SUMMARY}
-Cybersecurity-focused Software Engineer with 10+ years of experience protecting public-sector and critical-infrastructure environments through malware analysis, CTI, incident response, red teaming, penetration testing, vulnerability assessment, threat modeling, and secure software remediation. Delivered security outcomes for central government agencies and 200+ public institutions. Combines hands-on security engineering with software development and AI/ML study for modern threat analysis and defense automation.
+Security-focused Software Engineer with 10+ years of experience protecting public-sector and critical-infrastructure systems. Delivered 500+ cyber threat intelligence cases annually and penetration testing, red teaming, vulnerability analysis, and remediation consulting for 200+ public institutions. Combines software development and incident response with current UC Davis M.S. research applying AI and machine learning to cyber threat detection.
 \end{rSection}
 
 \begin{rSection}{EXPERIENCE}
 
-\textbf{Software Engineer, Threat Management Division} \hfill Jan 2022 -- Present\\
+\textbf{Security Engineer, Threat Management Division} \hfill Jan 2022 -- Present\\
 Ministry of Science and ICT \hfill \textit{Sejong, Republic of Korea}
 \begin{itemize}
     \itemsep -4pt {}
-    \item Delivered 500+ public CTI cases per year to central government agencies by leading malware analysis, attack-evidence collection, APT tracking, technical reporting, and remediation guidance for incident response.
+    \item Built a cyber threat intelligence (CTI) collection system and analyzed 500+ threat cases annually across malware, attack evidence, and APT activity.
+    \item Coordinated analysis of cyberattacks affecting critical infrastructure and disseminated timely threat-intelligence memoranda and remediation guidance to allied government agencies in the U.S., U.K., and Europe.
+    \item Initiated a 2023 research collaboration with the Korea Internet \& Security Agency (KISA), analyzing international threat-group infrastructure and exploring AI and data analytics for critical-infrastructure attack prediction and mitigation.
 \end{itemize}
 
-\textbf{Software Engineer, Security Planning Division} \hfill May 2018 -- Jan 2022\\
+\textbf{Security Engineer, Security Planning Division} \hfill May 2018 -- Jan 2022\\
 Ministry of Science and ICT \hfill \textit{Sejong, Republic of Korea}
 \begin{itemize}
     \itemsep -4pt {}
-    \item Delivered penetration testing, red teaming, and cybersecurity remediation consulting to 50+ public institutions annually (200+ total), including vulnerability analysis for nuclear, thermal power, railway control, and power-system environments.
+    \item Delivered penetration testing, red teaming, vulnerability analysis, and remediation consulting to 50+ public institutions annually (200+ total).
+    \item Assessed networks and software supporting nuclear and thermal power, railway control, and power systems, including security risks in high-consequence operational environments.
+    \item Translated exploitable findings into technical guidance and prioritized remediation actions for public-sector stakeholders.
 \end{itemize}
 
 \textbf{Software Engineer, Reactor Design Development Division} \hfill Nov 2014 -- Mar 2018\\
 KEPCO E\&C \hfill \textit{Gimcheon, Republic of Korea}
 \begin{itemize}
     \itemsep -4pt {}
-    \item Developed reactor design software and engineering databases for nuclear plant workflows while performing vulnerability assessments and secure coding remediation for critical information and communications infrastructure.
+    \item Developed reactor design software and an engineering database for nuclear-plant design workflows over 3+ years.
+    \item Identified software vulnerabilities and performed secure coding remediation for reactor software and engineering databases in a high-reliability critical-infrastructure environment.
+\end{itemize}
+
+\end{rSection}
+
+\begin{rSection}{EDUCATION}
+
+{\bf Master of Science in Computer Science}, University of California, Davis \hfill {In Progress; Expected Mar 2027}\\
+Current GPA: 4.0/4.0\\
+Korean Government Long-term Fellowship for Overseas Study, Ministry of Science and ICT
+
+{\bf Bachelor of Science in Computer Software}, Kwangwoon University (GPA: 3.32/4.0) \hfill {Feb 2015}
+
+\end{rSection}
+
+\newpage
+
+\begin{rSection}{RESEARCH}
+
+\textit{UC Davis M.S. research portfolio: AI-based threat detection, exposure-aware vulnerability triage, and critical-service resilience.}
+
+\href{https://github.com/section9-us/Network_ids-neural-vs-traditional-attack-eval}{\textbf{Attack-Type-Specific Network Intrusion Detection}} \hfill Jun 2026
+\begin{itemize}
+    \itemsep -4pt {}
+    \item Investigated whether aggregate model scores conceal attack-specific detection gaps; built a reproducible Python pipeline comparing traditional and PyTorch models on 50,000 sampled CSE-CIC-IDS2018 flows.
+    \item Measured false negatives by attack type and family; the best model detected only 29.9\% of Infiltration attacks in the held-out sample. Documented sampling, class imbalance, and benchmark dependence rather than claiming production IDS performance.
+\end{itemize}
+
+\href{https://github.com/section9-us/Security_CVE-CWE-Network-Prioritizer}{\textbf{CVE/CWE Network Vulnerability Prioritizer}} \hfill May 2026
+\begin{itemize}
+    \itemsep -4pt {}
+    \item Investigated how exposed-service context changes CVE triage; built a Python application for authorized scanning, fingerprinting, and NVD CVE/CWE correlation, ranking reachable services by CVSS severity, known-exploitation signals, and fingerprint confidence.
+    \item Added a browser dashboard, report export, and SQLite scan history; packaged the tool with Docker and a GitHub Actions test workflow, with 29 passing tests in the documented local unit suite.
+\end{itemize}
+
+\href{https://github.com/section9-us/Security_Resilient-DNS-Against-DDoS}{\textbf{DNS Availability Under DoS}} \hfill Jan 2026
+\begin{itemize}
+    \itemsep -4pt {}
+    \item Evaluated DNS resilience under synthetic DoS load and node failure with a Docker/Knot DNS testbed comparing a single server, round-robin distribution, and health- and latency-aware routing.
+    \item Used Python orchestration and InfluxDB to measure query availability, latency, and error rates across 30 probe queries per deployment phase; documented the single-host scope rather than representing it as production BGP anycast.
 \end{itemize}
 
 \end{rSection}
 
 \begin{rSection}{SKILLS}
+\begingroup
+\renewcommand{\arraystretch}{1.5}
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{2ex}} p{0.77\textwidth} }
 Programming & Python, Java, C/C++, C\#, JavaScript, HTML/CSS, SQL, Spring MVC \\
 Security & Malware Analysis, CTI, APT Analysis, Incident Response, Red Teaming, Penetration Testing, Threat Modeling, Vulnerability Assessments, and Secure Coding \\
-AI/ML & Machine Learning, LLMs, Generative AI, Prompt Engineering, RAG, Model Evaluation, Security Automation, and MLOps \\
+AI & Machine Learning, LLMs, Generative AI, Prompt Engineering, RAG, Model Evaluation, Security Automation, and MLOps \\
 Tools & Burp Suite, Nmap, Wireshark, IDA Pro, PyTorch, TensorFlow, Scikit-learn, Hugging Face, MySQL, PostgreSQL, Oracle, and Docker \\
 Languages & Korean (Native), English (Fluent) \\
 \end{tabular}\\
-\end{rSection}
-
-\begin{rSection}{EDUCATION}
-
-{\bf Master of Science in Computer Science}, University of California, Davis (Current GPA: 4.0/4.0) \hfill {Expected Jun 2027}\\
-Korean Government Long-term Fellowship for Overseas Study, Ministry of Science and ICT
-
-{\bf Bachelor of Science in Computer Software}, Kwangwoon University (GPA: 3.32/4.0) \hfill {Feb 2015}
-
+\endgroup
 \end{rSection}
 
 \begin{rSection}{CERTIFICATIONS \& TRAINING}

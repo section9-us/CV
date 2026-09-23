@@ -1,0 +1,41 @@
+\documentclass[12pt]{article}
+\usepackage[left=0.75in,right=0.75in,top=0.75in,bottom=0.55in]{geometry}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
+\usepackage{setspace}
+\setlength{\parskip}{0.35em}
+\pagestyle{empty}
+
+\begin{document}
+\onehalfspacing
+
+Dear Hiring Team,
+
+I am seeking a security engineering role where I can bring more than ten years of software engineering and cybersecurity experience to products and infrastructure that people rely on. My work spans secure software development, penetration testing, red teaming, vulnerability analysis, malware and APT investigation, incident response, and technical reporting. I have worked at the point where an identified weakness must become an engineering change or a defensible operational decision. That practical connection between software, security, and real-world consequences has guided my career and now shapes my graduate work in cybersecurity and AI.
+
+I began my career at KEPCO E\&C in 2014, developing reactor design software and engineering databases for nuclear-plant design workflows. I also performed vulnerability assessments and secure coding remediation for critical information and communications infrastructure, including reactor software and engineering databases. This environment taught me to treat security as part of the engineering lifecycle. A useful security recommendation has to reflect how a system is designed, maintained, and operated, especially when reliability is essential. I learned to examine behavior and attack paths in context, explain their impact, and work toward fixes that technical teams can sustain.
+
+At the Ministry of Science and ICT, I extended that approach across public-sector and critical-infrastructure systems. From 2018 to 2022 in the Security Planning Division, I delivered penetration testing, red teaming, vulnerability analysis, and remediation consulting to more than fifty public institutions each year and more than two hundred in total. These assessments included nuclear and thermal-power environments, railway-control systems, and power-system infrastructure. The work required more than finding vulnerabilities: I had to understand their causes, distinguish plausible exploitation from theoretical exposure, and help organizations with different architectures and resources turn findings into priorities for remediation.
+
+Since 2022, in the Ministry's Threat Management Division, I have worked on malware analysis, attack-evidence collection, APT tracking, incident response, technical reporting, and remediation guidance. I contribute more than five hundred public cyber-threat intelligence cases each year to central government agencies. Investigating incomplete and sometimes contradictory evidence has strengthened my discipline in separating observation from inference. I aim to explain what happened, why it matters, what remains uncertain, and what action defenders can take. The same habits apply to product security and detection engineering: findings are most useful when they help teams make timely, well-supported decisions.
+
+In 2023, I initiated a research project with the Korea Internet \& Security Agency on cyber incident response for critical infrastructure. We analyzed hacking infrastructure used by international threat groups and explored how AI and data analytics could support attack prediction, detection, and mitigation. The collaboration connected my operational experience with a research question I continue to pursue: how can security teams use data-driven methods to identify consequential threats without allowing simplified metrics or automated outputs to obscure important failure cases?
+
+\newpage
+
+I am currently pursuing a Master of Science in Computer Science at the University of California, Davis, with a 4.0 out of 4.0 GPA and an expected graduation date of March 2027. My graduate work centers on cybersecurity, machine learning, network resilience, and the careful evaluation of AI-assisted defense. In November 2024, I was selected for the Korean Government Long-term Fellowship for Overseas Study in recognition of my professional experience and cybersecurity contributions. The program has allowed me to test ideas from years of operational work through implementations, controlled experiments, and technical reports.
+
+One research project compares traditional machine learning with PyTorch neural models for flow-level network intrusion detection using the CSE-CIC-IDS2018 dataset. I evaluated logistic regression, random forest, several multilayer perceptrons, and an autoencoder-based model. Instead of relying on a single accuracy or F1 score, I examined false negatives and detection rates by attack type and attack family. The question is operationally important: a model can appear strong in aggregate while missing particular attacks a defender needs to catch. The work includes a reproducible training and evaluation pipeline and treats sampling, class imbalance, threshold choices, and benchmark dependence as limits on what the results can claim.
+
+I also developed a Python-based CVE/CWE vulnerability prioritizer that scans authorized network targets, fingerprints exposed services, correlates probable products with NVD vulnerability data, and ranks findings using severity together with reachability, known exploitation signals, match confidence, and weakness class. Its browser interface and exported reports are designed around a practical triage question: which exposed service deserves attention first? In a separate DNS resilience project, I built a Docker-based testbed to compare a single authoritative server, round-robin distribution, and a health- and latency-aware routing prototype under synthetic DoS load and node failure. I measured availability, latency, and error rates while keeping the prototype's limits distinct from real BGP anycast behavior. Together, these projects examine detection quality, vulnerability prioritization, and service continuity from complementary angles.
+
+My programming background includes Python, Java, C/C++, C\#, JavaScript, and SQL, supported by experience with tools such as Burp Suite, Nmap, Wireshark, and IDA Pro. Graduate study is also extending my work with machine learning, large language models, generative AI, retrieval-augmented generation, model evaluation, and security automation. I am interested in using AI where it can help defenders analyze complex evidence or prioritize risk, while validating its outputs against the specific attacks and operational conditions that matter. I would welcome the opportunity to bring this combination of hands-on security engineering, software development, and current research to a team building secure and dependable systems.
+
+Thank you for your consideration.
+
+Sincerely,\\
+Kevin Lee
+
+\end{document}
