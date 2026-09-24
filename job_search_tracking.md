@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 05:58 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-24 08:44 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 409**
+- **Tracked submitted applications: 412**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 312**
+- **지원 완료 / 검토 중: 315**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -564,13 +564,16 @@
 | 400 | Quanata | Staff Security Engineer | 6205204004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 88; current Cybersecurity resume and original cover letter uploaded; work authorization Yes and future sponsorship Yes |
 | 401 | Huntress | Staff CSIRT Analyst | 7991918003 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 90; current Cybersecurity resume and original cover letter uploaded; sponsorship Yes |
 | 402 | Heartflow | Senior Application Security Engineer | 6192527004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit Greenhouse receipt 2026-09-23 15:56 PT; Gmail `1a0d07bf95462089`; previously recorded draft is now confirmed submitted |
-| 403 | Justworks | Senior Security Engineer (Detection & Response) | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:14 PT; Gmail `1a0d20ce27b3aca5` |
-| 404 | Appian | AI Security Engineer | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:17 PT; Gmail `1a0d20feff66bcb6` |
-| 405 | Vercel | Security Engineer, Cloud | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:22 PT; Gmail `1a0d2144575d9069` |
-| 406 | Vercel | Security Software Engineer, Open Source Frameworks | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:24 PT; Gmail `1a0d2160b087623e` |
-| 407 | Vercel | Senior Security Software Engineer, v0 | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:24 PT; Gmail `1a0d2168cfe0f43e` |
-| 408 | Vercel | Security Software Engineer, IAM | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:25 PT; Gmail `1a0d216ed4723510` |
-| 409 | DoorDash | Staff Security Engineer, Proactive Security - AI | 미확인 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:27 PT; Gmail `1a0d218ba89e0cf3` |
+| 403 | Justworks | Senior Security Engineer (Detection & Response) | 7868291 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:14 PT; Gmail `1a0d20ce27b3aca5`; Greenhouse confirmation verified; fit 87; $167.5K–$235K base; sponsorship Yes |
+| 404 | Appian | AI Security Engineer | 8201099 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:17 PT; Gmail `1a0d20feff66bcb6`; Greenhouse confirmation verified; fit 87; sponsorship Yes |
+| 405 | Vercel | Security Engineer, Cloud | 6102335004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:22 PT; Gmail `1a0d2144575d9069`; fit 83 expansion candidate; production cloud-security ownership depth is the principal gap |
+| 406 | Vercel | Security Software Engineer, Open Source Frameworks | 6117204004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:24 PT; Gmail `1a0d2160b087623e`; fit 86; Bay Area hybrid accepted; sponsorship Yes |
+| 407 | Vercel | Senior Security Software Engineer, v0 | 6117209004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:24 PT; Gmail `1a0d2168cfe0f43e`; fit 84 expansion candidate; direct AI coding-agent security ownership is the main gap |
+| 408 | Vercel | Security Software Engineer, IAM | 6093255004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:25 PT; Gmail `1a0d216ed4723510`; fit 84 expansion candidate; large-scale IAM platform ownership is the main gap |
+| 409 | DoorDash | Staff Security Engineer, Proactive Security - AI | 8154315 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | explicit role-level receipt 2026-09-23 23:27 PT; Gmail `1a0d218ba89e0cf3`; fit 89; work authorization and current/future sponsorship Yes |
+| 410 | primer.ai | Staff Security Engineer | 8001368003 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco/Pasadena/DC/Remote; fit 84 expansion candidate; enterprise cloud-security operations depth is the main gap; citizenship No, sponsorship Yes |
+| 411 | Quanata | Application Security Engineer | 6087868004 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 89; $175K–$215K base; distinct from Staff Security Engineer application; sponsorship Yes |
+| 412 | Twilio | Staff Security Engineer, Threat Hunting | 8157344 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 90; AI-agent threat hunting, IR, SIEM/SOAR, and automation strongly align; future sponsorship required |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
