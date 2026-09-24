@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 08:44 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-24 09:25 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 412**
+- **Tracked submitted applications: 420**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 315**
+- **지원 완료 / 검토 중: 323**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -574,6 +574,14 @@
 | 410 | primer.ai | Staff Security Engineer | 8001368003 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco/Pasadena/DC/Remote; fit 84 expansion candidate; enterprise cloud-security operations depth is the main gap; citizenship No, sponsorship Yes |
 | 411 | Quanata | Application Security Engineer | 6087868004 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 89; $175K–$215K base; distinct from Staff Security Engineer application; sponsorship Yes |
 | 412 | Twilio | Staff Security Engineer, Threat Hunting | 8157344 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 90; AI-agent threat hunting, IR, SIEM/SOAR, and automation strongly align; future sponsorship required |
+| 413 | LanceDB | Senior Product Security Engineer | d86e0295-d4f3-45b7-93c2-b45309db9f89 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US/Canada remote; fit 84 expansion candidate; distributed data-platform and Rust depth are the principal gaps; $180K–$250K base plus equity; sponsorship Yes |
+| 414 | Assured | Staff Security Engineer | 1d132af6-bb3d-4a5b-be81-f307cb801dd2 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; Remote; fit 86; $220K–$240K base plus equity; sponsorship Yes |
+| 415 | fomo Labs | Staff Security Engineer, Application Security | 3c50c00a-565e-4a26-9f06-012b727c1931 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; New York on-site; fit 85; $270K–$330K base plus equity; work authorization Yes and future sponsorship Yes |
+| 416 | Lime | Senior Security Engineer | 7112f0e4-f1bb-4372-87a7-c35148f387c3 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby receipt text verified; US remote; fit 88; $160K–$220K base plus bonus/equity; work authorization Yes and future sponsorship Yes |
+| 417 | Cherry Technologies | Sr/Staff Security Engineer | fab104bc-6178-4a08-826c-faa194aa11b1 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; Remote US; fit 89; work authorization Yes and future sponsorship Yes |
+| 418 | Zettabyte | Senior/Staff Security Engineer | a58656dc-c53c-4c4a-bebd-d2f77b6913d0 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US hybrid; fit 86; sponsorship Yes |
+| 419 | Tempo | Product Security Engineer | 780137ef-8eb4-4f21-ada2-a7c4b22a911e | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; USA remote with SF/NY office availability; fit 84 expansion candidate; blockchain-specific security depth is the principal gap; sponsorship Yes |
+| 420 | Redpanda Data | Staff Security Engineer | afc6e927-b36a-42e3-afd1-9ae641f566cf | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US/Canada remote; fit 87; AppSec, C++, threat modeling, and security tooling answers verified; sponsorship Yes |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
