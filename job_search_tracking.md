@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 09:25 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-24 09:45 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 420**
+- **Tracked submitted applications: 421**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 323**
+- **지원 완료 / 검토 중: 324**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -582,6 +582,7 @@
 | 418 | Zettabyte | Senior/Staff Security Engineer | a58656dc-c53c-4c4a-bebd-d2f77b6913d0 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US hybrid; fit 86; sponsorship Yes |
 | 419 | Tempo | Product Security Engineer | 780137ef-8eb4-4f21-ada2-a7c4b22a911e | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; USA remote with SF/NY office availability; fit 84 expansion candidate; blockchain-specific security depth is the principal gap; sponsorship Yes |
 | 420 | Redpanda Data | Staff Security Engineer | afc6e927-b36a-42e3-afd1-9ae641f566cf | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US/Canada remote; fit 87; AppSec, C++, threat modeling, and security tooling answers verified; sponsorship Yes |
+| 421 | RunSybil | Security Software Engineer | 43bfadc7-0346-40e0-81ff-f2b1bacaf49f | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; United States remote; fit 91; offensive security, Python, vulnerability research, and AI-agent security strongly align; $170K–$210K base plus equity; work authorization Yes and future sponsorship Yes |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
