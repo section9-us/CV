@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-23 22:44 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-23 22:51 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 388**
+- **Tracked submitted applications: 389**
 - **2026-09-23 draft, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004. All verified fields and the current resume and original cover letter are entered, including the user's $200,000+ base expectation and confirmed family/FDA-OIG/relocation answers. The required `confirm this application is not AI-generated` attestation remains unanswered because AI assisted with the application materials and form preparation; do not claim otherwise or submit. Browser draft may not survive a session restart.
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 294**
+- **지원 완료 / 검토 중: 295**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 75**
@@ -545,6 +545,7 @@
 | 386 | Figure | Security Engineer, Application Security | 4620050006 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:43 PT; San Jose; fit 89; current Cybersecurity resume and original cover letter uploaded; five-day onsite accepted |
 | 387 | Zeta Global | Lead Application Security Engineer | 6103718004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:43 PT; San Francisco; fit 87; current Cybersecurity resume uploaded; work authorization Yes and future sponsorship Yes |
 | 388 | Robinhood | Senior Software Engineer, AI Security | 8167546 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:44 PT; Menlo Park; fit 86; current Cybersecurity resume and original cover letter uploaded; Republic of Korea government employment disclosed accurately |
+| 389 | SpaceXAI (xAI) | Application Security Engineer | 4559147007 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:51 PT; Palo Alto; fit 91; current Cybersecurity resume uploaded; export-control eligibility `None of the above`, sponsorship Yes, and Korean legal name `이용현` confirmed by user |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
