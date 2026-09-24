@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-23 22:58 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-23 23:04 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 396**
+- **Tracked submitted applications: 401**
 - **2026-09-23 draft, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004. All verified fields and the current resume and original cover letter are entered, including the user's $200,000+ base expectation and confirmed family/FDA-OIG/relocation answers. The required `confirm this application is not AI-generated` attestation remains unanswered because AI assisted with the application materials and form preparation; do not claim otherwise or submit. Browser draft may not survive a session restart.
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 302**
+- **지원 완료 / 검토 중: 307**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 75**
@@ -553,6 +553,11 @@
 | 394 | Astranis | Product Security Engineer | 4667335006 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco onsite; fit 84 expansion candidate; direct embedded secure-element ownership is a gap; export-control status `None of the above` |
 | 395 | BitGo | Senior Security Application Engineer | 8811580002 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Palo Alto five-day onsite; fit 81 expansion candidate; direct Web3 and production Kubernetes security ownership are gaps |
 | 396 | Obsidian Security | Software Engineer - AI Security Product | 5290880008 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Palo Alto; fit 80 expansion candidate; production backend/cloud data-platform depth and level calibration are risks; Bay Area residence answered No |
+| 397 | CLEAR | Senior Product Security Engineer | 8042362 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; New York City five-day onsite; fit 86; relocation/onsite accepted; sponsorship Yes |
+| 398 | LaunchDarkly | Product Security Engineer | 7998757003 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US West; fit 84 expansion candidate; role targets 2–4 years and compensation is below preference, creating overqualification/opportunity-cost risk |
+| 399 | Ondo Finance | Senior Security Engineer - Product Security | 4357126009 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 84 expansion candidate; direct blockchain/Web3 wallet and signing-flow security ownership is a gap |
+| 400 | Quanata | Staff Security Engineer | 6205204004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 88; current Cybersecurity resume and original cover letter uploaded; work authorization Yes and future sponsorship Yes |
+| 401 | Huntress | Staff CSIRT Analyst | 7991918003 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 90; current Cybersecurity resume and original cover letter uploaded; sponsorship Yes |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
