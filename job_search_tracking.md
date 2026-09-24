@@ -2,12 +2,12 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-23 15:53 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-23 22:44 PT; latest UC Davis mailbox status audit 2026-09-23 14:28 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 385**
+- **Tracked submitted applications: 388**
 - **2026-09-23 draft, not submitted or counted above:** Heartflow — Senior Application Security Engineer / 6192527004. All verified fields and the current resume and original cover letter are entered, including the user's $200,000+ base expectation and confirmed family/FDA-OIG/relocation answers. The required `confirm this application is not AI-generated` attestation remains unanswered because AI assisted with the application materials and form preparation; do not claim otherwise or submit. Browser draft may not survive a session restart.
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 291**
+- **지원 완료 / 검토 중: 294**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 75**
@@ -542,6 +542,9 @@
 | 383 | Wraithwatch Corporation | Offensive Security Engineer | 미확인 | 미확인 | 불합격 | 서류 탈락 | exact-role rejection verifies prior application; application date unverified; decision 2026-09-23 10:03 PT; Gmail `1a0cf395d566b34f` |
 | 384 | HeyGen | Security Engineer | 5174700007 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation page `Your application has been received` at 15:47 PT; current Cybersecurity resume and original cover letter uploaded |
 | 385 | Flexport | Senior Security Engineer, Detection & Response | 8160833 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation page `We received your application!` at 15:51 PT; current Cybersecurity resume uploaded; prior employment No and Bay Area relocation Yes confirmed by user |
+| 386 | Figure | Security Engineer, Application Security | 4620050006 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:43 PT; San Jose; fit 89; current Cybersecurity resume and original cover letter uploaded; five-day onsite accepted |
+| 387 | Zeta Global | Lead Application Security Engineer | 6103718004 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:43 PT; San Francisco; fit 87; current Cybersecurity resume uploaded; work authorization Yes and future sponsorship Yes |
+| 388 | Robinhood | Senior Software Engineer, AI Security | 8167546 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified at 22:44 PT; Menlo Park; fit 86; current Cybersecurity resume and original cover letter uploaded; Republic of Korea government employment disclosed accurately |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
