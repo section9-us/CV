@@ -4,9 +4,9 @@
 
 ## Current portfolio — updated 2026-09-24 09:45 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 421**
+- **Tracked submitted applications: 424**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 324**
+- **지원 완료 / 검토 중: 327**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -583,6 +583,9 @@
 | 419 | Tempo | Product Security Engineer | 780137ef-8eb4-4f21-ada2-a7c4b22a911e | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; USA remote with SF/NY office availability; fit 84 expansion candidate; blockchain-specific security depth is the principal gap; sponsorship Yes |
 | 420 | Redpanda Data | Staff Security Engineer | afc6e927-b36a-42e3-afd1-9ae641f566cf | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; US/Canada remote; fit 87; AppSec, C++, threat modeling, and security tooling answers verified; sponsorship Yes |
 | 421 | RunSybil | Security Software Engineer | 43bfadc7-0346-40e0-81ff-f2b1bacaf49f | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified; United States remote; fit 91; offensive security, Python, vulnerability research, and AI-agent security strongly align; $170K–$210K base plus equity; work authorization Yes and future sponsorship Yes |
+| 422 | Addepar | Staff AI Security Engineer | 4453319851 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn Easy Apply explicit sent confirmation verified; Mountain View / Remote; fit 91; current Cybersecurity resume and original cover letter uploaded; work authorization without sponsorship/EAD answered No, consistent with current unissued EAD and future sponsorship requirement |
+| 423 | Charger Logistics Inc. | Senior Cybersecurity Engineer | 4471623328 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn Easy Apply explicit sent confirmation verified; Texas remote; fit 85; IR, threat detection, vulnerability management, network/cloud security, and automation align; production Sentinel/Defender XDR/KQL depth is the main gap; UC Davis dates corrected to Sep 2025–Mar 2027 |
+| 424 | Soho Square Solutions | Product Security Engineer | 4469751971 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; San Diego onsite contract; fit 82 expansion candidate; embedded/cloud/AppSec lifecycle aligns, while FDA 510(k), medical-device security, and production DevSecOps ownership are gaps; factual experience answers: IT 11 years, 510(k) 0, cybersecurity 8, DevSecOps 0 |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
