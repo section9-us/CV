@@ -2,14 +2,14 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 22:10 PT; latest UC Davis mailbox status audit 2026-09-24 22:10 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-25 05:57 PT; latest UC Davis mailbox status audit 2026-09-25 05:57 PT (America/Los_Angeles)
 
 - **Tracked submitted applications: 439**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 326**
+- **지원 완료 / 검토 중: 324**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
-- **서류 탈락: 91**
+- **서류 탈락: 93**
 - **인터뷰 1 예정: 1**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
@@ -31,9 +31,15 @@
 - User-directed exclusions: do **not** count or recreate the unmapped OpenAI generic confirmation dated 2026-08-27 or the unmapped Google generic confirmation dated 2026-09-01 unless a distinct exact role/requisition is explicitly verified later.
 - `yhylee@ucdavis.edu` is the only mailbox authorized for recruiting/application-status audits.
 
+### UC Davis mailbox reconciliation — 2026-09-25 05:57 PT
+
+- **Two explicit NVIDIA non-selection decisions were reconciled to `서류 탈락` with result date 2026-09-25:** Principal Cyber Security Engineer - Agentic Identity and Security / `JR2016696`; Staff Security Engineer - PAM and Agentic Identity / `JR2024380`. Both emails state that the decisions apply only to the named requisitions.
+- **Amazon interview scheduling update, no stage change:** Senior Security Engineer, Corporate Services Security / `10480747` remains `인터뷰 1 예정`. Amazon confirmed receipt of four availability windows: September 30, October 5, October 7, and October 9, each 1:00–6:00 PM PT. Amazon explicitly says the final interview date/time is not yet secured and a separate confirmation will follow.
+- No new confirmed interview time, additional-round progression, offer, withdrawal, or interview rejection was verified. The 2026-08-27 unmapped OpenAI confirmation and 2026-09-01 unmapped Google confirmation remain excluded as directed.
+
 ### UC Davis mailbox reconciliation — 2026-09-24 22:10 PT
 
-- **Major progression:** Amazon — Senior Security Engineer, Corporate Services Security / `10480747` moved to `인터뷰 1 예정`. Recruiter Kyisha Boyd sent an intake questionnaire and phone-interview prep materials, and Amazon sent an explicit “wants to Interview you” notice at 12:08 PT. The user must provide interview availability; no exact interview date/time is verified yet. Role location is Boston or Seattle with relocation assistance if applicable.
+- **Major progression:** Amazon — Senior Security Engineer, Corporate Services Security / `10480747` moved to `인터뷰 1 예정`. Recruiter Kyisha Boyd sent an intake questionnaire and phone-interview prep materials, and Amazon sent an explicit “wants to Interview you” notice at 12:08 PT. Amazon received the user's availability on 2026-09-24; no exact interview date/time is verified yet. Role location is Boston or Seattle with relocation assistance if applicable.
 - **Thirteen explicit non-selection decisions were reconciled to `서류 탈락`:** Amazon — Security Engineer II, Stores AppSec / `10524054`; Anthropic — Security Engineer, Corporate Security / `5397319008`; Anthropic — Staff+ Software Engineer, Account Abuse / `5123039008`; Commure — Senior Software Engineer, Air AI; Zoox — Senior/Staff Network Security Engineer; Zscaler — Insider Risk Security Engineer / `5208421007`; Tesla — Sr. Embedded Firmware Engineer, Energy BMS / `247151`; Tesla — Platform Firmware Engineer, AI Data Center / `280583`; Tesla — Sr. Wireless Linux Kernel Software Engineer / `277931`; Tesla — Embedded Firmware Engineer, Reliability & Test / `256903`; Tesla — Embedded Software Engineer, Reliability & Test / `260562`; Astranis — Senior Product Security Engineer (Applications) / `4667349006`; Astranis — Product Security Engineer / `4667335006`.
 - **Two Amazon applications moved to `공고 종료 — 결과 미확인`, not rejection:** Security Engineer – Sec Escalations / `10503539`; Security Engineer, AWS AppSec / `10507091`. Amazon explicitly stated each position is “no longer available.”
 - **Two newly verified submissions were added:** Panorama Education — Senior AI Security Engineer / `5913388`; BILL — Sr. Staff AI Security Engineer. Both remain `지원 완료 / 검토 중`.
@@ -63,7 +69,7 @@
 
 ### Most advanced active application
 
-- **Amazon — Senior Security Engineer, Corporate Services Security / `10480747`** — applied 2026-09-20; explicit phone-interview invitation received 2026-09-24; current stage `인터뷰 1 예정`; exact interview date/time pending availability submission.
+- **Amazon — Senior Security Engineer, Corporate Services Security / `10480747`** — applied 2026-09-20; explicit phone-interview invitation received 2026-09-24; current stage `인터뷰 1 예정`; four availability windows submitted (September 30, October 5, October 7, and October 9, each 1:00–6:00 PM PT); exact interview date/time pending Amazon confirmation.
 - **Google — Senior Information Security Engineer, Product Security Engineering** remains at `서류 합격`; Google Hiring Assessment passed 2026-09-01 and no interview invitation is verified yet.
 
 ### Latest portal audit changes — 2026-09-21 20:45 PT
@@ -417,7 +423,7 @@
 | 243 | NVIDIA | Senior Product Security Lead – NVIDIA Jetson | JR2025433 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 21:00 PT; review pending |
 | 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 공고 종료 — 결과 미확인 | explicit Amazon email 2026-09-24 12:54 PT: position no longer available; not treated as merit rejection |
 | 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
-| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 인터뷰 1 예정 | explicit Amazon phone-interview invitation 2026-09-24 12:08 PT; availability requested, exact interview date/time not yet confirmed; recruiter Kyisha Boyd; Boston or Seattle role; prep materials received |
+| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 인터뷰 1 예정 | explicit Amazon phone-interview invitation 2026-09-24 12:08 PT; availability received by Amazon 2026-09-24 22:28 PT for Sep 30 / Oct 5 / Oct 7 / Oct 9, each 1:00–6:00 PM PT; exact interview date/time not yet confirmed; recruiter Kyisha Boyd; Boston or Seattle role; prep materials received; Gmail `1a0d709a7e7b2374` |
 | 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 249 | Microsoft | Security Researcher — AI Red Team | 200046267 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 95; Redmond hybrid; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
@@ -445,8 +451,8 @@
 | 271 | NVIDIA | Senior Software Engineer, Attestation Services - DGX Cloud | JR2023561 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 86 |
 | 272 | NVIDIA | Senior Solutions Architect, Agentic AI — Safety and Security | JR2024467 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 90 |
 | 273 | NVIDIA | Senior Infrastructure Engineer - Infrastructure Security and Core Services | JR2025013 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 82 expansion candidate; Dell/OpenShift and 12+ year scope are gaps |
-| 274 | NVIDIA | Principal Cyber Security Engineer - Agentic Identity and Security | JR2016696 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 84 expansion candidate; principal identity depth is a gap |
-| 275 | NVIDIA | Staff Security Engineer - PAM and Agentic Identity | JR2024380 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; direct PAM ownership is a gap |
+| 274 | NVIDIA | Principal Cyber Security Engineer - Agentic Identity and Security | JR2016696 | 2026-09-21 | 불합격 (2026-09-25) | 서류 탈락 | explicit NVIDIA role-specific non-selection email 2026-09-25 00:53 PT; Gmail `1a0d78e0f4b18a1c` |
+| 275 | NVIDIA | Staff Security Engineer - PAM and Agentic Identity | JR2024380 | 2026-09-21 | 불합격 (2026-09-25) | 서류 탈락 | explicit NVIDIA role-specific non-selection email 2026-09-25 00:53 PT; Gmail `1a0d78e770c72d79` |
 | 276 | NVIDIA | Software DevOps Engineer, Networking | JR2025882 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Network base resume; fit 83 expansion candidate; Kubernetes/CI ownership is a gap |
 | 277 | NVIDIA | Senior Developer Relations, AI - Security | JR2021765 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; AI base resume; fit 82 expansion candidate; formal DevRel program ownership is a gap |
 | 278 | NVIDIA | Offensive Hardware Security Researcher | JR2016209 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | NVIDIA success page verified; Cybersecurity base resume; fit 80 expansion candidate; side-channel/Verilog/ARM depth is a gap |
@@ -654,5 +660,5 @@
 - Full pre-canonical verbose tracker snapshot: branch `tracker-history-2026-09-07`, file `job_search_tracking.md`.
 - Use the historical branch when a future search needs old screened-out/HOLD/closed-role reasoning, compensation research, application answers, or detailed submission evidence that is intentionally omitted from this compact current-state tracker.
 
-Last status audit: **2026-09-24 05:58 PT (America/Los_Angeles)**
-Last application-receipt reconciliation: **2026-09-24 05:58 PT (America/Los_Angeles)**
+Last status audit: **2026-09-25 05:57 PT (America/Los_Angeles)**
+Last application-receipt reconciliation: **2026-09-24 22:10 PT (America/Los_Angeles)**
