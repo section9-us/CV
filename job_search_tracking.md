@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-25 12:05 PT; latest UC Davis mailbox status audit 2026-09-25 05:57 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-25 12:08 PT; latest UC Davis mailbox status audit 2026-09-25 05:57 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 474**
+- **Tracked submitted applications: 475**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 359**
+- **지원 완료 / 검토 중: 360**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 93**
@@ -652,6 +652,7 @@
 | 472 | Atlas HXM | Senior Security Engineer, AI & DevSecOps | 8637023002 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; United States/Canada; fit 85; AI security, AppSec, threat modeling, vulnerability management, Python and incident response align; direct production cloud/CI-CD security control ownership is the principal gap; sponsorship Yes; salary expectation $200K+ |
 | 473 | Apollo.io | Senior Application Security Engineer | 6020809004 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 91; secure SDLC, code review, penetration testing, vulnerability remediation, Python and AI security align; Ruby/GCP and production-scale SaaS AppSec tooling ownership are gaps; Tier 1 base $218K-$273K plus equity; sponsorship Yes |
 | 474 | Verisign | Senior Application Security Engineer | 7997214003 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Reston VA hybrid and relocation accepted; fit 90; 10+ years software/security, Java/C++/Python, AppSec assessments, secure SDLC, vulnerability remediation and AI security align; bug-bounty and CI/CD program ownership are gaps; base $164.3K-$222.3K plus bonus/stock; sponsorship Yes; current Korean government relationship disclosed accurately |
+| 475 | SpaceXAI (xAI) | Application Security Engineer | 4559147007 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Palo Alto onsite five days with relocation accepted; fit 91; code review, secure coding, threat modeling, vulnerability remediation, incident response, Python and AI/ML security align; direct CI/CD, SBOM and cloud-native production ownership are gaps; advertised base $100K-$258K plus equity; sponsorship Yes; export-control category answered None of the above |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
