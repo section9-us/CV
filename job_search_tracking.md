@@ -2,15 +2,15 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 19:31 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-24 22:10 PT; latest UC Davis mailbox status audit 2026-09-24 22:10 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 437**
+- **Tracked submitted applications: 439**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 340**
+- **지원 완료 / 검토 중: 326**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
-- **서류 탈락: 78**
-- **인터뷰 1 예정: 0**
+- **서류 탈락: 91**
+- **인터뷰 1 예정: 1**
 - **인터뷰 1 완료: 0**
 - **인터뷰 2 예정: 0**
 - **인터뷰 2 완료: 0**
@@ -18,7 +18,7 @@
 - **최종 합격 / 오퍼: 0**
 - **면접 탈락: 0**
 - **지원 철회: 0**
-- **공고 종료 — 결과 미확인: 10**
+- **공고 종료 — 결과 미확인: 12**
 - **상태 불명: 7**
 - **Active scheduled recruiter/interview events: 0**
 - **Verified offers: 0**
@@ -30,6 +30,15 @@
 - Preserve the original application date separately from later decision/interview dates.
 - User-directed exclusions: do **not** count or recreate the unmapped OpenAI generic confirmation dated 2026-08-27 or the unmapped Google generic confirmation dated 2026-09-01 unless a distinct exact role/requisition is explicitly verified later.
 - `yhylee@ucdavis.edu` is the only mailbox authorized for recruiting/application-status audits.
+
+### UC Davis mailbox reconciliation — 2026-09-24 22:10 PT
+
+- **Major progression:** Amazon — Senior Security Engineer, Corporate Services Security / `10480747` moved to `인터뷰 1 예정`. Recruiter Kyisha Boyd sent an intake questionnaire and phone-interview prep materials, and Amazon sent an explicit “wants to Interview you” notice at 12:08 PT. The user must provide interview availability; no exact interview date/time is verified yet. Role location is Boston or Seattle with relocation assistance if applicable.
+- **Thirteen explicit non-selection decisions were reconciled to `서류 탈락`:** Amazon — Security Engineer II, Stores AppSec / `10524054`; Anthropic — Security Engineer, Corporate Security / `5397319008`; Anthropic — Staff+ Software Engineer, Account Abuse / `5123039008`; Commure — Senior Software Engineer, Air AI; Zoox — Senior/Staff Network Security Engineer; Zscaler — Insider Risk Security Engineer / `5208421007`; Tesla — Sr. Embedded Firmware Engineer, Energy BMS / `247151`; Tesla — Platform Firmware Engineer, AI Data Center / `280583`; Tesla — Sr. Wireless Linux Kernel Software Engineer / `277931`; Tesla — Embedded Firmware Engineer, Reliability & Test / `256903`; Tesla — Embedded Software Engineer, Reliability & Test / `260562`; Astranis — Senior Product Security Engineer (Applications) / `4667349006`; Astranis — Product Security Engineer / `4667335006`.
+- **Two Amazon applications moved to `공고 종료 — 결과 미확인`, not rejection:** Security Engineer – Sec Escalations / `10503539`; Security Engineer, AWS AppSec / `10507091`. Amazon explicitly stated each position is “no longer available.”
+- **Two newly verified submissions were added:** Panorama Education — Senior AI Security Engineer / `5913388`; BILL — Sr. Staff AI Security Engineer. Both remain `지원 완료 / 검토 중`.
+- TikTok’s Talent Community welcome message is not a role-specific application receipt and is not counted.
+- No offer, interview completion, later-round progression, withdrawal, or interview rejection was verified in the mailbox.
 
 ### UC Davis mailbox reconciliation — 2026-09-24 05:58 PT
 
@@ -54,7 +63,8 @@
 
 ### Most advanced active application
 
-- **Google — Senior Information Security Engineer, Product Security Engineering** — applied 2026-08-27; Google Hiring Assessment passed 2026-09-01; current stage `서류 합격`; Recruiting review pending; no interview invitation verified.
+- **Amazon — Senior Security Engineer, Corporate Services Security / `10480747`** — applied 2026-09-20; explicit phone-interview invitation received 2026-09-24; current stage `인터뷰 1 예정`; exact interview date/time pending availability submission.
+- **Google — Senior Information Security Engineer, Product Security Engineering** remains at `서류 합격`; Google Hiring Assessment passed 2026-09-01 and no interview invitation is verified yet.
 
 ### Latest portal audit changes — 2026-09-21 20:45 PT
 
@@ -246,7 +256,7 @@
 | 84 | Whatnot | Threat Detection and Response Engineer | 2b5b4bc2-6d47-4afd-afcb-72b4879bea1f | 2026-09-07 | 불합격 | 서류 탈락 | decision 2026-09-10 06:23 PT |
 | 85 | Reflection AI | Member of Technical Staff - Security Engineer | a38f03ad-770c-4c53-be91-0d04171d8ead | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 86 | Zoox | Network Security Engineer | 8321d00e-9e2b-4947-a37e-fdbad7dcd637 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
-| 87 | Zoox | Senior/Staff Network Security Engineer | 9945ef61-1c15-4cf1-9734-b65944c73757 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
+| 87 | Zoox | Senior/Staff Network Security Engineer | 9945ef61-1c15-4cf1-9734-b65944c73757 | 2026-09-07 | 불합격 | 서류 탈락 | explicit Zoox rejection 2026-09-24 13:07 PT; decision email names the role `Senior Network Security Engineer`, matching this senior network-security application |
 | 88 | Zoox | Senior Software Systems Engineer - Security | f8150234-1695-4ed9-a820-c81e66ca693a | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 89 | Grow Therapy | Senior/Staff Security Engineer, Incident Response | fa101721-1fba-42ae-a949-5389e82e11c0 | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | — |
 | 90 | Serval | Security Engineer, Detection and Response | 5250c679-d490-407e-bd2e-b8b160c62aac | 2026-09-07 | 미정 | 지원 완료 / 검토 중 | repeat confirmation 2026-09-16 22:18 PT; no distinct req verified |
@@ -305,7 +315,7 @@
 | 143 | FieldAI | Infrastructure Security Engineer | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:18 PT |
 | 144 | Palo Alto Networks | Principal Security Researcher | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 11:37 PT |
 | 145 | Palo Alto Networks | Principal Software Engineer in Test (Cloud Security Services) | 미확인 | 2026-09-10 | 미정 | 서류 탈락 | explicit rejection email 2026-09-21 00:01 PT; employer pursued other candidates |
-| 146 | Amazon | Security Engineer II, Stores AppSec | 10524054 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | explicit received 2026-09-10 14:11 PT |
+| 146 | Amazon | Security Engineer II, Stores AppSec | 10524054 | 2026-09-10 | 불합격 | 서류 탈락 | explicit Amazon non-selection email 2026-09-24 09:38 PT; progressed with other candidates |
 | 147 | Palo Alto Networks | Sr. Principal Engineer Software - Security & Detections | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 18:22 PT |
 | 148 | Palo Alto Networks | Senior Staff Security Architect (Information Security) - Bay Area | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 18:24 PT |
 | 149 | Stripe | Cloud Security Engineer | 미확인 | 2026-09-10 | 불합격 | 서류 탈락 | decision 2026-09-14 06:01 PT |
@@ -320,7 +330,7 @@
 | 158 | Anaplan | Security Engineer III | 미확인 | 2026-09-10 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-10 23:30 PT |
 | 159 | Palo Alto Networks | Principal Software Engineer - Network Security - PanOS | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 08:45 PT |
 | 160 | Abridge | Senior/Staff Application Security Engineer | 미확인 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-16 11:04 PT |
-| 161 | Amazon | Security Engineer, AWS AppSec | 10507091 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | explicit received 2026-09-11 09:24 PT |
+| 161 | Amazon | Security Engineer, AWS AppSec | 10507091 | 2026-09-11 | 미정 | 공고 종료 — 결과 미확인 | explicit Amazon email 2026-09-24 12:36 PT: position no longer available; not treated as merit rejection |
 | 162 | Skild AI | 미확인 | 미확인 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | generic receipt 2026-09-11 13:24 PT; role not stated, do not infer |
 | 163 | Tesla | Embedded Security Engineer | 226451 | 2026-09-11 | 불합격 | 서류 탈락 | decision 2026-09-15 11:00 PT |
 | 164 | Microsoft | Principal Security Engineer | 200044763 | 2026-09-11 | 미정 | 지원 완료 / 검토 중 | receipt 2026-09-11 13:41 PT |
@@ -364,8 +374,8 @@
 | 200 | Anthropic | Applied AI Architect, Cyber | 5387733008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 94; $240K-$315K salary; sponsorship stated |
 | 201 | Anthropic | Staff+ Researcher, Cybersecurity Products | 5385217008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 87; $405K-$485K salary; sponsorship stated |
 | 202 | Anthropic | Staff+ Software Engineer, Safeguards | 4951844008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 85; $320K-$485K salary; sponsorship stated |
-| 203 | Anthropic | Security Engineer, Corporate Security | 5397319008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 81 expansion candidate; $320K-$405K salary; sponsorship stated |
-| 204 | Anthropic | Staff+ Software Engineer, Account Abuse | 5123039008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 88; $320K-$485K salary; sponsorship stated |
+| 203 | Anthropic | Security Engineer, Corporate Security | 5397319008 | 2026-09-20 | 불합격 | 서류 탈락 | explicit Anthropic rejection 2026-09-24 15:04 PT |
+| 204 | Anthropic | Staff+ Software Engineer, Account Abuse | 5123039008 | 2026-09-20 | 불합격 | 서류 탈락 | explicit Anthropic rejection 2026-09-24 17:21 PT |
 | 205 | Anthropic | ML/Research Engineer, Safeguards | 4949336008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 82 expansion candidate; $350K-$500K salary; sponsorship stated |
 | 206 | Anthropic | Staff+ Software Engineer, Safeguards Human Review Tooling | 5342935008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86; $320K-$485K salary; sponsorship stated |
 | 207 | Anthropic | Research Engineer, Model Evaluations | 5198255008 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 80 expansion candidate; $500K-$850K salary; sponsorship stated |
@@ -405,9 +415,9 @@
 | 241 | NVIDIA | Senior Network Security Architect | JR2025110 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 16:51 PT; review pending |
 | 242 | Candid Health | Principal Security Engineer | 미확인 | 2026-09-04 | 미정 | 상태 불명 | explicit application receipt 2026-09-04 01:14 PT; Candid sent one generic rejection on 2026-09-14 08:03 PT without a role name; exact mapping between the two Candid applications is unverified |
 | 243 | NVIDIA | Senior Product Security Lead – NVIDIA Jetson | JR2025433 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit NVIDIA application receipt 2026-09-20 21:00 PT; review pending |
-| 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:07 PT; review pending |
+| 244 | Amazon | Security Engineer – Sec Escalations, Security Escalations | 10503539 | 2026-09-20 | 미정 | 공고 종료 — 결과 미확인 | explicit Amazon email 2026-09-24 12:54 PT: position no longer available; not treated as merit rejection |
 | 245 | Amazon | Security Engineer, Amazon Photos | 10481721 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | explicit Amazon success page 2026-09-20 21:09 PT; review pending |
-| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Amazon portal: `Under consideration`, verified 2026-09-21 |
+| 246 | Amazon | Senior Security Engineer, Corporate Services Security | 10480747 | 2026-09-20 | 미정 | 인터뷰 1 예정 | explicit Amazon phone-interview invitation 2026-09-24 12:08 PT; availability requested, exact interview date/time not yet confirmed; recruiter Kyisha Boyd; Boston or Seattle role; prep materials received |
 | 247 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055868 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 94; U.S. remote; $142.8K-$274.8K base, Bay Area $188K-$304.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 248 | Microsoft | Principal Security Engineer — Microsoft Red Team | 200055865 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 93; U.S. remote; $165.6K-$296.4K base, Bay Area $220.8K-$331.2K; sponsorship likely; Government Official form requested 2026-09-21, action required |
 | 249 | Microsoft | Security Researcher — AI Red Team | 200046267 | 2026-09-20 | 미정 | 지원 완료 / 검토 중 | Microsoft submission success verified 2026-09-20; Cybersecurity base resume; fit 95; Redmond hybrid; $102.1K-$202.2K base plus additional compensation; sponsorship likely |
@@ -475,16 +485,16 @@
 | 311 | Tesla | Sr. Network Engineer, Network Operations, Data Center | 275716 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 90; $168K-$300K base plus cash/stock |
 | 312 | Tesla | Staff Wireless Network Engineer, Network Engineering | 260012 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 86; $120K-$396K base plus cash/stock |
 | 313 | Tesla | Sr. Software Engineer, Traffic Engineering | 265598 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 87 |
-| 314 | Tesla | Sr. Wireless Linux Kernel Software Engineer | 277931 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 80 expansion candidate; direct Linux-kernel/Yocto maintenance depth is a gap; $168K-$300K base plus cash/stock |
+| 314 | Tesla | Sr. Wireless Linux Kernel Software Engineer | 277931 | 2026-09-21 | 불합격 | 서류 탈락 | explicit Tesla rejection 2026-09-24 09:45 PT |
 | 315 | Tesla | Firmware Engineer, AI Linux Systems | 278582 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 86; $140K-$360K base plus cash/stock |
 | 316 | Tesla | Software Engineer, Linux Kernel, Tesla AI | 278580 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 82 expansion candidate; direct kernel-driver and SoC bring-up depth are gaps; $140K-$360K base plus cash/stock |
 | 317 | Tesla | Software Engineer, C++ Generalist, AI Systems & Infrastructure | 278581 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 87; $140K-$360K base plus cash/stock |
-| 318 | Tesla | Platform Firmware Engineer, AI Data Center | 280583 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; AI base resume; fit 82 expansion candidate; PCIe Gen4-6 and kernel-driver depth are gaps; $160K-$414K base plus cash/stock |
+| 318 | Tesla | Platform Firmware Engineer, AI Data Center | 280583 | 2026-09-21 | 불합격 | 서류 탈락 | explicit Tesla rejection 2026-09-24 08:45 PT |
 | 319 | Tesla | Sr. Embedded Linux Software Engineer, Energy Products | 255272 | 2026-09-21 | 불합격 (2026-09-23) | 서류 탈락 | explicit Tesla non-selection email 2026-09-23 15:00 PT; Gmail `1a0d048f8188034e` |
 | 320 | Tesla | Software Engineer, Firmware Platforms, Vehicle Software | 277006 | 2026-09-21 | 불합격 (2026-09-23) | 서류 탈락 | explicit Tesla non-selection email 2026-09-23 17:00 PT; Gmail `1a0d0b68dc53de54` |
-| 321 | Tesla | Embedded Firmware Engineer, Reliability & Test | 256903 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 82 expansion candidate; motor-control/PCBA depth is a gap; $104K-$222K base plus cash/stock |
-| 322 | Tesla | Embedded Software Engineer, Reliability & Test | 260562 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 81 expansion candidate; RTOS/PCBA lab depth is a gap; $100K-$216K base plus cash/stock |
-| 323 | Tesla | Sr. Embedded Firmware Engineer, Energy BMS | 247151 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Cybersecurity base resume; fit 84 expansion candidate; BMS/FMEA and board bring-up depth are gaps; $140K-$300K base plus cash/stock |
+| 321 | Tesla | Embedded Firmware Engineer, Reliability & Test | 256903 | 2026-09-21 | 불합격 | 서류 탈락 | explicit Tesla rejection 2026-09-24 10:15 PT |
+| 322 | Tesla | Embedded Software Engineer, Reliability & Test | 260562 | 2026-09-21 | 불합격 | 서류 탈락 | explicit Tesla rejection 2026-09-24 10:15 PT |
+| 323 | Tesla | Sr. Embedded Firmware Engineer, Energy BMS | 247151 | 2026-09-21 | 불합격 | 서류 탈락 | explicit Tesla rejection 2026-09-24 08:00 PT |
 | 324 | Tesla | Software Engineer, Body Controls & Authentication Validation, Vehicle Software | 282615 | 2026-09-21 | 불합격 (2026-09-23) | 서류 탈락 | explicit Tesla non-selection email 2026-09-23 19:30 PT; Gmail `1a0d13ff12d1e182` |
 | 325 | Tesla | Lead Staff Wireless Network Engineer | 279064 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 80 expansion candidate; enterprise RF survey and wireless-team leadership depth are gaps; $120K-$396K base plus cash/stock |
 | 326 | Tesla | Network Circuit Engineer | 282144 | 2026-09-21 | 미정 | 지원 완료 / 검토 중 | Tesla application received page verified; Network base resume; fit 81 expansion candidate; carrier circuit turn-up and optical test-equipment depth are gaps; $140K-$252K base plus cash/stock |
@@ -522,7 +532,7 @@
 | 358 | Waymo | Senior Systems Engineer, Vehicle Security | 7974252 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Network base resume; fit 86 |
 | 359 | Zscaler | Staff Software Engineer - AI Security (Go/Rust/Python) | 5202464007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; AI base resume; fit 86 |
 | 360 | Zscaler | Senior Information Security Engineer | 5235296007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 82 expansion candidate; exact production security-platform scope is a gap |
-| 361 | Zscaler | Insider Risk Security Engineer | 5208421007 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Cybersecurity base resume; fit 80 expansion candidate; direct enterprise insider-risk/DLP ownership is a gap |
+| 361 | Zscaler | Insider Risk Security Engineer | 5208421007 | 2026-09-22 | 불합격 | 서류 탈락 | explicit Zscaler rejection 2026-09-24 11:04 PT |
 | 362 | Cerebras Systems | Distributed Systems Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:17 PT; requisition not stated |
 | 363 | Logos Space | Lead Security Architect – Cloud Platform & Network Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
 | 364 | Logos Space | Lead Security Engineering - Terminals | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:19 PT; requisition not stated |
@@ -535,7 +545,7 @@
 | 371 | Crusoe | Staff Corporate Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:28 PT; requisition not stated |
 | 372 | Commure | Senior Application Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:40 PT; requisition not stated |
 | 373 | Commure | Senior Software Engineer, PIE | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:43 PT; requisition not stated |
-| 374 | Commure | Senior Software Engineer, Air AI | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:45 PT; requisition not stated |
+| 374 | Commure | Senior Software Engineer, Air AI | 미확인 | 2026-09-22 | 불합격 | 서류 탈락 | explicit Commure rejection 2026-09-24 15:10 PT |
 | 375 | Opal Security | Application Security Engineer | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:48 PT; requisition not stated |
 | 376 | Nectar Social | Senior Software Engineer, Security | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:50 PT; requisition not stated |
 | 377 | Genesis AI | MTS, Security Engineer (US) | 미확인 | 2026-09-22 | 미정 | 지원 완료 / 검토 중 | UC Davis Ashby application receipt 15:52 PT; requisition not stated |
@@ -554,8 +564,8 @@
 | 390 | Affirm | Staff Security Engineer, Enterprise AI | 7994553003 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 89; current Cybersecurity resume and original cover letter uploaded; current sponsorship No and future sponsorship Yes |
 | 391 | AlphaSense | Senior Product Security Engineer | 8435357002 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Remote US; fit 91; current Cybersecurity resume and original cover letter uploaded |
 | 392 | Aircall | Senior Security Engineer, Detection & Response | 4396290009 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco hybrid; fit 86; F-1 practical-training and future H-1B sponsorship context disclosed |
-| 393 | Astranis | Senior Product Security Engineer (Applications) | 4667349006 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco onsite; fit 88; export-control status `None of the above`; never held a clearance |
-| 394 | Astranis | Product Security Engineer | 4667335006 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; San Francisco onsite; fit 84 expansion candidate; direct embedded secure-element ownership is a gap; export-control status `None of the above` |
+| 393 | Astranis | Senior Product Security Engineer (Applications) | 4667349006 | 2026-09-23 | 불합격 | 서류 탈락 | Astranis sent two separate explicit compliance-based rejection emails at 2026-09-24 09:00 PT for the two active Astranis applications; email body omits role title, but both tracked Astranis applications received corresponding non-selection notices |
+| 394 | Astranis | Product Security Engineer | 4667335006 | 2026-09-23 | 불합격 | 서류 탈락 | Astranis sent two separate explicit compliance-based rejection emails at 2026-09-24 09:00 PT for the two active Astranis applications; email body omits role title, but both tracked Astranis applications received corresponding non-selection notices |
 | 395 | BitGo | Senior Security Application Engineer | 8811580002 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Palo Alto five-day onsite; fit 81 expansion candidate; direct Web3 and production Kubernetes security ownership are gaps |
 | 396 | Obsidian Security | Software Engineer - AI Security Product | 5290880008 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; Palo Alto; fit 80 expansion candidate; production backend/cloud data-platform depth and level calibration are risks; Bay Area residence answered No |
 | 397 | CLEAR | Senior Product Security Engineer | 8042362 | 2026-09-23 | 미정 | 지원 완료 / 검토 중 | Greenhouse confirmation verified; New York City five-day onsite; fit 86; relocation/onsite accepted; sponsorship Yes |
@@ -599,6 +609,8 @@
 | 435 | Elsevier | Senior Incident Response Engineer - Cyber Security | 4469004989 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state and Applied timestamp verified; Philadelphia hybrid; fit 91; incident triage, scoping, containment, root-cause analysis, malware/CTI, reporting and Python/Java automation align |
 | 436 | TikTok | Senior Security Software Engineer, Insider Risk - Global Security Organization | 4469039577 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; San Jose onsite; fit 88; Python, threat intelligence, detection engineering, technical reporting and security automation align; direct large-scale insider-risk platform ownership is the principal gap; work authorization Yes and sponsorship Yes |
 | 437 | ADP | Sr. Lead Threat Detection Engineer | 4459951152 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; Roseland, NJ hybrid; fit 86; $107.4K–$264.3K base; CTI, threat hunting, incident response, Python automation and detection leadership align; production SIEM/SOAR engineering depth is the principal gap |
+| 438 | Panorama Education | Senior AI Security Engineer | 5913388 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | explicit Workable submission confirmation 2026-09-24 20:03 PT plus recruiting acknowledgement 20:06 PT |
+| 439 | BILL | Sr. Staff AI Security Engineer | 미확인 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | explicit BILL application acknowledgement 2026-09-24 20:10 PT; recruiter will contact if selected |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
