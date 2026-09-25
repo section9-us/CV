@@ -4,9 +4,9 @@
 
 ## Current portfolio — updated 2026-09-24 09:45 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 424**
+- **Tracked submitted applications: 427**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 327**
+- **지원 완료 / 검토 중: 330**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -586,6 +586,9 @@
 | 422 | Addepar | Staff AI Security Engineer | 4453319851 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn Easy Apply explicit sent confirmation verified; Mountain View / Remote; fit 91; current Cybersecurity resume and original cover letter uploaded; work authorization without sponsorship/EAD answered No, consistent with current unissued EAD and future sponsorship requirement |
 | 423 | Charger Logistics Inc. | Senior Cybersecurity Engineer | 4471623328 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn Easy Apply explicit sent confirmation verified; Texas remote; fit 85; IR, threat detection, vulnerability management, network/cloud security, and automation align; production Sentinel/Defender XDR/KQL depth is the main gap; UC Davis dates corrected to Sep 2025–Mar 2027 |
 | 424 | Soho Square Solutions | Product Security Engineer | 4469751971 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; San Diego onsite contract; fit 82 expansion candidate; embedded/cloud/AppSec lifecycle aligns, while FDA 510(k), medical-device security, and production DevSecOps ownership are gaps; factual experience answers: IT 11 years, 510(k) 0, cybersecurity 8, DevSecOps 0 |
+| 425 | ByLabs | AI Red Team Engineer | 4467112681 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; San Francisco Bay Area hybrid; fit 94; APT emulation, penetration testing, threat intelligence, Python, and AI/LLM attack-surface research strongly align; work authorization Yes and future sponsorship Yes |
+| 426 | Namespace | Security Engineer | 41599db0-2a55-4d97-bc92-62636eb3c5bd | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified after discovery through LinkedIn; San Francisco hybrid; fit 88; $200K–$250K base plus equity; current Cybersecurity resume uploaded and factual recent technical-work response emphasized CTI, AI-assisted research, and security advisories |
+| 427 | Programmers.io | Threat & Security Incident Response Specialist | 4470061025 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; Remote US; fit 89; threat intelligence, APT/TTP analysis, incident response, threat hunting, reporting, and Python align; Splunk production depth is the principal gap |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
