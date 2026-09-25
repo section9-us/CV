@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-25 09:28 PT; latest UC Davis mailbox status audit 2026-09-25 05:57 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-25 09:43 PT; latest UC Davis mailbox status audit 2026-09-25 05:57 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 460**
+- **Tracked submitted applications: 461**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 345**
+- **지원 완료 / 검토 중: 346**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 93**
@@ -638,6 +638,7 @@
 | 458 | Prestige Staffing | Senior Automation & Cybersecurity Engineer | 4450164317 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; Plano, TX hybrid contract; fit 84 expansion candidate; AI-assisted SOC automation, Python, threat detection and incident response align; production Microsoft Sentinel/Defender XDR/Logic Apps ownership is the principal gap |
 | 459 | NJF Global Holdings Ltd | Security Software Engineer (IAM & Application Security) | 4472023121 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; New York City onsite; fit 89; $250K–$350K salary and $400K–$750K stated total compensation; Python, software engineering, AppSec, vulnerability management, automation and incident response strongly align; large-scale production IAM ownership is the principal gap; work authorization Yes |
 | 460 | CLEAR | Senior Product Security Engineer | 4453187872 | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | LinkedIn/Greenhouse submission verified; New York City onsite five days; fit 90; product/AppSec, threat modeling, architecture review, secure SDLC, vulnerability remediation and engineering leadership align; direct CI/CD security-control ownership at scale is the principal gap; work authorization Yes and future sponsorship Yes |
+| 461 | WorkOS | Product Security Engineer | 31b8c9a3-149c-491f-8bec-cbb5f18d575b | 2026-09-25 | 미정 | 지원 완료 / 검토 중 | Ashby confirmation verified; US & Canada remote; fit 91; $175K–$275K base plus equity; product security, secure SDLC, code review, vulnerability remediation, penetration testing and incident response align; direct large-scale SaaS/cloud security ownership is the principal gap; work authorization Yes and future sponsorship Yes |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
