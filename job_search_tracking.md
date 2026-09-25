@@ -2,11 +2,11 @@
 
 > Canonical current-state tracker. Historical verbose application runs and screening notes are preserved in Git history / `tracker-history-2026-09-07`.
 
-## Current portfolio — updated 2026-09-24 09:45 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
+## Current portfolio — updated 2026-09-24 19:31 PT; latest UC Davis mailbox status audit 2026-09-24 05:58 PT (America/Los_Angeles)
 
-- **Tracked submitted applications: 427**
+- **Tracked submitted applications: 437**
 - **Decagon — Senior Software Engineer, Application Security / 9cf2db48-bfc8-4819-874c-785925bdfb86:** User approved this exact application and final submission was attempted on 2026-09-23, but the portal displayed `We couldn't submit your application` because of its application-volume limit. **Not submitted; do not count or retry unchanged.**
-- **지원 완료 / 검토 중: 330**
+- **지원 완료 / 검토 중: 340**
 - **초기 사전심사 (포털): 1**
 - **서류 합격: 1**
 - **서류 탈락: 78**
@@ -589,6 +589,16 @@
 | 425 | ByLabs | AI Red Team Engineer | 4467112681 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; San Francisco Bay Area hybrid; fit 94; APT emulation, penetration testing, threat intelligence, Python, and AI/LLM attack-surface research strongly align; work authorization Yes and future sponsorship Yes |
 | 426 | Namespace | Security Engineer | 41599db0-2a55-4d97-bc92-62636eb3c5bd | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | Ashby success page verified after discovery through LinkedIn; San Francisco hybrid; fit 88; $200K–$250K base plus equity; current Cybersecurity resume uploaded and factual recent technical-work response emphasized CTI, AI-assisted research, and security advisories |
 | 427 | Programmers.io | Threat & Security Incident Response Specialist | 4470061025 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; Remote US; fit 89; threat intelligence, APT/TTP analysis, incident response, threat hunting, reporting, and Python align; Splunk production depth is the principal gap |
+| 428 | Mindlance | Senior Application Security Engineer | 4470611889 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn application-submitted state verified; Dallas / remote contract; fit 90; $72/hr and posting explicitly open to sponsorship; AppSec, SAST/SCA/secrets, secure SDLC, threat modeling, code review, OWASP/CIS/NIST align |
+| 429 | Smart IT Frame LLC | Application Security Engineer | 4470013723 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn explicit sent confirmation verified; Berkeley Heights, NJ onsite contract; fit 83 expansion candidate; SAST/DAST/SCA, secure SDLC, Python and shell align, while production DevSecOps/tool ownership is a gap; factual answers: AppSec 8 years, DevOps 0, GitHub 0 |
+| 430 | RedStream Technology | Application Security Engineer | 4466404232 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn explicit sent confirmation verified; Charlotte / New York hybrid contract; fit 89; AppSec tooling, AI-assisted triage, multi-language engineering and CI/CD align; hybrid Yes, AppSec 8 years, future sponsorship Yes |
+| 431 | High Trail | Application Security Engineer III | 4470986440 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn explicit sent confirmation verified; Arlington, VA hybrid; fit 90; AppSec, security automation, Python/Java, SAST/DAST/SCA/IaC/container/API security align; hands-on cloud-native AWS/Kubernetes/Docker/CI/CD answer No |
+| 432 | Xcede | Product Security Engineer | 4470021978 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; San Francisco Bay Area onsite; fit 92; $160K–$200K base; AI-agent threat modeling, detections, policy/enforcement, incident response, CTI and security tooling strongly align |
+| 433 | Insight Global | Product Security Engineer, AI Applications | 4469493287 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; US remote; fit 94; $70–$80/hr; AI/ML security, threat modeling, AppSec assessments, secure development and Python automation strongly align; work authorization Yes and future sponsorship Yes |
+| 434 | Insight Global | Product Security Engineer | 4469335553 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; North Reading, MA onsite then hybrid contract; fit 88; $70–$85/hr; threat modeling, vulnerability analysis, IR, static analysis, penetration testing and C/C++ align; ISO 27001 direct experience answered 0 |
+| 435 | Elsevier | Senior Incident Response Engineer - Cyber Security | 4469004989 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state and Applied timestamp verified; Philadelphia hybrid; fit 91; incident triage, scoping, containment, root-cause analysis, malware/CTI, reporting and Python/Java automation align |
+| 436 | TikTok | Senior Security Software Engineer, Insider Risk - Global Security Organization | 4469039577 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; San Jose onsite; fit 88; Python, threat intelligence, detection engineering, technical reporting and security automation align; direct large-scale insider-risk platform ownership is the principal gap; work authorization Yes and sponsorship Yes |
+| 437 | ADP | Sr. Lead Threat Detection Engineer | 4459951152 | 2026-09-24 | 미정 | 지원 완료 / 검토 중 | LinkedIn post-apply success state verified; Roseland, NJ hybrid; fit 86; $107.4K–$264.3K base; CTI, threat hunting, incident response, Python automation and detection leadership align; production SIEM/SOAR engineering depth is the principal gap |
 
 ### NVIDIA / Meta / Tesla application sweep — 2026-09-22 18:30 PT
 
